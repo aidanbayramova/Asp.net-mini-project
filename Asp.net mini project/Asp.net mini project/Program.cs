@@ -1,7 +1,22 @@
+using Asp.net_mini_project.Data;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+var conString = builder.Configuration.GetConnectionString("Default") ??
+     throw new InvalidOperationException("Connection string 'Default'" +
+    " not found.");
+
+
+
+
+builder.Services.AddDbContext<AppDbContext>(options =>
+    options.UseSqlServer(conString));
+
+
 
 var app = builder.Build();
 
