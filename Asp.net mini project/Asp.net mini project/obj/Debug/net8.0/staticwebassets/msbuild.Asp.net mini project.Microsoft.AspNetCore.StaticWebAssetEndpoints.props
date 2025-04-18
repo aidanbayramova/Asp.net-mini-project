@@ -1,5 +1,701 @@
 ﻿<Project>
   <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/css/bootstrap.min.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\css\bootstrap.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-eSi1q2PG6J7g7ib17yAaWMcrr5GrtohYChqibrV7PBE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"140936"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022eSi1q2PG6J7g7ib17yAaWMcrr5GrtohYChqibrV7PBE=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/css/bootstrap.min.z5jyisouil.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\css\bootstrap.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"z5jyisouil"},{"Name":"integrity","Value":"sha256-eSi1q2PG6J7g7ib17yAaWMcrr5GrtohYChqibrV7PBE="},{"Name":"label","Value":"_content/Asp.net mini project/admin/css/bootstrap.min.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"140936"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022eSi1q2PG6J7g7ib17yAaWMcrr5GrtohYChqibrV7PBE=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/css/fontawesome.min.412dmwne27.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\css\fontawesome.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"412dmwne27"},{"Name":"integrity","Value":"sha256-iJGhYPiir7gd5SWfn2jlrzeCNI6iknrZ6Wm8iMfTmYQ="},{"Name":"label","Value":"_content/Asp.net mini project/admin/css/fontawesome.min.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"46930"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022iJGhYPiir7gd5SWfn2jlrzeCNI6iknrZ6Wm8iMfTmYQ=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/css/fontawesome.min.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\css\fontawesome.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-iJGhYPiir7gd5SWfn2jlrzeCNI6iknrZ6Wm8iMfTmYQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"46930"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022iJGhYPiir7gd5SWfn2jlrzeCNI6iknrZ6Wm8iMfTmYQ=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/css/fullcalendar.min.alhx6c6hi5.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\css\fullcalendar.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"alhx6c6hi5"},{"Name":"integrity","Value":"sha256-Tu3DN\u002B5kwrhzlzhNUMuGht2h7cR6ARgKcYemB9u5SzA="},{"Name":"label","Value":"_content/Asp.net mini project/admin/css/fullcalendar.min.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"16066"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022Tu3DN\u002B5kwrhzlzhNUMuGht2h7cR6ARgKcYemB9u5SzA=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/css/fullcalendar.min.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\css\fullcalendar.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Tu3DN\u002B5kwrhzlzhNUMuGht2h7cR6ARgKcYemB9u5SzA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"16066"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022Tu3DN\u002B5kwrhzlzhNUMuGht2h7cR6ARgKcYemB9u5SzA=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/css/tooplate.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\css\tooplate.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-BMguFVoIPGzMtZwrNARLAOd/aUE36ON2kWidfBvbC0Q="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"7913"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022BMguFVoIPGzMtZwrNARLAOd/aUE36ON2kWidfBvbC0Q=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 11:39:04 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/css/tooplate.s846t8sz84.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\css\tooplate.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"s846t8sz84"},{"Name":"integrity","Value":"sha256-BMguFVoIPGzMtZwrNARLAOd/aUE36ON2kWidfBvbC0Q="},{"Name":"label","Value":"_content/Asp.net mini project/admin/css/tooplate.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"7913"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022BMguFVoIPGzMtZwrNARLAOd/aUE36ON2kWidfBvbC0Q=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 11:39:04 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/img/dash-bg-01.7tyzr6gil9.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\img\dash-bg-01.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"7tyzr6gil9"},{"Name":"integrity","Value":"sha256-BRJYKwvxi4W6wsjA\u002B37nOHAK3G2rZ8ZvTGa4P15OIaE="},{"Name":"label","Value":"_content/Asp.net mini project/admin/img/dash-bg-01.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"219124"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022BRJYKwvxi4W6wsjA\u002B37nOHAK3G2rZ8ZvTGa4P15OIaE=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/img/dash-bg-01.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\img\dash-bg-01.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-BRJYKwvxi4W6wsjA\u002B37nOHAK3G2rZ8ZvTGa4P15OIaE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"219124"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022BRJYKwvxi4W6wsjA\u002B37nOHAK3G2rZ8ZvTGa4P15OIaE=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/img/dash-bg-02.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\img\dash-bg-02.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-xzTbVQIgkajS9s7ET4MTMO/zjcjdfX\u002BOIuZAWITa5GY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"290350"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022xzTbVQIgkajS9s7ET4MTMO/zjcjdfX\u002BOIuZAWITa5GY=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/img/dash-bg-02.tv0j4f6nrp.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\img\dash-bg-02.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"tv0j4f6nrp"},{"Name":"integrity","Value":"sha256-xzTbVQIgkajS9s7ET4MTMO/zjcjdfX\u002BOIuZAWITa5GY="},{"Name":"label","Value":"_content/Asp.net mini project/admin/img/dash-bg-02.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"290350"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022xzTbVQIgkajS9s7ET4MTMO/zjcjdfX\u002BOIuZAWITa5GY=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/img/dash-bg-03.8n807ugd5g.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\img\dash-bg-03.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"8n807ugd5g"},{"Name":"integrity","Value":"sha256-xAoiB0spk4teUbtq0mDAdRjjG6GJSJtSp6iU825M83o="},{"Name":"label","Value":"_content/Asp.net mini project/admin/img/dash-bg-03.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"376921"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022xAoiB0spk4teUbtq0mDAdRjjG6GJSJtSp6iU825M83o=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/img/dash-bg-03.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\img\dash-bg-03.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-xAoiB0spk4teUbtq0mDAdRjjG6GJSJtSp6iU825M83o="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"376921"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022xAoiB0spk4teUbtq0mDAdRjjG6GJSJtSp6iU825M83o=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/img/New Year.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\img\New Year.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-zdx3F7FF2TCCp\u002B\u002BM8dArTtocOUBYJ\u002B74sP8GT7Y85eU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"122077"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022zdx3F7FF2TCCp\u002B\u002BM8dArTtocOUBYJ\u002B74sP8GT7Y85eU=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 11:29:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/img/New Year.nfkzpm0s1d.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\img\New Year.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"nfkzpm0s1d"},{"Name":"integrity","Value":"sha256-zdx3F7FF2TCCp\u002B\u002BM8dArTtocOUBYJ\u002B74sP8GT7Y85eU="},{"Name":"label","Value":"_content/Asp.net mini project/admin/img/New Year.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"122077"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022zdx3F7FF2TCCp\u002B\u002BM8dArTtocOUBYJ\u002B74sP8GT7Y85eU=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 11:29:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/img/product-image.hnojqlqxcx.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\img\product-image.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"hnojqlqxcx"},{"Name":"integrity","Value":"sha256-jbEFgsjOQsZ/b/THceMWJt54CUeB6rLtYxKp8ZGUel4="},{"Name":"label","Value":"_content/Asp.net mini project/admin/img/product-image.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"57778"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022jbEFgsjOQsZ/b/THceMWJt54CUeB6rLtYxKp8ZGUel4=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/img/product-image.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\img\product-image.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-jbEFgsjOQsZ/b/THceMWJt54CUeB6rLtYxKp8ZGUel4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"57778"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022jbEFgsjOQsZ/b/THceMWJt54CUeB6rLtYxKp8ZGUel4=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/img/profile-image.ljoq8y7dsh.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\img\profile-image.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ljoq8y7dsh"},{"Name":"integrity","Value":"sha256-wX7M84Mf3xdfr/p7DMvbmzSaIDUC1hMtdVQdNaku2ms="},{"Name":"label","Value":"_content/Asp.net mini project/admin/img/profile-image.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"109947"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022wX7M84Mf3xdfr/p7DMvbmzSaIDUC1hMtdVQdNaku2ms=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/img/profile-image.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\img\profile-image.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-wX7M84Mf3xdfr/p7DMvbmzSaIDUC1hMtdVQdNaku2ms="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"109947"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022wX7M84Mf3xdfr/p7DMvbmzSaIDUC1hMtdVQdNaku2ms=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/jquery-ui-datepicker/AUTHORS.tqif9uzyy2.txt">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\jquery-ui-datepicker\AUTHORS.txt'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"tqif9uzyy2"},{"Name":"integrity","Value":"sha256-W2Lh1mbGo3Owc0oXX9U1\u002BTFVSZYaC72KvSRrrRp3UII="},{"Name":"label","Value":"_content/Asp.net mini project/admin/jquery-ui-datepicker/AUTHORS.txt"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"12660"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022W2Lh1mbGo3Owc0oXX9U1\u002BTFVSZYaC72KvSRrrRp3UII=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/jquery-ui-datepicker/AUTHORS.txt">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\jquery-ui-datepicker\AUTHORS.txt'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-W2Lh1mbGo3Owc0oXX9U1\u002BTFVSZYaC72KvSRrrRp3UII="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"12660"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022W2Lh1mbGo3Owc0oXX9U1\u002BTFVSZYaC72KvSRrrRp3UII=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/jquery-ui-datepicker/external/jquery/jquery.5a5gqan19u.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\jquery-ui-datepicker\external\jquery\jquery.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"5a5gqan19u"},{"Name":"integrity","Value":"sha256-Qw82\u002BbXyGq6MydymqBxNPYTaUXXq7c8v3CwiYwLLNXU="},{"Name":"label","Value":"_content/Asp.net mini project/admin/jquery-ui-datepicker/external/jquery/jquery.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"293430"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022Qw82\u002BbXyGq6MydymqBxNPYTaUXXq7c8v3CwiYwLLNXU=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/jquery-ui-datepicker/external/jquery/jquery.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\jquery-ui-datepicker\external\jquery\jquery.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Qw82\u002BbXyGq6MydymqBxNPYTaUXXq7c8v3CwiYwLLNXU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"293430"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022Qw82\u002BbXyGq6MydymqBxNPYTaUXXq7c8v3CwiYwLLNXU=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/jquery-ui-datepicker/images/ui-bg_glass_75_d0e5f5_1x400.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\jquery-ui-datepicker\images\ui-bg_glass_75_d0e5f5_1x400.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-lkwaN2/FtCHJDjXM5m5K02c/dlPIABFMTILCaKTjD0k="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"336"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022lkwaN2/FtCHJDjXM5m5K02c/dlPIABFMTILCaKTjD0k=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/jquery-ui-datepicker/images/ui-bg_glass_75_d0e5f5_1x400.yqim7l5us4.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\jquery-ui-datepicker\images\ui-bg_glass_75_d0e5f5_1x400.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"yqim7l5us4"},{"Name":"integrity","Value":"sha256-lkwaN2/FtCHJDjXM5m5K02c/dlPIABFMTILCaKTjD0k="},{"Name":"label","Value":"_content/Asp.net mini project/admin/jquery-ui-datepicker/images/ui-bg_glass_75_d0e5f5_1x400.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"336"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022lkwaN2/FtCHJDjXM5m5K02c/dlPIABFMTILCaKTjD0k=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/jquery-ui-datepicker/images/ui-bg_glass_85_dfeffc_1x400.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\jquery-ui-datepicker\images\ui-bg_glass_85_dfeffc_1x400.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-tW\u002BuuKDghUoC9IxUI0voU8oWVYN\u002BG/fy/f2qw12fwgU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"341"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022tW\u002BuuKDghUoC9IxUI0voU8oWVYN\u002BG/fy/f2qw12fwgU=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/jquery-ui-datepicker/images/ui-bg_glass_85_dfeffc_1x400.pr1bqecqoi.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\jquery-ui-datepicker\images\ui-bg_glass_85_dfeffc_1x400.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"pr1bqecqoi"},{"Name":"integrity","Value":"sha256-tW\u002BuuKDghUoC9IxUI0voU8oWVYN\u002BG/fy/f2qw12fwgU="},{"Name":"label","Value":"_content/Asp.net mini project/admin/jquery-ui-datepicker/images/ui-bg_glass_85_dfeffc_1x400.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"341"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022tW\u002BuuKDghUoC9IxUI0voU8oWVYN\u002BG/fy/f2qw12fwgU=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/jquery-ui-datepicker/images/ui-bg_glass_95_fef1ec_1x400.2m2jlxweor.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\jquery-ui-datepicker\images\ui-bg_glass_95_fef1ec_1x400.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"2m2jlxweor"},{"Name":"integrity","Value":"sha256-\u002BmxUszQR2/57UlzRsmFzhOg50dv1Thw6Mxz99tTBi/g="},{"Name":"label","Value":"_content/Asp.net mini project/admin/jquery-ui-datepicker/images/ui-bg_glass_95_fef1ec_1x400.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"332"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022\u002BmxUszQR2/57UlzRsmFzhOg50dv1Thw6Mxz99tTBi/g=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/jquery-ui-datepicker/images/ui-bg_glass_95_fef1ec_1x400.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\jquery-ui-datepicker\images\ui-bg_glass_95_fef1ec_1x400.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-\u002BmxUszQR2/57UlzRsmFzhOg50dv1Thw6Mxz99tTBi/g="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"332"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022\u002BmxUszQR2/57UlzRsmFzhOg50dv1Thw6Mxz99tTBi/g=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/jquery-ui-datepicker/images/ui-bg_gloss-wave_55_5c9ccc_500x100.lnje5oabqb.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\jquery-ui-datepicker\images\ui-bg_gloss-wave_55_5c9ccc_500x100.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"lnje5oabqb"},{"Name":"integrity","Value":"sha256-/7\u002BM5YW7kVrR1oIvDpWizv/Ter9SxFYOXh/oFOHWaM8="},{"Name":"label","Value":"_content/Asp.net mini project/admin/jquery-ui-datepicker/images/ui-bg_gloss-wave_55_5c9ccc_500x100.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"5824"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022/7\u002BM5YW7kVrR1oIvDpWizv/Ter9SxFYOXh/oFOHWaM8=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/jquery-ui-datepicker/images/ui-bg_gloss-wave_55_5c9ccc_500x100.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\jquery-ui-datepicker\images\ui-bg_gloss-wave_55_5c9ccc_500x100.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-/7\u002BM5YW7kVrR1oIvDpWizv/Ter9SxFYOXh/oFOHWaM8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"5824"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022/7\u002BM5YW7kVrR1oIvDpWizv/Ter9SxFYOXh/oFOHWaM8=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/jquery-ui-datepicker/images/ui-bg_inset-hard_100_f5f8f9_1x100.6r53voyjrh.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\jquery-ui-datepicker\images\ui-bg_inset-hard_100_f5f8f9_1x100.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"6r53voyjrh"},{"Name":"integrity","Value":"sha256-HgEG8PmrSfOtNFje07gjn0XOe8pPGdbzsOyfeGmKk88="},{"Name":"label","Value":"_content/Asp.net mini project/admin/jquery-ui-datepicker/images/ui-bg_inset-hard_100_f5f8f9_1x100.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"333"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022HgEG8PmrSfOtNFje07gjn0XOe8pPGdbzsOyfeGmKk88=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/jquery-ui-datepicker/images/ui-bg_inset-hard_100_f5f8f9_1x100.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\jquery-ui-datepicker\images\ui-bg_inset-hard_100_f5f8f9_1x100.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-HgEG8PmrSfOtNFje07gjn0XOe8pPGdbzsOyfeGmKk88="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"333"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022HgEG8PmrSfOtNFje07gjn0XOe8pPGdbzsOyfeGmKk88=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/jquery-ui-datepicker/images/ui-bg_inset-hard_100_fcfdfd_1x100.7z1d7mj4du.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\jquery-ui-datepicker\images\ui-bg_inset-hard_100_fcfdfd_1x100.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"7z1d7mj4du"},{"Name":"integrity","Value":"sha256-vQXd8ctxrJ/\u002B64znU5hygrEgbc4COBALjBt9vORk1aE="},{"Name":"label","Value":"_content/Asp.net mini project/admin/jquery-ui-datepicker/images/ui-bg_inset-hard_100_fcfdfd_1x100.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"292"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022vQXd8ctxrJ/\u002B64znU5hygrEgbc4COBALjBt9vORk1aE=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/jquery-ui-datepicker/images/ui-bg_inset-hard_100_fcfdfd_1x100.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\jquery-ui-datepicker\images\ui-bg_inset-hard_100_fcfdfd_1x100.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-vQXd8ctxrJ/\u002B64znU5hygrEgbc4COBALjBt9vORk1aE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"292"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022vQXd8ctxrJ/\u002B64znU5hygrEgbc4COBALjBt9vORk1aE=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/jquery-ui-datepicker/images/ui-icons_217bc0_256x240.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\jquery-ui-datepicker\images\ui-icons_217bc0_256x240.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-FLb8rfWQlPRYVQYZvOSXxL5wKr6E3jdLqb0oUN2g8HU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"4549"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022FLb8rfWQlPRYVQYZvOSXxL5wKr6E3jdLqb0oUN2g8HU=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/jquery-ui-datepicker/images/ui-icons_217bc0_256x240.wpvm89ub7m.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\jquery-ui-datepicker\images\ui-icons_217bc0_256x240.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"wpvm89ub7m"},{"Name":"integrity","Value":"sha256-FLb8rfWQlPRYVQYZvOSXxL5wKr6E3jdLqb0oUN2g8HU="},{"Name":"label","Value":"_content/Asp.net mini project/admin/jquery-ui-datepicker/images/ui-icons_217bc0_256x240.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4549"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022FLb8rfWQlPRYVQYZvOSXxL5wKr6E3jdLqb0oUN2g8HU=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/jquery-ui-datepicker/images/ui-icons_2e83ff_256x240.cor9arjori.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\jquery-ui-datepicker\images\ui-icons_2e83ff_256x240.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"cor9arjori"},{"Name":"integrity","Value":"sha256-pEVCT2zeXrq0LuUon\u002BvQnAVhAam6WcayjDZ51y1dz5s="},{"Name":"label","Value":"_content/Asp.net mini project/admin/jquery-ui-datepicker/images/ui-icons_2e83ff_256x240.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4549"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022pEVCT2zeXrq0LuUon\u002BvQnAVhAam6WcayjDZ51y1dz5s=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/jquery-ui-datepicker/images/ui-icons_2e83ff_256x240.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\jquery-ui-datepicker\images\ui-icons_2e83ff_256x240.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-pEVCT2zeXrq0LuUon\u002BvQnAVhAam6WcayjDZ51y1dz5s="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"4549"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022pEVCT2zeXrq0LuUon\u002BvQnAVhAam6WcayjDZ51y1dz5s=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/jquery-ui-datepicker/images/ui-icons_469bdd_256x240.4xhp8hbq2r.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\jquery-ui-datepicker\images\ui-icons_469bdd_256x240.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"4xhp8hbq2r"},{"Name":"integrity","Value":"sha256-\u002BEJ60/I13hl7dv5ou4i9RY9HjVSU4LUYPvXUZzTfpuU="},{"Name":"label","Value":"_content/Asp.net mini project/admin/jquery-ui-datepicker/images/ui-icons_469bdd_256x240.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4549"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022\u002BEJ60/I13hl7dv5ou4i9RY9HjVSU4LUYPvXUZzTfpuU=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/jquery-ui-datepicker/images/ui-icons_469bdd_256x240.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\jquery-ui-datepicker\images\ui-icons_469bdd_256x240.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-\u002BEJ60/I13hl7dv5ou4i9RY9HjVSU4LUYPvXUZzTfpuU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"4549"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022\u002BEJ60/I13hl7dv5ou4i9RY9HjVSU4LUYPvXUZzTfpuU=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/jquery-ui-datepicker/images/ui-icons_6da8d5_256x240.8zumtmc0lh.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\jquery-ui-datepicker\images\ui-icons_6da8d5_256x240.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"8zumtmc0lh"},{"Name":"integrity","Value":"sha256-rKRw6Tk4IqWPrpv9k1otzFjqJEyQf8ruYBEp05WxOTo="},{"Name":"label","Value":"_content/Asp.net mini project/admin/jquery-ui-datepicker/images/ui-icons_6da8d5_256x240.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4549"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022rKRw6Tk4IqWPrpv9k1otzFjqJEyQf8ruYBEp05WxOTo=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/jquery-ui-datepicker/images/ui-icons_6da8d5_256x240.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\jquery-ui-datepicker\images\ui-icons_6da8d5_256x240.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-rKRw6Tk4IqWPrpv9k1otzFjqJEyQf8ruYBEp05WxOTo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"4549"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022rKRw6Tk4IqWPrpv9k1otzFjqJEyQf8ruYBEp05WxOTo=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/jquery-ui-datepicker/images/ui-icons_cd0a0a_256x240.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\jquery-ui-datepicker\images\ui-icons_cd0a0a_256x240.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-R4M8oswDDafWo3ZzG5fNYNrSmyxvRIFpwAzQ/7kf0Rg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"4549"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022R4M8oswDDafWo3ZzG5fNYNrSmyxvRIFpwAzQ/7kf0Rg=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/jquery-ui-datepicker/images/ui-icons_cd0a0a_256x240.tn6wzko1b1.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\jquery-ui-datepicker\images\ui-icons_cd0a0a_256x240.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"tn6wzko1b1"},{"Name":"integrity","Value":"sha256-R4M8oswDDafWo3ZzG5fNYNrSmyxvRIFpwAzQ/7kf0Rg="},{"Name":"label","Value":"_content/Asp.net mini project/admin/jquery-ui-datepicker/images/ui-icons_cd0a0a_256x240.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4549"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022R4M8oswDDafWo3ZzG5fNYNrSmyxvRIFpwAzQ/7kf0Rg=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/jquery-ui-datepicker/images/ui-icons_d8e7f3_256x240.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\jquery-ui-datepicker\images\ui-icons_d8e7f3_256x240.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Mc7516741dAnrPI6K7eaba0fY\u002BQs6PVM9kamvDstlbc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"4549"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022Mc7516741dAnrPI6K7eaba0fY\u002BQs6PVM9kamvDstlbc=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/jquery-ui-datepicker/images/ui-icons_d8e7f3_256x240.t56so2yds1.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\jquery-ui-datepicker\images\ui-icons_d8e7f3_256x240.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"t56so2yds1"},{"Name":"integrity","Value":"sha256-Mc7516741dAnrPI6K7eaba0fY\u002BQs6PVM9kamvDstlbc="},{"Name":"label","Value":"_content/Asp.net mini project/admin/jquery-ui-datepicker/images/ui-icons_d8e7f3_256x240.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4549"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022Mc7516741dAnrPI6K7eaba0fY\u002BQs6PVM9kamvDstlbc=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/jquery-ui-datepicker/images/ui-icons_f9bd01_256x240.l08fd23byl.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\jquery-ui-datepicker\images\ui-icons_f9bd01_256x240.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"l08fd23byl"},{"Name":"integrity","Value":"sha256-q8TyP4H6SG79lVhN627QdR/tzpCLKrqmQYzgtmXhDOw="},{"Name":"label","Value":"_content/Asp.net mini project/admin/jquery-ui-datepicker/images/ui-icons_f9bd01_256x240.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4549"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022q8TyP4H6SG79lVhN627QdR/tzpCLKrqmQYzgtmXhDOw=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/jquery-ui-datepicker/images/ui-icons_f9bd01_256x240.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\jquery-ui-datepicker\images\ui-icons_f9bd01_256x240.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-q8TyP4H6SG79lVhN627QdR/tzpCLKrqmQYzgtmXhDOw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"4549"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022q8TyP4H6SG79lVhN627QdR/tzpCLKrqmQYzgtmXhDOw=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/jquery-ui-datepicker/index.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\jquery-ui-datepicker\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-GCF1JRTWMSHcQO0zsIQLcdB8j79mLaqao/H7h2wHtjU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"24397"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022GCF1JRTWMSHcQO0zsIQLcdB8j79mLaqao/H7h2wHtjU=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/jquery-ui-datepicker/index.s3216i995t.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\jquery-ui-datepicker\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"s3216i995t"},{"Name":"integrity","Value":"sha256-GCF1JRTWMSHcQO0zsIQLcdB8j79mLaqao/H7h2wHtjU="},{"Name":"label","Value":"_content/Asp.net mini project/admin/jquery-ui-datepicker/index.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"24397"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022GCF1JRTWMSHcQO0zsIQLcdB8j79mLaqao/H7h2wHtjU=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/jquery-ui-datepicker/jquery-ui.af0g4uwm7t.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\jquery-ui-datepicker\jquery-ui.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"af0g4uwm7t"},{"Name":"integrity","Value":"sha256-JqKn/LXkhxUg5OTazch/HeWYhRMl\u002BeZlmieZaQKkwDI="},{"Name":"label","Value":"_content/Asp.net mini project/admin/jquery-ui-datepicker/jquery-ui.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"22814"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022JqKn/LXkhxUg5OTazch/HeWYhRMl\u002BeZlmieZaQKkwDI=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/jquery-ui-datepicker/jquery-ui.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\jquery-ui-datepicker\jquery-ui.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-JqKn/LXkhxUg5OTazch/HeWYhRMl\u002BeZlmieZaQKkwDI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"22814"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022JqKn/LXkhxUg5OTazch/HeWYhRMl\u002BeZlmieZaQKkwDI=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/jquery-ui-datepicker/jquery-ui.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\jquery-ui-datepicker\jquery-ui.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-KmXZNK\u002BGJyoue62QGS6BhG33zcpHpsScRU/3Tsrc\u002BQc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"81553"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022KmXZNK\u002BGJyoue62QGS6BhG33zcpHpsScRU/3Tsrc\u002BQc=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/jquery-ui-datepicker/jquery-ui.min.bdae6p81a1.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\jquery-ui-datepicker\jquery-ui.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"bdae6p81a1"},{"Name":"integrity","Value":"sha256-/7VC/NEVkZQAfvNbCkDj\u002B9wsK\u002Be0c3L3z/52OEEOtvU="},{"Name":"label","Value":"_content/Asp.net mini project/admin/jquery-ui-datepicker/jquery-ui.min.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"19732"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022/7VC/NEVkZQAfvNbCkDj\u002B9wsK\u002Be0c3L3z/52OEEOtvU=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/jquery-ui-datepicker/jquery-ui.min.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\jquery-ui-datepicker\jquery-ui.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-/7VC/NEVkZQAfvNbCkDj\u002B9wsK\u002Be0c3L3z/52OEEOtvU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"19732"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022/7VC/NEVkZQAfvNbCkDj\u002B9wsK\u002Be0c3L3z/52OEEOtvU=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/jquery-ui-datepicker/jquery-ui.min.flw7jivxh7.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\jquery-ui-datepicker\jquery-ui.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"flw7jivxh7"},{"Name":"integrity","Value":"sha256-PbRNjKI19GXqs2IFeS3fPF0mT3gN/qIZEECm9DrxZ34="},{"Name":"label","Value":"_content/Asp.net mini project/admin/jquery-ui-datepicker/jquery-ui.min.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"36675"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022PbRNjKI19GXqs2IFeS3fPF0mT3gN/qIZEECm9DrxZ34=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/jquery-ui-datepicker/jquery-ui.min.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\jquery-ui-datepicker\jquery-ui.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-PbRNjKI19GXqs2IFeS3fPF0mT3gN/qIZEECm9DrxZ34="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"36675"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022PbRNjKI19GXqs2IFeS3fPF0mT3gN/qIZEECm9DrxZ34=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/jquery-ui-datepicker/jquery-ui.q09qhxa17q.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\jquery-ui-datepicker\jquery-ui.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"q09qhxa17q"},{"Name":"integrity","Value":"sha256-KmXZNK\u002BGJyoue62QGS6BhG33zcpHpsScRU/3Tsrc\u002BQc="},{"Name":"label","Value":"_content/Asp.net mini project/admin/jquery-ui-datepicker/jquery-ui.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"81553"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022KmXZNK\u002BGJyoue62QGS6BhG33zcpHpsScRU/3Tsrc\u002BQc=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/jquery-ui-datepicker/jquery-ui.structure.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\jquery-ui-datepicker\jquery-ui.structure.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-e2Dy2o\u002BS5kRN7J4yrabnsmkFssIzJQOCtbDnnfUMpzw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"5128"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022e2Dy2o\u002BS5kRN7J4yrabnsmkFssIzJQOCtbDnnfUMpzw=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/jquery-ui-datepicker/jquery-ui.structure.min.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\jquery-ui-datepicker\jquery-ui.structure.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-vnvpcv68GGp6udQaBCRjYxsmy9RrijhIzFcfRGUC5LE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"4110"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022vnvpcv68GGp6udQaBCRjYxsmy9RrijhIzFcfRGUC5LE=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/jquery-ui-datepicker/jquery-ui.structure.min.muzxocw2wj.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\jquery-ui-datepicker\jquery-ui.structure.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"muzxocw2wj"},{"Name":"integrity","Value":"sha256-vnvpcv68GGp6udQaBCRjYxsmy9RrijhIzFcfRGUC5LE="},{"Name":"label","Value":"_content/Asp.net mini project/admin/jquery-ui-datepicker/jquery-ui.structure.min.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4110"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022vnvpcv68GGp6udQaBCRjYxsmy9RrijhIzFcfRGUC5LE=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/jquery-ui-datepicker/jquery-ui.structure.ntxxfmnxrx.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\jquery-ui-datepicker\jquery-ui.structure.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ntxxfmnxrx"},{"Name":"integrity","Value":"sha256-e2Dy2o\u002BS5kRN7J4yrabnsmkFssIzJQOCtbDnnfUMpzw="},{"Name":"label","Value":"_content/Asp.net mini project/admin/jquery-ui-datepicker/jquery-ui.structure.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"5128"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022e2Dy2o\u002BS5kRN7J4yrabnsmkFssIzJQOCtbDnnfUMpzw=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/jquery-ui-datepicker/jquery-ui.theme.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\jquery-ui-datepicker\jquery-ui.theme.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-\u002BH2OXg3HyEZCyGo1/pw1tBxqNLpNNwjCTICGv6alln4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"17981"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022\u002BH2OXg3HyEZCyGo1/pw1tBxqNLpNNwjCTICGv6alln4=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/jquery-ui-datepicker/jquery-ui.theme.kl3vawhewr.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\jquery-ui-datepicker\jquery-ui.theme.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"kl3vawhewr"},{"Name":"integrity","Value":"sha256-\u002BH2OXg3HyEZCyGo1/pw1tBxqNLpNNwjCTICGv6alln4="},{"Name":"label","Value":"_content/Asp.net mini project/admin/jquery-ui-datepicker/jquery-ui.theme.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"17981"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022\u002BH2OXg3HyEZCyGo1/pw1tBxqNLpNNwjCTICGv6alln4=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/jquery-ui-datepicker/jquery-ui.theme.min.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\jquery-ui-datepicker\jquery-ui.theme.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-cB3aRhD0iqKH13E2AR3\u002BiWbBTNPTrXie41dsZp7AQgw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"14308"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022cB3aRhD0iqKH13E2AR3\u002BiWbBTNPTrXie41dsZp7AQgw=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/jquery-ui-datepicker/jquery-ui.theme.min.krn9mn7c2o.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\jquery-ui-datepicker\jquery-ui.theme.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"krn9mn7c2o"},{"Name":"integrity","Value":"sha256-cB3aRhD0iqKH13E2AR3\u002BiWbBTNPTrXie41dsZp7AQgw="},{"Name":"label","Value":"_content/Asp.net mini project/admin/jquery-ui-datepicker/jquery-ui.theme.min.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"14308"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022cB3aRhD0iqKH13E2AR3\u002BiWbBTNPTrXie41dsZp7AQgw=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/jquery-ui-datepicker/LICENSE.ij2sc38tmq.txt">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\jquery-ui-datepicker\LICENSE.txt'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ij2sc38tmq"},{"Name":"integrity","Value":"sha256-3jP7aViA0LB2FdS4b3jNQ3lpBpWa3l/f73CWiCeg23g="},{"Name":"label","Value":"_content/Asp.net mini project/admin/jquery-ui-datepicker/LICENSE.txt"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1817"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u00223jP7aViA0LB2FdS4b3jNQ3lpBpWa3l/f73CWiCeg23g=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/jquery-ui-datepicker/LICENSE.txt">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\jquery-ui-datepicker\LICENSE.txt'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-3jP7aViA0LB2FdS4b3jNQ3lpBpWa3l/f73CWiCeg23g="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1817"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u00223jP7aViA0LB2FdS4b3jNQ3lpBpWa3l/f73CWiCeg23g=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/jquery-ui-datepicker/package.e9ore0fneh.json">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\jquery-ui-datepicker\package.json'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"e9ore0fneh"},{"Name":"integrity","Value":"sha256-kjEW8xMYuqRSwEE58KqTDNLgkx/6YL7tb1M9vlMK98w="},{"Name":"label","Value":"_content/Asp.net mini project/admin/jquery-ui-datepicker/package.json"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1847"},{"Name":"Content-Type","Value":"application/json"},{"Name":"ETag","Value":"\u0022kjEW8xMYuqRSwEE58KqTDNLgkx/6YL7tb1M9vlMK98w=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/jquery-ui-datepicker/package.json">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\jquery-ui-datepicker\package.json'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-kjEW8xMYuqRSwEE58KqTDNLgkx/6YL7tb1M9vlMK98w="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1847"},{"Name":"Content-Type","Value":"application/json"},{"Name":"ETag","Value":"\u0022kjEW8xMYuqRSwEE58KqTDNLgkx/6YL7tb1M9vlMK98w=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/js/bootstrap.min.a8sno6uueg.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\js\bootstrap.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"a8sno6uueg"},{"Name":"integrity","Value":"sha256-VsEqElsCHSGmnmHXGQzvoWjWwoznFSZc6hs7ARLRacQ="},{"Name":"label","Value":"_content/Asp.net mini project/admin/js/bootstrap.min.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"51039"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022VsEqElsCHSGmnmHXGQzvoWjWwoznFSZc6hs7ARLRacQ=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/js/bootstrap.min.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\js\bootstrap.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-VsEqElsCHSGmnmHXGQzvoWjWwoznFSZc6hs7ARLRacQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"51039"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022VsEqElsCHSGmnmHXGQzvoWjWwoznFSZc6hs7ARLRacQ=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/js/Chart.min.j53whw8egf.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\js\Chart.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"j53whw8egf"},{"Name":"integrity","Value":"sha256-CfcERD4Ov4\u002BlKbWbYqXD6aFM9M51gN4GUEtDhkWABMo="},{"Name":"label","Value":"_content/Asp.net mini project/admin/js/Chart.min.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"159638"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022CfcERD4Ov4\u002BlKbWbYqXD6aFM9M51gN4GUEtDhkWABMo=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/js/Chart.min.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\js\Chart.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-CfcERD4Ov4\u002BlKbWbYqXD6aFM9M51gN4GUEtDhkWABMo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"159638"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022CfcERD4Ov4\u002BlKbWbYqXD6aFM9M51gN4GUEtDhkWABMo=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/js/fullcalendar.min.6jha9m4q1i.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\js\fullcalendar.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"6jha9m4q1i"},{"Name":"integrity","Value":"sha256-QvhPq\u002BevNjd8JyxSOU5KL3jPYTD7\u002BgWVev1OH763SL0="},{"Name":"label","Value":"_content/Asp.net mini project/admin/js/fullcalendar.min.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"213774"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022QvhPq\u002BevNjd8JyxSOU5KL3jPYTD7\u002BgWVev1OH763SL0=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/js/fullcalendar.min.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\js\fullcalendar.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-QvhPq\u002BevNjd8JyxSOU5KL3jPYTD7\u002BgWVev1OH763SL0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"213774"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022QvhPq\u002BevNjd8JyxSOU5KL3jPYTD7\u002BgWVev1OH763SL0=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/js/jquery-3.3.1.min.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\js\jquery-3.3.1.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-oozPintQUive6gzYPN7KIhwY/B\u002Bd8\u002B5rPTxI1ZkgaFU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"86926"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022oozPintQUive6gzYPN7KIhwY/B\u002Bd8\u002B5rPTxI1ZkgaFU=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/js/jquery-3.3.1.min.y78zfkquzf.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\js\jquery-3.3.1.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"y78zfkquzf"},{"Name":"integrity","Value":"sha256-oozPintQUive6gzYPN7KIhwY/B\u002Bd8\u002B5rPTxI1ZkgaFU="},{"Name":"label","Value":"_content/Asp.net mini project/admin/js/jquery-3.3.1.min.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"86926"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022oozPintQUive6gzYPN7KIhwY/B\u002Bd8\u002B5rPTxI1ZkgaFU=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/js/moment.min.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\js\moment.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-CutOzxCRucUsn6C6TcEYsauvvYilEniTXldPa6/wu0k="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"51679"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022CutOzxCRucUsn6C6TcEYsauvvYilEniTXldPa6/wu0k=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/js/moment.min.m5w5l5pbm0.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\js\moment.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"m5w5l5pbm0"},{"Name":"integrity","Value":"sha256-CutOzxCRucUsn6C6TcEYsauvvYilEniTXldPa6/wu0k="},{"Name":"label","Value":"_content/Asp.net mini project/admin/js/moment.min.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"51679"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022CutOzxCRucUsn6C6TcEYsauvvYilEniTXldPa6/wu0k=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/js/tooplate-scripts.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\js\tooplate-scripts.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-mm/uf94ud/XqrA2HvLPgOMMh6hrotdwAMYF83ZhvmyA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"5178"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022mm/uf94ud/XqrA2HvLPgOMMh6hrotdwAMYF83ZhvmyA=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/js/tooplate-scripts.qvbtvwfbvs.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\js\tooplate-scripts.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"qvbtvwfbvs"},{"Name":"integrity","Value":"sha256-mm/uf94ud/XqrA2HvLPgOMMh6hrotdwAMYF83ZhvmyA="},{"Name":"label","Value":"_content/Asp.net mini project/admin/js/tooplate-scripts.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"5178"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022mm/uf94ud/XqrA2HvLPgOMMh6hrotdwAMYF83ZhvmyA=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/js/utils.agaqpegts8.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\js\utils.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"agaqpegts8"},{"Name":"integrity","Value":"sha256-llfN8OPz7nWGLv8KMUFlly5P4mkgGfHAnwhvdOUSDwM="},{"Name":"label","Value":"_content/Asp.net mini project/admin/js/utils.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3772"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022llfN8OPz7nWGLv8KMUFlly5P4mkgGfHAnwhvdOUSDwM=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/js/utils.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\js\utils.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-llfN8OPz7nWGLv8KMUFlly5P4mkgGfHAnwhvdOUSDwM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3772"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022llfN8OPz7nWGLv8KMUFlly5P4mkgGfHAnwhvdOUSDwM=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/webfonts/fa-brands-400.6bkihun1hl.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\webfonts\fa-brands-400.woff'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"6bkihun1hl"},{"Name":"integrity","Value":"sha256-UtAtcw5l90oI55yjn62wYcFOWd4v\u002BoMLzwXAMPz3AOk="},{"Name":"label","Value":"_content/Asp.net mini project/admin/webfonts/fa-brands-400.woff"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"74928"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022UtAtcw5l90oI55yjn62wYcFOWd4v\u002BoMLzwXAMPz3AOk=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/webfonts/fa-brands-400.eot">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\webfonts\fa-brands-400.eot'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-kUp7oUt9TrT/O9NNSOJYg0vLlnZNSecQZU9fgJTp\u002Bfk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"116516"},{"Name":"Content-Type","Value":"application/vnd.ms-fontobject"},{"Name":"ETag","Value":"\u0022kUp7oUt9TrT/O9NNSOJYg0vLlnZNSecQZU9fgJTp\u002Bfk=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/webfonts/fa-brands-400.rhnejdkf2t.eot">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\webfonts\fa-brands-400.eot'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"rhnejdkf2t"},{"Name":"integrity","Value":"sha256-kUp7oUt9TrT/O9NNSOJYg0vLlnZNSecQZU9fgJTp\u002Bfk="},{"Name":"label","Value":"_content/Asp.net mini project/admin/webfonts/fa-brands-400.eot"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"116516"},{"Name":"Content-Type","Value":"application/vnd.ms-fontobject"},{"Name":"ETag","Value":"\u0022kUp7oUt9TrT/O9NNSOJYg0vLlnZNSecQZU9fgJTp\u002Bfk=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/webfonts/fa-brands-400.svg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\webfonts\fa-brands-400.svg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-YJD36R6Z7N2vxD\u002BYYn0padVj6fR2oEal0r2d0WgwDfg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"629256"},{"Name":"Content-Type","Value":"image/svg\u002Bxml"},{"Name":"ETag","Value":"\u0022YJD36R6Z7N2vxD\u002BYYn0padVj6fR2oEal0r2d0WgwDfg=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/webfonts/fa-brands-400.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\webfonts\fa-brands-400.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-NlFjtwbIzvX8bGmgoN38QLXHJtWpVfwqLOxQ3qzXeSg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"116280"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022NlFjtwbIzvX8bGmgoN38QLXHJtWpVfwqLOxQ3qzXeSg=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/webfonts/fa-brands-400.v56qlu3f9q.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\webfonts\fa-brands-400.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"v56qlu3f9q"},{"Name":"integrity","Value":"sha256-TQEw0xTxZpyepakR1AHWJQ\u002BWOGpSsMOPez\u002B0PNzRBYk="},{"Name":"label","Value":"_content/Asp.net mini project/admin/webfonts/fa-brands-400.woff2"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"64144"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022TQEw0xTxZpyepakR1AHWJQ\u002BWOGpSsMOPez\u002B0PNzRBYk=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/webfonts/fa-brands-400.w8ui2l9vbr.svg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\webfonts\fa-brands-400.svg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"w8ui2l9vbr"},{"Name":"integrity","Value":"sha256-YJD36R6Z7N2vxD\u002BYYn0padVj6fR2oEal0r2d0WgwDfg="},{"Name":"label","Value":"_content/Asp.net mini project/admin/webfonts/fa-brands-400.svg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"629256"},{"Name":"Content-Type","Value":"image/svg\u002Bxml"},{"Name":"ETag","Value":"\u0022YJD36R6Z7N2vxD\u002BYYn0padVj6fR2oEal0r2d0WgwDfg=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/webfonts/fa-brands-400.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\webfonts\fa-brands-400.woff'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-UtAtcw5l90oI55yjn62wYcFOWd4v\u002BoMLzwXAMPz3AOk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"74928"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022UtAtcw5l90oI55yjn62wYcFOWd4v\u002BoMLzwXAMPz3AOk=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/webfonts/fa-brands-400.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\webfonts\fa-brands-400.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-TQEw0xTxZpyepakR1AHWJQ\u002BWOGpSsMOPez\u002B0PNzRBYk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"64144"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022TQEw0xTxZpyepakR1AHWJQ\u002BWOGpSsMOPez\u002B0PNzRBYk=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/webfonts/fa-brands-400.ya0lmljpk1.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\webfonts\fa-brands-400.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ya0lmljpk1"},{"Name":"integrity","Value":"sha256-NlFjtwbIzvX8bGmgoN38QLXHJtWpVfwqLOxQ3qzXeSg="},{"Name":"label","Value":"_content/Asp.net mini project/admin/webfonts/fa-brands-400.ttf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"116280"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022NlFjtwbIzvX8bGmgoN38QLXHJtWpVfwqLOxQ3qzXeSg=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/webfonts/fa-regular-400.2cseo5y99k.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\webfonts\fa-regular-400.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"2cseo5y99k"},{"Name":"integrity","Value":"sha256-Ds2fW7SSvnHjqsyMpPFwyPmJAkKiXixuyaQvE1YbAo8="},{"Name":"label","Value":"_content/Asp.net mini project/admin/webfonts/fa-regular-400.woff2"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"14888"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022Ds2fW7SSvnHjqsyMpPFwyPmJAkKiXixuyaQvE1YbAo8=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/webfonts/fa-regular-400.3hi7thgbff.eot">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\webfonts\fa-regular-400.eot'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"3hi7thgbff"},{"Name":"integrity","Value":"sha256-Rzqa3CsAqiN6ZrggcG0cAlXvsP5oZHYAQv1Xa\u002Bl/2a4="},{"Name":"label","Value":"_content/Asp.net mini project/admin/webfonts/fa-regular-400.eot"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"40644"},{"Name":"Content-Type","Value":"application/vnd.ms-fontobject"},{"Name":"ETag","Value":"\u0022Rzqa3CsAqiN6ZrggcG0cAlXvsP5oZHYAQv1Xa\u002Bl/2a4=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/webfonts/fa-regular-400.eot">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\webfonts\fa-regular-400.eot'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Rzqa3CsAqiN6ZrggcG0cAlXvsP5oZHYAQv1Xa\u002Bl/2a4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"40644"},{"Name":"Content-Type","Value":"application/vnd.ms-fontobject"},{"Name":"ETag","Value":"\u0022Rzqa3CsAqiN6ZrggcG0cAlXvsP5oZHYAQv1Xa\u002Bl/2a4=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/webfonts/fa-regular-400.iwcoecxf1j.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\webfonts\fa-regular-400.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"iwcoecxf1j"},{"Name":"integrity","Value":"sha256-rlr07d3JsGDC71CcsJ6\u002BGkaD5oljOBFDRoDfMZ/qUQc="},{"Name":"label","Value":"_content/Asp.net mini project/admin/webfonts/fa-regular-400.ttf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"40416"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022rlr07d3JsGDC71CcsJ6\u002BGkaD5oljOBFDRoDfMZ/qUQc=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/webfonts/fa-regular-400.svg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\webfonts\fa-regular-400.svg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-v6afg9SlE7uwG2Nro3fswUIOJjrjK63TfrMwGeL2vzE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"141405"},{"Name":"Content-Type","Value":"image/svg\u002Bxml"},{"Name":"ETag","Value":"\u0022v6afg9SlE7uwG2Nro3fswUIOJjrjK63TfrMwGeL2vzE=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/webfonts/fa-regular-400.t4u1tpxa3h.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\webfonts\fa-regular-400.woff'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"t4u1tpxa3h"},{"Name":"integrity","Value":"sha256-zR85\u002BwuXzQMbnGbPPBHok7/7M3HcuBWFOhus1FW1Y9Q="},{"Name":"label","Value":"_content/Asp.net mini project/admin/webfonts/fa-regular-400.woff"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"18156"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022zR85\u002BwuXzQMbnGbPPBHok7/7M3HcuBWFOhus1FW1Y9Q=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/webfonts/fa-regular-400.thgv8runu5.svg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\webfonts\fa-regular-400.svg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"thgv8runu5"},{"Name":"integrity","Value":"sha256-v6afg9SlE7uwG2Nro3fswUIOJjrjK63TfrMwGeL2vzE="},{"Name":"label","Value":"_content/Asp.net mini project/admin/webfonts/fa-regular-400.svg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"141405"},{"Name":"Content-Type","Value":"image/svg\u002Bxml"},{"Name":"ETag","Value":"\u0022v6afg9SlE7uwG2Nro3fswUIOJjrjK63TfrMwGeL2vzE=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/webfonts/fa-regular-400.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\webfonts\fa-regular-400.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-rlr07d3JsGDC71CcsJ6\u002BGkaD5oljOBFDRoDfMZ/qUQc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"40416"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022rlr07d3JsGDC71CcsJ6\u002BGkaD5oljOBFDRoDfMZ/qUQc=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/webfonts/fa-regular-400.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\webfonts\fa-regular-400.woff'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-zR85\u002BwuXzQMbnGbPPBHok7/7M3HcuBWFOhus1FW1Y9Q="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"18156"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022zR85\u002BwuXzQMbnGbPPBHok7/7M3HcuBWFOhus1FW1Y9Q=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/webfonts/fa-regular-400.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\webfonts\fa-regular-400.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Ds2fW7SSvnHjqsyMpPFwyPmJAkKiXixuyaQvE1YbAo8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"14888"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022Ds2fW7SSvnHjqsyMpPFwyPmJAkKiXixuyaQvE1YbAo8=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/webfonts/fa-solid-900.4i5y95t675.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\webfonts\fa-solid-900.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"4i5y95t675"},{"Name":"integrity","Value":"sha256-XH35nfIyWGERkXCDqFqjG4LuKeSMopkOE/rgwGY6kj8="},{"Name":"label","Value":"_content/Asp.net mini project/admin/webfonts/fa-solid-900.woff2"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"62472"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022XH35nfIyWGERkXCDqFqjG4LuKeSMopkOE/rgwGY6kj8=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/webfonts/fa-solid-900.bfafo1tmnz.svg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\webfonts\fa-solid-900.svg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"bfafo1tmnz"},{"Name":"integrity","Value":"sha256-eRFCSteZMfSV2/yXeb9SN3Jh7SUKD/mgcX/vfPcNg7Y="},{"Name":"label","Value":"_content/Asp.net mini project/admin/webfonts/fa-solid-900.svg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"624767"},{"Name":"Content-Type","Value":"image/svg\u002Bxml"},{"Name":"ETag","Value":"\u0022eRFCSteZMfSV2/yXeb9SN3Jh7SUKD/mgcX/vfPcNg7Y=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/webfonts/fa-solid-900.ekpl54ad2r.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\webfonts\fa-solid-900.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ekpl54ad2r"},{"Name":"integrity","Value":"sha256-UvbXegBXJ/S5IFERnnbplWt\u002B5xvywiOFgZr7GobSiqQ="},{"Name":"label","Value":"_content/Asp.net mini project/admin/webfonts/fa-solid-900.ttf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"168176"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022UvbXegBXJ/S5IFERnnbplWt\u002B5xvywiOFgZr7GobSiqQ=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/webfonts/fa-solid-900.eot">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\webfonts\fa-solid-900.eot'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Jjx1qMq4vda2QvKd2/O7sLg69KZuRWBMk8u/lwmWtbM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"168396"},{"Name":"Content-Type","Value":"application/vnd.ms-fontobject"},{"Name":"ETag","Value":"\u0022Jjx1qMq4vda2QvKd2/O7sLg69KZuRWBMk8u/lwmWtbM=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/webfonts/fa-solid-900.ied04nwpll.eot">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\webfonts\fa-solid-900.eot'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ied04nwpll"},{"Name":"integrity","Value":"sha256-Jjx1qMq4vda2QvKd2/O7sLg69KZuRWBMk8u/lwmWtbM="},{"Name":"label","Value":"_content/Asp.net mini project/admin/webfonts/fa-solid-900.eot"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"168396"},{"Name":"Content-Type","Value":"application/vnd.ms-fontobject"},{"Name":"ETag","Value":"\u0022Jjx1qMq4vda2QvKd2/O7sLg69KZuRWBMk8u/lwmWtbM=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/webfonts/fa-solid-900.sbhwolmi47.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\webfonts\fa-solid-900.woff'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"sbhwolmi47"},{"Name":"integrity","Value":"sha256-SHRWKaJS\u002B06NJ1BSfA1JNBwsF9X\u002BW8ajfsgrBiroTJw="},{"Name":"label","Value":"_content/Asp.net mini project/admin/webfonts/fa-solid-900.woff"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"80484"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022SHRWKaJS\u002B06NJ1BSfA1JNBwsF9X\u002BW8ajfsgrBiroTJw=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/webfonts/fa-solid-900.svg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\webfonts\fa-solid-900.svg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-eRFCSteZMfSV2/yXeb9SN3Jh7SUKD/mgcX/vfPcNg7Y="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"624767"},{"Name":"Content-Type","Value":"image/svg\u002Bxml"},{"Name":"ETag","Value":"\u0022eRFCSteZMfSV2/yXeb9SN3Jh7SUKD/mgcX/vfPcNg7Y=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/webfonts/fa-solid-900.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\webfonts\fa-solid-900.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-UvbXegBXJ/S5IFERnnbplWt\u002B5xvywiOFgZr7GobSiqQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"168176"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022UvbXegBXJ/S5IFERnnbplWt\u002B5xvywiOFgZr7GobSiqQ=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/webfonts/fa-solid-900.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\webfonts\fa-solid-900.woff'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-SHRWKaJS\u002B06NJ1BSfA1JNBwsF9X\u002BW8ajfsgrBiroTJw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"80484"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022SHRWKaJS\u002B06NJ1BSfA1JNBwsF9X\u002BW8ajfsgrBiroTJw=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Asp.net mini project/admin/webfonts/fa-solid-900.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\webfonts\fa-solid-900.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-XH35nfIyWGERkXCDqFqjG4LuKeSMopkOE/rgwGY6kj8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"62472"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022XH35nfIyWGERkXCDqFqjG4LuKeSMopkOE/rgwGY6kj8=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Sep 2018 09:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Asp.net mini project/Asp.net mini project.bundle.scp.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Asp.net mini project.pllg5hm8yh.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>

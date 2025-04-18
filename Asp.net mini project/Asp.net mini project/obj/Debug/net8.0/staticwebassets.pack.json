@@ -5,6 +5,238 @@
       "PackagePath": "staticwebassets\\Asp.net mini project.pllg5hm8yh.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\css\\fullcalendar.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\fullcalendar.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\css\\tooplate.css",
+      "PackagePath": "staticwebassets\\admin\\css\\tooplate.css"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\img\\New Year.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\New Year.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\img\\dash-bg-01.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\dash-bg-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\img\\dash-bg-02.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\dash-bg-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\img\\dash-bg-03.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\dash-bg-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\img\\product-image.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\product-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\img\\profile-image.png",
+      "PackagePath": "staticwebassets\\admin\\img\\profile-image.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\AUTHORS.txt",
+      "PackagePath": "staticwebassets\\admin\\jquery-ui-datepicker\\AUTHORS.txt"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\admin\\jquery-ui-datepicker\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\external\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\admin\\jquery-ui-datepicker\\external\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\images\\ui-bg_glass_75_d0e5f5_1x400.png",
+      "PackagePath": "staticwebassets\\admin\\jquery-ui-datepicker\\images\\ui-bg_glass_75_d0e5f5_1x400.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\images\\ui-bg_glass_85_dfeffc_1x400.png",
+      "PackagePath": "staticwebassets\\admin\\jquery-ui-datepicker\\images\\ui-bg_glass_85_dfeffc_1x400.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\images\\ui-bg_glass_95_fef1ec_1x400.png",
+      "PackagePath": "staticwebassets\\admin\\jquery-ui-datepicker\\images\\ui-bg_glass_95_fef1ec_1x400.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\images\\ui-bg_gloss-wave_55_5c9ccc_500x100.png",
+      "PackagePath": "staticwebassets\\admin\\jquery-ui-datepicker\\images\\ui-bg_gloss-wave_55_5c9ccc_500x100.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\images\\ui-bg_inset-hard_100_f5f8f9_1x100.png",
+      "PackagePath": "staticwebassets\\admin\\jquery-ui-datepicker\\images\\ui-bg_inset-hard_100_f5f8f9_1x100.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\images\\ui-bg_inset-hard_100_fcfdfd_1x100.png",
+      "PackagePath": "staticwebassets\\admin\\jquery-ui-datepicker\\images\\ui-bg_inset-hard_100_fcfdfd_1x100.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\images\\ui-icons_217bc0_256x240.png",
+      "PackagePath": "staticwebassets\\admin\\jquery-ui-datepicker\\images\\ui-icons_217bc0_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\images\\ui-icons_2e83ff_256x240.png",
+      "PackagePath": "staticwebassets\\admin\\jquery-ui-datepicker\\images\\ui-icons_2e83ff_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\images\\ui-icons_469bdd_256x240.png",
+      "PackagePath": "staticwebassets\\admin\\jquery-ui-datepicker\\images\\ui-icons_469bdd_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\images\\ui-icons_6da8d5_256x240.png",
+      "PackagePath": "staticwebassets\\admin\\jquery-ui-datepicker\\images\\ui-icons_6da8d5_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\images\\ui-icons_cd0a0a_256x240.png",
+      "PackagePath": "staticwebassets\\admin\\jquery-ui-datepicker\\images\\ui-icons_cd0a0a_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\images\\ui-icons_d8e7f3_256x240.png",
+      "PackagePath": "staticwebassets\\admin\\jquery-ui-datepicker\\images\\ui-icons_d8e7f3_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\images\\ui-icons_f9bd01_256x240.png",
+      "PackagePath": "staticwebassets\\admin\\jquery-ui-datepicker\\images\\ui-icons_f9bd01_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\index.html",
+      "PackagePath": "staticwebassets\\admin\\jquery-ui-datepicker\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\admin\\jquery-ui-datepicker\\jquery-ui.css"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\admin\\jquery-ui-datepicker\\jquery-ui.js"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\admin\\jquery-ui-datepicker\\jquery-ui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\admin\\jquery-ui-datepicker\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\jquery-ui.structure.css",
+      "PackagePath": "staticwebassets\\admin\\jquery-ui-datepicker\\jquery-ui.structure.css"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\jquery-ui.structure.min.css",
+      "PackagePath": "staticwebassets\\admin\\jquery-ui-datepicker\\jquery-ui.structure.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\jquery-ui.theme.css",
+      "PackagePath": "staticwebassets\\admin\\jquery-ui-datepicker\\jquery-ui.theme.css"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\jquery-ui.theme.min.css",
+      "PackagePath": "staticwebassets\\admin\\jquery-ui-datepicker\\jquery-ui.theme.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\package.json",
+      "PackagePath": "staticwebassets\\admin\\jquery-ui-datepicker\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\js\\fullcalendar.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\fullcalendar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\js\\tooplate-scripts.js",
+      "PackagePath": "staticwebassets\\admin\\js\\tooplate-scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\js\\utils.js",
+      "PackagePath": "staticwebassets\\admin\\js\\utils.js"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\admin\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\admin\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\admin\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\admin\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\admin\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\admin\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\admin\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\admin\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\admin\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\admin\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\admin\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\admin\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\admin\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\admin\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\admin\\webfonts\\fa-solid-900.woff2"
+    },
+    {
       "Id": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
     },

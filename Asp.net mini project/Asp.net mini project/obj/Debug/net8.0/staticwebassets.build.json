@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "xxYr2/3ajNJMLsa3Q0eqz446xUEyRFYJTfoGkgaqRgs=",
+  "Hash": "mXymwNGSPzrDvsSCd4cA+TyQiP2XJ8v7/SMiyjrw0j0=",
   "Source": "Asp.net mini project",
   "BasePath": "_content/Asp.net mini project",
   "Mode": "Default",
@@ -57,6 +57,1224 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Asp.net mini project.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\css\\bootstrap.min.css",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "admin/css/bootstrap.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "z5jyisouil",
+      "Integrity": "eSi1q2PG6J7g7ib17yAaWMcrr5GrtohYChqibrV7PBE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\admin\\css\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\css\\fontawesome.min.css",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "admin/css/fontawesome.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "412dmwne27",
+      "Integrity": "iJGhYPiir7gd5SWfn2jlrzeCNI6iknrZ6Wm8iMfTmYQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\admin\\css\\fontawesome.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\css\\fullcalendar.min.css",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "admin/css/fullcalendar.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "alhx6c6hi5",
+      "Integrity": "Tu3DN+5kwrhzlzhNUMuGht2h7cR6ARgKcYemB9u5SzA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\admin\\css\\fullcalendar.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\css\\tooplate.css",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "admin/css/tooplate#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "s846t8sz84",
+      "Integrity": "BMguFVoIPGzMtZwrNARLAOd/aUE36ON2kWidfBvbC0Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\admin\\css\\tooplate.css"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\img\\dash-bg-01.jpg",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "admin/img/dash-bg-01#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7tyzr6gil9",
+      "Integrity": "BRJYKwvxi4W6wsjA+37nOHAK3G2rZ8ZvTGa4P15OIaE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\admin\\img\\dash-bg-01.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\img\\dash-bg-02.jpg",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "admin/img/dash-bg-02#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tv0j4f6nrp",
+      "Integrity": "xzTbVQIgkajS9s7ET4MTMO/zjcjdfX+OIuZAWITa5GY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\admin\\img\\dash-bg-02.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\img\\dash-bg-03.jpg",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "admin/img/dash-bg-03#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8n807ugd5g",
+      "Integrity": "xAoiB0spk4teUbtq0mDAdRjjG6GJSJtSp6iU825M83o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\admin\\img\\dash-bg-03.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\img\\New Year.jpg",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "admin/img/New Year#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nfkzpm0s1d",
+      "Integrity": "zdx3F7FF2TCCp++M8dArTtocOUBYJ+74sP8GT7Y85eU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\admin\\img\\New Year.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\img\\product-image.jpg",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "admin/img/product-image#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hnojqlqxcx",
+      "Integrity": "jbEFgsjOQsZ/b/THceMWJt54CUeB6rLtYxKp8ZGUel4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\admin\\img\\product-image.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\img\\profile-image.png",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "admin/img/profile-image#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ljoq8y7dsh",
+      "Integrity": "wX7M84Mf3xdfr/p7DMvbmzSaIDUC1hMtdVQdNaku2ms=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\admin\\img\\profile-image.png"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\AUTHORS.txt",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "admin/jquery-ui-datepicker/AUTHORS#[.{fingerprint}]?.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tqif9uzyy2",
+      "Integrity": "W2Lh1mbGo3Owc0oXX9U1+TFVSZYaC72KvSRrrRp3UII=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\admin\\jquery-ui-datepicker\\AUTHORS.txt"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\external\\jquery\\jquery.js",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "admin/jquery-ui-datepicker/external/jquery/jquery#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5a5gqan19u",
+      "Integrity": "Qw82+bXyGq6MydymqBxNPYTaUXXq7c8v3CwiYwLLNXU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\admin\\jquery-ui-datepicker\\external\\jquery\\jquery.js"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\images\\ui-bg_glass_75_d0e5f5_1x400.png",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "admin/jquery-ui-datepicker/images/ui-bg_glass_75_d0e5f5_1x400#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yqim7l5us4",
+      "Integrity": "lkwaN2/FtCHJDjXM5m5K02c/dlPIABFMTILCaKTjD0k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\admin\\jquery-ui-datepicker\\images\\ui-bg_glass_75_d0e5f5_1x400.png"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\images\\ui-bg_glass_85_dfeffc_1x400.png",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "admin/jquery-ui-datepicker/images/ui-bg_glass_85_dfeffc_1x400#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pr1bqecqoi",
+      "Integrity": "tW+uuKDghUoC9IxUI0voU8oWVYN+G/fy/f2qw12fwgU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\admin\\jquery-ui-datepicker\\images\\ui-bg_glass_85_dfeffc_1x400.png"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\images\\ui-bg_glass_95_fef1ec_1x400.png",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "admin/jquery-ui-datepicker/images/ui-bg_glass_95_fef1ec_1x400#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2m2jlxweor",
+      "Integrity": "+mxUszQR2/57UlzRsmFzhOg50dv1Thw6Mxz99tTBi/g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\admin\\jquery-ui-datepicker\\images\\ui-bg_glass_95_fef1ec_1x400.png"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\images\\ui-bg_gloss-wave_55_5c9ccc_500x100.png",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "admin/jquery-ui-datepicker/images/ui-bg_gloss-wave_55_5c9ccc_500x100#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lnje5oabqb",
+      "Integrity": "/7+M5YW7kVrR1oIvDpWizv/Ter9SxFYOXh/oFOHWaM8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\admin\\jquery-ui-datepicker\\images\\ui-bg_gloss-wave_55_5c9ccc_500x100.png"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\images\\ui-bg_inset-hard_100_f5f8f9_1x100.png",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "admin/jquery-ui-datepicker/images/ui-bg_inset-hard_100_f5f8f9_1x100#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6r53voyjrh",
+      "Integrity": "HgEG8PmrSfOtNFje07gjn0XOe8pPGdbzsOyfeGmKk88=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\admin\\jquery-ui-datepicker\\images\\ui-bg_inset-hard_100_f5f8f9_1x100.png"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\images\\ui-bg_inset-hard_100_fcfdfd_1x100.png",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "admin/jquery-ui-datepicker/images/ui-bg_inset-hard_100_fcfdfd_1x100#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7z1d7mj4du",
+      "Integrity": "vQXd8ctxrJ/+64znU5hygrEgbc4COBALjBt9vORk1aE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\admin\\jquery-ui-datepicker\\images\\ui-bg_inset-hard_100_fcfdfd_1x100.png"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\images\\ui-icons_217bc0_256x240.png",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "admin/jquery-ui-datepicker/images/ui-icons_217bc0_256x240#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wpvm89ub7m",
+      "Integrity": "FLb8rfWQlPRYVQYZvOSXxL5wKr6E3jdLqb0oUN2g8HU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\admin\\jquery-ui-datepicker\\images\\ui-icons_217bc0_256x240.png"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\images\\ui-icons_2e83ff_256x240.png",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "admin/jquery-ui-datepicker/images/ui-icons_2e83ff_256x240#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cor9arjori",
+      "Integrity": "pEVCT2zeXrq0LuUon+vQnAVhAam6WcayjDZ51y1dz5s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\admin\\jquery-ui-datepicker\\images\\ui-icons_2e83ff_256x240.png"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\images\\ui-icons_469bdd_256x240.png",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "admin/jquery-ui-datepicker/images/ui-icons_469bdd_256x240#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4xhp8hbq2r",
+      "Integrity": "+EJ60/I13hl7dv5ou4i9RY9HjVSU4LUYPvXUZzTfpuU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\admin\\jquery-ui-datepicker\\images\\ui-icons_469bdd_256x240.png"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\images\\ui-icons_6da8d5_256x240.png",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "admin/jquery-ui-datepicker/images/ui-icons_6da8d5_256x240#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8zumtmc0lh",
+      "Integrity": "rKRw6Tk4IqWPrpv9k1otzFjqJEyQf8ruYBEp05WxOTo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\admin\\jquery-ui-datepicker\\images\\ui-icons_6da8d5_256x240.png"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\images\\ui-icons_cd0a0a_256x240.png",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "admin/jquery-ui-datepicker/images/ui-icons_cd0a0a_256x240#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tn6wzko1b1",
+      "Integrity": "R4M8oswDDafWo3ZzG5fNYNrSmyxvRIFpwAzQ/7kf0Rg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\admin\\jquery-ui-datepicker\\images\\ui-icons_cd0a0a_256x240.png"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\images\\ui-icons_d8e7f3_256x240.png",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "admin/jquery-ui-datepicker/images/ui-icons_d8e7f3_256x240#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "t56so2yds1",
+      "Integrity": "Mc7516741dAnrPI6K7eaba0fY+Qs6PVM9kamvDstlbc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\admin\\jquery-ui-datepicker\\images\\ui-icons_d8e7f3_256x240.png"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\images\\ui-icons_f9bd01_256x240.png",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "admin/jquery-ui-datepicker/images/ui-icons_f9bd01_256x240#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "l08fd23byl",
+      "Integrity": "q8TyP4H6SG79lVhN627QdR/tzpCLKrqmQYzgtmXhDOw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\admin\\jquery-ui-datepicker\\images\\ui-icons_f9bd01_256x240.png"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\index.html",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "admin/jquery-ui-datepicker/index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "s3216i995t",
+      "Integrity": "GCF1JRTWMSHcQO0zsIQLcdB8j79mLaqao/H7h2wHtjU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\admin\\jquery-ui-datepicker\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\jquery-ui.css",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "admin/jquery-ui-datepicker/jquery-ui#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "af0g4uwm7t",
+      "Integrity": "JqKn/LXkhxUg5OTazch/HeWYhRMl+eZlmieZaQKkwDI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\admin\\jquery-ui-datepicker\\jquery-ui.css"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\jquery-ui.js",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "admin/jquery-ui-datepicker/jquery-ui#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "q09qhxa17q",
+      "Integrity": "KmXZNK+GJyoue62QGS6BhG33zcpHpsScRU/3Tsrc+Qc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\admin\\jquery-ui-datepicker\\jquery-ui.js"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\jquery-ui.min.css",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "admin/jquery-ui-datepicker/jquery-ui.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bdae6p81a1",
+      "Integrity": "/7VC/NEVkZQAfvNbCkDj+9wsK+e0c3L3z/52OEEOtvU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\admin\\jquery-ui-datepicker\\jquery-ui.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\jquery-ui.min.js",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "admin/jquery-ui-datepicker/jquery-ui.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "flw7jivxh7",
+      "Integrity": "PbRNjKI19GXqs2IFeS3fPF0mT3gN/qIZEECm9DrxZ34=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\admin\\jquery-ui-datepicker\\jquery-ui.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\jquery-ui.structure.css",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "admin/jquery-ui-datepicker/jquery-ui.structure#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ntxxfmnxrx",
+      "Integrity": "e2Dy2o+S5kRN7J4yrabnsmkFssIzJQOCtbDnnfUMpzw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\admin\\jquery-ui-datepicker\\jquery-ui.structure.css"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\jquery-ui.structure.min.css",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "admin/jquery-ui-datepicker/jquery-ui.structure.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "muzxocw2wj",
+      "Integrity": "vnvpcv68GGp6udQaBCRjYxsmy9RrijhIzFcfRGUC5LE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\admin\\jquery-ui-datepicker\\jquery-ui.structure.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\jquery-ui.theme.css",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "admin/jquery-ui-datepicker/jquery-ui.theme#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kl3vawhewr",
+      "Integrity": "+H2OXg3HyEZCyGo1/pw1tBxqNLpNNwjCTICGv6alln4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\admin\\jquery-ui-datepicker\\jquery-ui.theme.css"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\jquery-ui.theme.min.css",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "admin/jquery-ui-datepicker/jquery-ui.theme.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "krn9mn7c2o",
+      "Integrity": "cB3aRhD0iqKH13E2AR3+iWbBTNPTrXie41dsZp7AQgw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\admin\\jquery-ui-datepicker\\jquery-ui.theme.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\LICENSE.txt",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "admin/jquery-ui-datepicker/LICENSE#[.{fingerprint}]?.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ij2sc38tmq",
+      "Integrity": "3jP7aViA0LB2FdS4b3jNQ3lpBpWa3l/f73CWiCeg23g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\admin\\jquery-ui-datepicker\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\package.json",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "admin/jquery-ui-datepicker/package#[.{fingerprint}]?.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "e9ore0fneh",
+      "Integrity": "kjEW8xMYuqRSwEE58KqTDNLgkx/6YL7tb1M9vlMK98w=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\admin\\jquery-ui-datepicker\\package.json"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\js\\bootstrap.min.js",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "admin/js/bootstrap.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "a8sno6uueg",
+      "Integrity": "VsEqElsCHSGmnmHXGQzvoWjWwoznFSZc6hs7ARLRacQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\admin\\js\\bootstrap.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\js\\Chart.min.js",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "admin/js/Chart.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "j53whw8egf",
+      "Integrity": "CfcERD4Ov4+lKbWbYqXD6aFM9M51gN4GUEtDhkWABMo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\admin\\js\\Chart.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\js\\fullcalendar.min.js",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "admin/js/fullcalendar.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6jha9m4q1i",
+      "Integrity": "QvhPq+evNjd8JyxSOU5KL3jPYTD7+gWVev1OH763SL0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\admin\\js\\fullcalendar.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\js\\jquery-3.3.1.min.js",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "admin/js/jquery-3.3.1.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "y78zfkquzf",
+      "Integrity": "oozPintQUive6gzYPN7KIhwY/B+d8+5rPTxI1ZkgaFU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\admin\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\js\\moment.min.js",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "admin/js/moment.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "m5w5l5pbm0",
+      "Integrity": "CutOzxCRucUsn6C6TcEYsauvvYilEniTXldPa6/wu0k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\admin\\js\\moment.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\js\\tooplate-scripts.js",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "admin/js/tooplate-scripts#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qvbtvwfbvs",
+      "Integrity": "mm/uf94ud/XqrA2HvLPgOMMh6hrotdwAMYF83ZhvmyA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\admin\\js\\tooplate-scripts.js"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\js\\utils.js",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "admin/js/utils#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "agaqpegts8",
+      "Integrity": "llfN8OPz7nWGLv8KMUFlly5P4mkgGfHAnwhvdOUSDwM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\admin\\js\\utils.js"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\webfonts\\fa-brands-400.eot",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "admin/webfonts/fa-brands-400#[.{fingerprint}]?.eot",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rhnejdkf2t",
+      "Integrity": "kUp7oUt9TrT/O9NNSOJYg0vLlnZNSecQZU9fgJTp+fk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\admin\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\webfonts\\fa-brands-400.svg",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "admin/webfonts/fa-brands-400#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "w8ui2l9vbr",
+      "Integrity": "YJD36R6Z7N2vxD+YYn0padVj6fR2oEal0r2d0WgwDfg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\admin\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\webfonts\\fa-brands-400.ttf",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "admin/webfonts/fa-brands-400#[.{fingerprint}]?.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ya0lmljpk1",
+      "Integrity": "NlFjtwbIzvX8bGmgoN38QLXHJtWpVfwqLOxQ3qzXeSg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\admin\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\webfonts\\fa-brands-400.woff",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "admin/webfonts/fa-brands-400#[.{fingerprint}]?.woff",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6bkihun1hl",
+      "Integrity": "UtAtcw5l90oI55yjn62wYcFOWd4v+oMLzwXAMPz3AOk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\admin\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\webfonts\\fa-brands-400.woff2",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "admin/webfonts/fa-brands-400#[.{fingerprint}]?.woff2",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "v56qlu3f9q",
+      "Integrity": "TQEw0xTxZpyepakR1AHWJQ+WOGpSsMOPez+0PNzRBYk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\admin\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\webfonts\\fa-regular-400.eot",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "admin/webfonts/fa-regular-400#[.{fingerprint}]?.eot",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3hi7thgbff",
+      "Integrity": "Rzqa3CsAqiN6ZrggcG0cAlXvsP5oZHYAQv1Xa+l/2a4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\admin\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\webfonts\\fa-regular-400.svg",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "admin/webfonts/fa-regular-400#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "thgv8runu5",
+      "Integrity": "v6afg9SlE7uwG2Nro3fswUIOJjrjK63TfrMwGeL2vzE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\admin\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\webfonts\\fa-regular-400.ttf",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "admin/webfonts/fa-regular-400#[.{fingerprint}]?.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "iwcoecxf1j",
+      "Integrity": "rlr07d3JsGDC71CcsJ6+GkaD5oljOBFDRoDfMZ/qUQc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\admin\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\webfonts\\fa-regular-400.woff",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "admin/webfonts/fa-regular-400#[.{fingerprint}]?.woff",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "t4u1tpxa3h",
+      "Integrity": "zR85+wuXzQMbnGbPPBHok7/7M3HcuBWFOhus1FW1Y9Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\admin\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\webfonts\\fa-regular-400.woff2",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "admin/webfonts/fa-regular-400#[.{fingerprint}]?.woff2",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2cseo5y99k",
+      "Integrity": "Ds2fW7SSvnHjqsyMpPFwyPmJAkKiXixuyaQvE1YbAo8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\admin\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\webfonts\\fa-solid-900.eot",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "admin/webfonts/fa-solid-900#[.{fingerprint}]?.eot",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ied04nwpll",
+      "Integrity": "Jjx1qMq4vda2QvKd2/O7sLg69KZuRWBMk8u/lwmWtbM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\admin\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\webfonts\\fa-solid-900.svg",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "admin/webfonts/fa-solid-900#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bfafo1tmnz",
+      "Integrity": "eRFCSteZMfSV2/yXeb9SN3Jh7SUKD/mgcX/vfPcNg7Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\admin\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\webfonts\\fa-solid-900.ttf",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "admin/webfonts/fa-solid-900#[.{fingerprint}]?.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ekpl54ad2r",
+      "Integrity": "UvbXegBXJ/S5IFERnnbplWt+5xvywiOFgZr7GobSiqQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\admin\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\webfonts\\fa-solid-900.woff",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "admin/webfonts/fa-solid-900#[.{fingerprint}]?.woff",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sbhwolmi47",
+      "Integrity": "SHRWKaJS+06NJ1BSfA1JNBwsF9X+W8ajfsgrBiroTJw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\admin\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\webfonts\\fa-solid-900.woff2",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "admin/webfonts/fa-solid-900#[.{fingerprint}]?.woff2",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4i5y95t675",
+      "Integrity": "XH35nfIyWGERkXCDqFqjG4LuKeSMopkOE/rgwGY6kj8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\admin\\webfonts\\fa-solid-900.woff2"
     },
     {
       "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\css\\bootstrap.min.css",
@@ -1656,6 +2874,4762 @@
     }
   ],
   "Endpoints": [
+    {
+      "Route": "admin/css/bootstrap.min.css",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\css\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "140936"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eSi1q2PG6J7g7ib17yAaWMcrr5GrtohYChqibrV7PBE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eSi1q2PG6J7g7ib17yAaWMcrr5GrtohYChqibrV7PBE="
+        }
+      ]
+    },
+    {
+      "Route": "admin/css/bootstrap.min.z5jyisouil.css",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\css\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "140936"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eSi1q2PG6J7g7ib17yAaWMcrr5GrtohYChqibrV7PBE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "z5jyisouil"
+        },
+        {
+          "Name": "label",
+          "Value": "admin/css/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eSi1q2PG6J7g7ib17yAaWMcrr5GrtohYChqibrV7PBE="
+        }
+      ]
+    },
+    {
+      "Route": "admin/css/fontawesome.min.412dmwne27.css",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\css\\fontawesome.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "46930"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iJGhYPiir7gd5SWfn2jlrzeCNI6iknrZ6Wm8iMfTmYQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "412dmwne27"
+        },
+        {
+          "Name": "label",
+          "Value": "admin/css/fontawesome.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iJGhYPiir7gd5SWfn2jlrzeCNI6iknrZ6Wm8iMfTmYQ="
+        }
+      ]
+    },
+    {
+      "Route": "admin/css/fontawesome.min.css",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\css\\fontawesome.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "46930"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iJGhYPiir7gd5SWfn2jlrzeCNI6iknrZ6Wm8iMfTmYQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iJGhYPiir7gd5SWfn2jlrzeCNI6iknrZ6Wm8iMfTmYQ="
+        }
+      ]
+    },
+    {
+      "Route": "admin/css/fullcalendar.min.alhx6c6hi5.css",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\css\\fullcalendar.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16066"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Tu3DN+5kwrhzlzhNUMuGht2h7cR6ARgKcYemB9u5SzA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "alhx6c6hi5"
+        },
+        {
+          "Name": "label",
+          "Value": "admin/css/fullcalendar.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Tu3DN+5kwrhzlzhNUMuGht2h7cR6ARgKcYemB9u5SzA="
+        }
+      ]
+    },
+    {
+      "Route": "admin/css/fullcalendar.min.css",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\css\\fullcalendar.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16066"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Tu3DN+5kwrhzlzhNUMuGht2h7cR6ARgKcYemB9u5SzA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Tu3DN+5kwrhzlzhNUMuGht2h7cR6ARgKcYemB9u5SzA="
+        }
+      ]
+    },
+    {
+      "Route": "admin/css/tooplate.css",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\css\\tooplate.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7913"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BMguFVoIPGzMtZwrNARLAOd/aUE36ON2kWidfBvbC0Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 11:39:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BMguFVoIPGzMtZwrNARLAOd/aUE36ON2kWidfBvbC0Q="
+        }
+      ]
+    },
+    {
+      "Route": "admin/css/tooplate.s846t8sz84.css",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\css\\tooplate.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7913"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BMguFVoIPGzMtZwrNARLAOd/aUE36ON2kWidfBvbC0Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 11:39:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s846t8sz84"
+        },
+        {
+          "Name": "label",
+          "Value": "admin/css/tooplate.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BMguFVoIPGzMtZwrNARLAOd/aUE36ON2kWidfBvbC0Q="
+        }
+      ]
+    },
+    {
+      "Route": "admin/img/dash-bg-01.7tyzr6gil9.jpg",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\img\\dash-bg-01.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "219124"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BRJYKwvxi4W6wsjA+37nOHAK3G2rZ8ZvTGa4P15OIaE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7tyzr6gil9"
+        },
+        {
+          "Name": "label",
+          "Value": "admin/img/dash-bg-01.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BRJYKwvxi4W6wsjA+37nOHAK3G2rZ8ZvTGa4P15OIaE="
+        }
+      ]
+    },
+    {
+      "Route": "admin/img/dash-bg-01.jpg",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\img\\dash-bg-01.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "219124"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BRJYKwvxi4W6wsjA+37nOHAK3G2rZ8ZvTGa4P15OIaE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BRJYKwvxi4W6wsjA+37nOHAK3G2rZ8ZvTGa4P15OIaE="
+        }
+      ]
+    },
+    {
+      "Route": "admin/img/dash-bg-02.jpg",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\img\\dash-bg-02.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "290350"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xzTbVQIgkajS9s7ET4MTMO/zjcjdfX+OIuZAWITa5GY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xzTbVQIgkajS9s7ET4MTMO/zjcjdfX+OIuZAWITa5GY="
+        }
+      ]
+    },
+    {
+      "Route": "admin/img/dash-bg-02.tv0j4f6nrp.jpg",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\img\\dash-bg-02.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "290350"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xzTbVQIgkajS9s7ET4MTMO/zjcjdfX+OIuZAWITa5GY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tv0j4f6nrp"
+        },
+        {
+          "Name": "label",
+          "Value": "admin/img/dash-bg-02.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xzTbVQIgkajS9s7ET4MTMO/zjcjdfX+OIuZAWITa5GY="
+        }
+      ]
+    },
+    {
+      "Route": "admin/img/dash-bg-03.8n807ugd5g.jpg",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\img\\dash-bg-03.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "376921"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xAoiB0spk4teUbtq0mDAdRjjG6GJSJtSp6iU825M83o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8n807ugd5g"
+        },
+        {
+          "Name": "label",
+          "Value": "admin/img/dash-bg-03.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xAoiB0spk4teUbtq0mDAdRjjG6GJSJtSp6iU825M83o="
+        }
+      ]
+    },
+    {
+      "Route": "admin/img/dash-bg-03.jpg",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\img\\dash-bg-03.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "376921"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xAoiB0spk4teUbtq0mDAdRjjG6GJSJtSp6iU825M83o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xAoiB0spk4teUbtq0mDAdRjjG6GJSJtSp6iU825M83o="
+        }
+      ]
+    },
+    {
+      "Route": "admin/img/New Year.jpg",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\img\\New Year.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "122077"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zdx3F7FF2TCCp++M8dArTtocOUBYJ+74sP8GT7Y85eU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 11:29:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zdx3F7FF2TCCp++M8dArTtocOUBYJ+74sP8GT7Y85eU="
+        }
+      ]
+    },
+    {
+      "Route": "admin/img/New Year.nfkzpm0s1d.jpg",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\img\\New Year.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "122077"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zdx3F7FF2TCCp++M8dArTtocOUBYJ+74sP8GT7Y85eU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 11:29:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nfkzpm0s1d"
+        },
+        {
+          "Name": "label",
+          "Value": "admin/img/New Year.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zdx3F7FF2TCCp++M8dArTtocOUBYJ+74sP8GT7Y85eU="
+        }
+      ]
+    },
+    {
+      "Route": "admin/img/product-image.hnojqlqxcx.jpg",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\img\\product-image.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "57778"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jbEFgsjOQsZ/b/THceMWJt54CUeB6rLtYxKp8ZGUel4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hnojqlqxcx"
+        },
+        {
+          "Name": "label",
+          "Value": "admin/img/product-image.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jbEFgsjOQsZ/b/THceMWJt54CUeB6rLtYxKp8ZGUel4="
+        }
+      ]
+    },
+    {
+      "Route": "admin/img/product-image.jpg",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\img\\product-image.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "57778"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jbEFgsjOQsZ/b/THceMWJt54CUeB6rLtYxKp8ZGUel4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jbEFgsjOQsZ/b/THceMWJt54CUeB6rLtYxKp8ZGUel4="
+        }
+      ]
+    },
+    {
+      "Route": "admin/img/profile-image.ljoq8y7dsh.png",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\img\\profile-image.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "109947"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wX7M84Mf3xdfr/p7DMvbmzSaIDUC1hMtdVQdNaku2ms=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ljoq8y7dsh"
+        },
+        {
+          "Name": "label",
+          "Value": "admin/img/profile-image.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wX7M84Mf3xdfr/p7DMvbmzSaIDUC1hMtdVQdNaku2ms="
+        }
+      ]
+    },
+    {
+      "Route": "admin/img/profile-image.png",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\img\\profile-image.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "109947"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wX7M84Mf3xdfr/p7DMvbmzSaIDUC1hMtdVQdNaku2ms=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wX7M84Mf3xdfr/p7DMvbmzSaIDUC1hMtdVQdNaku2ms="
+        }
+      ]
+    },
+    {
+      "Route": "admin/jquery-ui-datepicker/AUTHORS.tqif9uzyy2.txt",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\AUTHORS.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12660"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W2Lh1mbGo3Owc0oXX9U1+TFVSZYaC72KvSRrrRp3UII=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tqif9uzyy2"
+        },
+        {
+          "Name": "label",
+          "Value": "admin/jquery-ui-datepicker/AUTHORS.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-W2Lh1mbGo3Owc0oXX9U1+TFVSZYaC72KvSRrrRp3UII="
+        }
+      ]
+    },
+    {
+      "Route": "admin/jquery-ui-datepicker/AUTHORS.txt",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\AUTHORS.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12660"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W2Lh1mbGo3Owc0oXX9U1+TFVSZYaC72KvSRrrRp3UII=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-W2Lh1mbGo3Owc0oXX9U1+TFVSZYaC72KvSRrrRp3UII="
+        }
+      ]
+    },
+    {
+      "Route": "admin/jquery-ui-datepicker/external/jquery/jquery.5a5gqan19u.js",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\external\\jquery\\jquery.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "293430"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Qw82+bXyGq6MydymqBxNPYTaUXXq7c8v3CwiYwLLNXU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5a5gqan19u"
+        },
+        {
+          "Name": "label",
+          "Value": "admin/jquery-ui-datepicker/external/jquery/jquery.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Qw82+bXyGq6MydymqBxNPYTaUXXq7c8v3CwiYwLLNXU="
+        }
+      ]
+    },
+    {
+      "Route": "admin/jquery-ui-datepicker/external/jquery/jquery.js",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\external\\jquery\\jquery.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "293430"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Qw82+bXyGq6MydymqBxNPYTaUXXq7c8v3CwiYwLLNXU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Qw82+bXyGq6MydymqBxNPYTaUXXq7c8v3CwiYwLLNXU="
+        }
+      ]
+    },
+    {
+      "Route": "admin/jquery-ui-datepicker/images/ui-bg_glass_75_d0e5f5_1x400.png",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\images\\ui-bg_glass_75_d0e5f5_1x400.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "336"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lkwaN2/FtCHJDjXM5m5K02c/dlPIABFMTILCaKTjD0k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lkwaN2/FtCHJDjXM5m5K02c/dlPIABFMTILCaKTjD0k="
+        }
+      ]
+    },
+    {
+      "Route": "admin/jquery-ui-datepicker/images/ui-bg_glass_75_d0e5f5_1x400.yqim7l5us4.png",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\images\\ui-bg_glass_75_d0e5f5_1x400.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "336"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lkwaN2/FtCHJDjXM5m5K02c/dlPIABFMTILCaKTjD0k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yqim7l5us4"
+        },
+        {
+          "Name": "label",
+          "Value": "admin/jquery-ui-datepicker/images/ui-bg_glass_75_d0e5f5_1x400.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lkwaN2/FtCHJDjXM5m5K02c/dlPIABFMTILCaKTjD0k="
+        }
+      ]
+    },
+    {
+      "Route": "admin/jquery-ui-datepicker/images/ui-bg_glass_85_dfeffc_1x400.png",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\images\\ui-bg_glass_85_dfeffc_1x400.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "341"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tW+uuKDghUoC9IxUI0voU8oWVYN+G/fy/f2qw12fwgU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tW+uuKDghUoC9IxUI0voU8oWVYN+G/fy/f2qw12fwgU="
+        }
+      ]
+    },
+    {
+      "Route": "admin/jquery-ui-datepicker/images/ui-bg_glass_85_dfeffc_1x400.pr1bqecqoi.png",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\images\\ui-bg_glass_85_dfeffc_1x400.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "341"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tW+uuKDghUoC9IxUI0voU8oWVYN+G/fy/f2qw12fwgU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pr1bqecqoi"
+        },
+        {
+          "Name": "label",
+          "Value": "admin/jquery-ui-datepicker/images/ui-bg_glass_85_dfeffc_1x400.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tW+uuKDghUoC9IxUI0voU8oWVYN+G/fy/f2qw12fwgU="
+        }
+      ]
+    },
+    {
+      "Route": "admin/jquery-ui-datepicker/images/ui-bg_glass_95_fef1ec_1x400.2m2jlxweor.png",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\images\\ui-bg_glass_95_fef1ec_1x400.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "332"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+mxUszQR2/57UlzRsmFzhOg50dv1Thw6Mxz99tTBi/g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2m2jlxweor"
+        },
+        {
+          "Name": "label",
+          "Value": "admin/jquery-ui-datepicker/images/ui-bg_glass_95_fef1ec_1x400.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+mxUszQR2/57UlzRsmFzhOg50dv1Thw6Mxz99tTBi/g="
+        }
+      ]
+    },
+    {
+      "Route": "admin/jquery-ui-datepicker/images/ui-bg_glass_95_fef1ec_1x400.png",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\images\\ui-bg_glass_95_fef1ec_1x400.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "332"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+mxUszQR2/57UlzRsmFzhOg50dv1Thw6Mxz99tTBi/g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+mxUszQR2/57UlzRsmFzhOg50dv1Thw6Mxz99tTBi/g="
+        }
+      ]
+    },
+    {
+      "Route": "admin/jquery-ui-datepicker/images/ui-bg_gloss-wave_55_5c9ccc_500x100.lnje5oabqb.png",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\images\\ui-bg_gloss-wave_55_5c9ccc_500x100.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5824"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/7+M5YW7kVrR1oIvDpWizv/Ter9SxFYOXh/oFOHWaM8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lnje5oabqb"
+        },
+        {
+          "Name": "label",
+          "Value": "admin/jquery-ui-datepicker/images/ui-bg_gloss-wave_55_5c9ccc_500x100.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/7+M5YW7kVrR1oIvDpWizv/Ter9SxFYOXh/oFOHWaM8="
+        }
+      ]
+    },
+    {
+      "Route": "admin/jquery-ui-datepicker/images/ui-bg_gloss-wave_55_5c9ccc_500x100.png",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\images\\ui-bg_gloss-wave_55_5c9ccc_500x100.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5824"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/7+M5YW7kVrR1oIvDpWizv/Ter9SxFYOXh/oFOHWaM8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/7+M5YW7kVrR1oIvDpWizv/Ter9SxFYOXh/oFOHWaM8="
+        }
+      ]
+    },
+    {
+      "Route": "admin/jquery-ui-datepicker/images/ui-bg_inset-hard_100_f5f8f9_1x100.6r53voyjrh.png",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\images\\ui-bg_inset-hard_100_f5f8f9_1x100.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "333"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HgEG8PmrSfOtNFje07gjn0XOe8pPGdbzsOyfeGmKk88=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6r53voyjrh"
+        },
+        {
+          "Name": "label",
+          "Value": "admin/jquery-ui-datepicker/images/ui-bg_inset-hard_100_f5f8f9_1x100.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HgEG8PmrSfOtNFje07gjn0XOe8pPGdbzsOyfeGmKk88="
+        }
+      ]
+    },
+    {
+      "Route": "admin/jquery-ui-datepicker/images/ui-bg_inset-hard_100_f5f8f9_1x100.png",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\images\\ui-bg_inset-hard_100_f5f8f9_1x100.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "333"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HgEG8PmrSfOtNFje07gjn0XOe8pPGdbzsOyfeGmKk88=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HgEG8PmrSfOtNFje07gjn0XOe8pPGdbzsOyfeGmKk88="
+        }
+      ]
+    },
+    {
+      "Route": "admin/jquery-ui-datepicker/images/ui-bg_inset-hard_100_fcfdfd_1x100.7z1d7mj4du.png",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\images\\ui-bg_inset-hard_100_fcfdfd_1x100.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "292"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vQXd8ctxrJ/+64znU5hygrEgbc4COBALjBt9vORk1aE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7z1d7mj4du"
+        },
+        {
+          "Name": "label",
+          "Value": "admin/jquery-ui-datepicker/images/ui-bg_inset-hard_100_fcfdfd_1x100.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vQXd8ctxrJ/+64znU5hygrEgbc4COBALjBt9vORk1aE="
+        }
+      ]
+    },
+    {
+      "Route": "admin/jquery-ui-datepicker/images/ui-bg_inset-hard_100_fcfdfd_1x100.png",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\images\\ui-bg_inset-hard_100_fcfdfd_1x100.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "292"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vQXd8ctxrJ/+64znU5hygrEgbc4COBALjBt9vORk1aE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vQXd8ctxrJ/+64znU5hygrEgbc4COBALjBt9vORk1aE="
+        }
+      ]
+    },
+    {
+      "Route": "admin/jquery-ui-datepicker/images/ui-icons_217bc0_256x240.png",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\images\\ui-icons_217bc0_256x240.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4549"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FLb8rfWQlPRYVQYZvOSXxL5wKr6E3jdLqb0oUN2g8HU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FLb8rfWQlPRYVQYZvOSXxL5wKr6E3jdLqb0oUN2g8HU="
+        }
+      ]
+    },
+    {
+      "Route": "admin/jquery-ui-datepicker/images/ui-icons_217bc0_256x240.wpvm89ub7m.png",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\images\\ui-icons_217bc0_256x240.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4549"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FLb8rfWQlPRYVQYZvOSXxL5wKr6E3jdLqb0oUN2g8HU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wpvm89ub7m"
+        },
+        {
+          "Name": "label",
+          "Value": "admin/jquery-ui-datepicker/images/ui-icons_217bc0_256x240.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FLb8rfWQlPRYVQYZvOSXxL5wKr6E3jdLqb0oUN2g8HU="
+        }
+      ]
+    },
+    {
+      "Route": "admin/jquery-ui-datepicker/images/ui-icons_2e83ff_256x240.cor9arjori.png",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\images\\ui-icons_2e83ff_256x240.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4549"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pEVCT2zeXrq0LuUon+vQnAVhAam6WcayjDZ51y1dz5s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cor9arjori"
+        },
+        {
+          "Name": "label",
+          "Value": "admin/jquery-ui-datepicker/images/ui-icons_2e83ff_256x240.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pEVCT2zeXrq0LuUon+vQnAVhAam6WcayjDZ51y1dz5s="
+        }
+      ]
+    },
+    {
+      "Route": "admin/jquery-ui-datepicker/images/ui-icons_2e83ff_256x240.png",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\images\\ui-icons_2e83ff_256x240.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4549"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pEVCT2zeXrq0LuUon+vQnAVhAam6WcayjDZ51y1dz5s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pEVCT2zeXrq0LuUon+vQnAVhAam6WcayjDZ51y1dz5s="
+        }
+      ]
+    },
+    {
+      "Route": "admin/jquery-ui-datepicker/images/ui-icons_469bdd_256x240.4xhp8hbq2r.png",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\images\\ui-icons_469bdd_256x240.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4549"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+EJ60/I13hl7dv5ou4i9RY9HjVSU4LUYPvXUZzTfpuU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4xhp8hbq2r"
+        },
+        {
+          "Name": "label",
+          "Value": "admin/jquery-ui-datepicker/images/ui-icons_469bdd_256x240.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+EJ60/I13hl7dv5ou4i9RY9HjVSU4LUYPvXUZzTfpuU="
+        }
+      ]
+    },
+    {
+      "Route": "admin/jquery-ui-datepicker/images/ui-icons_469bdd_256x240.png",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\images\\ui-icons_469bdd_256x240.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4549"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+EJ60/I13hl7dv5ou4i9RY9HjVSU4LUYPvXUZzTfpuU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+EJ60/I13hl7dv5ou4i9RY9HjVSU4LUYPvXUZzTfpuU="
+        }
+      ]
+    },
+    {
+      "Route": "admin/jquery-ui-datepicker/images/ui-icons_6da8d5_256x240.8zumtmc0lh.png",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\images\\ui-icons_6da8d5_256x240.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4549"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rKRw6Tk4IqWPrpv9k1otzFjqJEyQf8ruYBEp05WxOTo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8zumtmc0lh"
+        },
+        {
+          "Name": "label",
+          "Value": "admin/jquery-ui-datepicker/images/ui-icons_6da8d5_256x240.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rKRw6Tk4IqWPrpv9k1otzFjqJEyQf8ruYBEp05WxOTo="
+        }
+      ]
+    },
+    {
+      "Route": "admin/jquery-ui-datepicker/images/ui-icons_6da8d5_256x240.png",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\images\\ui-icons_6da8d5_256x240.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4549"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rKRw6Tk4IqWPrpv9k1otzFjqJEyQf8ruYBEp05WxOTo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rKRw6Tk4IqWPrpv9k1otzFjqJEyQf8ruYBEp05WxOTo="
+        }
+      ]
+    },
+    {
+      "Route": "admin/jquery-ui-datepicker/images/ui-icons_cd0a0a_256x240.png",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\images\\ui-icons_cd0a0a_256x240.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4549"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"R4M8oswDDafWo3ZzG5fNYNrSmyxvRIFpwAzQ/7kf0Rg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-R4M8oswDDafWo3ZzG5fNYNrSmyxvRIFpwAzQ/7kf0Rg="
+        }
+      ]
+    },
+    {
+      "Route": "admin/jquery-ui-datepicker/images/ui-icons_cd0a0a_256x240.tn6wzko1b1.png",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\images\\ui-icons_cd0a0a_256x240.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4549"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"R4M8oswDDafWo3ZzG5fNYNrSmyxvRIFpwAzQ/7kf0Rg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tn6wzko1b1"
+        },
+        {
+          "Name": "label",
+          "Value": "admin/jquery-ui-datepicker/images/ui-icons_cd0a0a_256x240.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-R4M8oswDDafWo3ZzG5fNYNrSmyxvRIFpwAzQ/7kf0Rg="
+        }
+      ]
+    },
+    {
+      "Route": "admin/jquery-ui-datepicker/images/ui-icons_d8e7f3_256x240.png",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\images\\ui-icons_d8e7f3_256x240.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4549"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Mc7516741dAnrPI6K7eaba0fY+Qs6PVM9kamvDstlbc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Mc7516741dAnrPI6K7eaba0fY+Qs6PVM9kamvDstlbc="
+        }
+      ]
+    },
+    {
+      "Route": "admin/jquery-ui-datepicker/images/ui-icons_d8e7f3_256x240.t56so2yds1.png",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\images\\ui-icons_d8e7f3_256x240.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4549"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Mc7516741dAnrPI6K7eaba0fY+Qs6PVM9kamvDstlbc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "t56so2yds1"
+        },
+        {
+          "Name": "label",
+          "Value": "admin/jquery-ui-datepicker/images/ui-icons_d8e7f3_256x240.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Mc7516741dAnrPI6K7eaba0fY+Qs6PVM9kamvDstlbc="
+        }
+      ]
+    },
+    {
+      "Route": "admin/jquery-ui-datepicker/images/ui-icons_f9bd01_256x240.l08fd23byl.png",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\images\\ui-icons_f9bd01_256x240.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4549"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"q8TyP4H6SG79lVhN627QdR/tzpCLKrqmQYzgtmXhDOw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l08fd23byl"
+        },
+        {
+          "Name": "label",
+          "Value": "admin/jquery-ui-datepicker/images/ui-icons_f9bd01_256x240.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-q8TyP4H6SG79lVhN627QdR/tzpCLKrqmQYzgtmXhDOw="
+        }
+      ]
+    },
+    {
+      "Route": "admin/jquery-ui-datepicker/images/ui-icons_f9bd01_256x240.png",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\images\\ui-icons_f9bd01_256x240.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4549"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"q8TyP4H6SG79lVhN627QdR/tzpCLKrqmQYzgtmXhDOw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-q8TyP4H6SG79lVhN627QdR/tzpCLKrqmQYzgtmXhDOw="
+        }
+      ]
+    },
+    {
+      "Route": "admin/jquery-ui-datepicker/index.html",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24397"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GCF1JRTWMSHcQO0zsIQLcdB8j79mLaqao/H7h2wHtjU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GCF1JRTWMSHcQO0zsIQLcdB8j79mLaqao/H7h2wHtjU="
+        }
+      ]
+    },
+    {
+      "Route": "admin/jquery-ui-datepicker/index.s3216i995t.html",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24397"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GCF1JRTWMSHcQO0zsIQLcdB8j79mLaqao/H7h2wHtjU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s3216i995t"
+        },
+        {
+          "Name": "label",
+          "Value": "admin/jquery-ui-datepicker/index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GCF1JRTWMSHcQO0zsIQLcdB8j79mLaqao/H7h2wHtjU="
+        }
+      ]
+    },
+    {
+      "Route": "admin/jquery-ui-datepicker/jquery-ui.af0g4uwm7t.css",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\jquery-ui.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22814"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JqKn/LXkhxUg5OTazch/HeWYhRMl+eZlmieZaQKkwDI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "af0g4uwm7t"
+        },
+        {
+          "Name": "label",
+          "Value": "admin/jquery-ui-datepicker/jquery-ui.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JqKn/LXkhxUg5OTazch/HeWYhRMl+eZlmieZaQKkwDI="
+        }
+      ]
+    },
+    {
+      "Route": "admin/jquery-ui-datepicker/jquery-ui.css",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\jquery-ui.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22814"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JqKn/LXkhxUg5OTazch/HeWYhRMl+eZlmieZaQKkwDI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JqKn/LXkhxUg5OTazch/HeWYhRMl+eZlmieZaQKkwDI="
+        }
+      ]
+    },
+    {
+      "Route": "admin/jquery-ui-datepicker/jquery-ui.js",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\jquery-ui.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "81553"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KmXZNK+GJyoue62QGS6BhG33zcpHpsScRU/3Tsrc+Qc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KmXZNK+GJyoue62QGS6BhG33zcpHpsScRU/3Tsrc+Qc="
+        }
+      ]
+    },
+    {
+      "Route": "admin/jquery-ui-datepicker/jquery-ui.min.bdae6p81a1.css",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\jquery-ui.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19732"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/7VC/NEVkZQAfvNbCkDj+9wsK+e0c3L3z/52OEEOtvU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bdae6p81a1"
+        },
+        {
+          "Name": "label",
+          "Value": "admin/jquery-ui-datepicker/jquery-ui.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/7VC/NEVkZQAfvNbCkDj+9wsK+e0c3L3z/52OEEOtvU="
+        }
+      ]
+    },
+    {
+      "Route": "admin/jquery-ui-datepicker/jquery-ui.min.css",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\jquery-ui.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19732"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/7VC/NEVkZQAfvNbCkDj+9wsK+e0c3L3z/52OEEOtvU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/7VC/NEVkZQAfvNbCkDj+9wsK+e0c3L3z/52OEEOtvU="
+        }
+      ]
+    },
+    {
+      "Route": "admin/jquery-ui-datepicker/jquery-ui.min.flw7jivxh7.js",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\jquery-ui.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "36675"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PbRNjKI19GXqs2IFeS3fPF0mT3gN/qIZEECm9DrxZ34=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "flw7jivxh7"
+        },
+        {
+          "Name": "label",
+          "Value": "admin/jquery-ui-datepicker/jquery-ui.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PbRNjKI19GXqs2IFeS3fPF0mT3gN/qIZEECm9DrxZ34="
+        }
+      ]
+    },
+    {
+      "Route": "admin/jquery-ui-datepicker/jquery-ui.min.js",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\jquery-ui.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "36675"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PbRNjKI19GXqs2IFeS3fPF0mT3gN/qIZEECm9DrxZ34=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PbRNjKI19GXqs2IFeS3fPF0mT3gN/qIZEECm9DrxZ34="
+        }
+      ]
+    },
+    {
+      "Route": "admin/jquery-ui-datepicker/jquery-ui.q09qhxa17q.js",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\jquery-ui.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "81553"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KmXZNK+GJyoue62QGS6BhG33zcpHpsScRU/3Tsrc+Qc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "q09qhxa17q"
+        },
+        {
+          "Name": "label",
+          "Value": "admin/jquery-ui-datepicker/jquery-ui.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KmXZNK+GJyoue62QGS6BhG33zcpHpsScRU/3Tsrc+Qc="
+        }
+      ]
+    },
+    {
+      "Route": "admin/jquery-ui-datepicker/jquery-ui.structure.css",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\jquery-ui.structure.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5128"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e2Dy2o+S5kRN7J4yrabnsmkFssIzJQOCtbDnnfUMpzw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-e2Dy2o+S5kRN7J4yrabnsmkFssIzJQOCtbDnnfUMpzw="
+        }
+      ]
+    },
+    {
+      "Route": "admin/jquery-ui-datepicker/jquery-ui.structure.min.css",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\jquery-ui.structure.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4110"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vnvpcv68GGp6udQaBCRjYxsmy9RrijhIzFcfRGUC5LE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vnvpcv68GGp6udQaBCRjYxsmy9RrijhIzFcfRGUC5LE="
+        }
+      ]
+    },
+    {
+      "Route": "admin/jquery-ui-datepicker/jquery-ui.structure.min.muzxocw2wj.css",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\jquery-ui.structure.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4110"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vnvpcv68GGp6udQaBCRjYxsmy9RrijhIzFcfRGUC5LE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "muzxocw2wj"
+        },
+        {
+          "Name": "label",
+          "Value": "admin/jquery-ui-datepicker/jquery-ui.structure.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vnvpcv68GGp6udQaBCRjYxsmy9RrijhIzFcfRGUC5LE="
+        }
+      ]
+    },
+    {
+      "Route": "admin/jquery-ui-datepicker/jquery-ui.structure.ntxxfmnxrx.css",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\jquery-ui.structure.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5128"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e2Dy2o+S5kRN7J4yrabnsmkFssIzJQOCtbDnnfUMpzw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ntxxfmnxrx"
+        },
+        {
+          "Name": "label",
+          "Value": "admin/jquery-ui-datepicker/jquery-ui.structure.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-e2Dy2o+S5kRN7J4yrabnsmkFssIzJQOCtbDnnfUMpzw="
+        }
+      ]
+    },
+    {
+      "Route": "admin/jquery-ui-datepicker/jquery-ui.theme.css",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\jquery-ui.theme.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17981"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+H2OXg3HyEZCyGo1/pw1tBxqNLpNNwjCTICGv6alln4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+H2OXg3HyEZCyGo1/pw1tBxqNLpNNwjCTICGv6alln4="
+        }
+      ]
+    },
+    {
+      "Route": "admin/jquery-ui-datepicker/jquery-ui.theme.kl3vawhewr.css",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\jquery-ui.theme.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17981"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+H2OXg3HyEZCyGo1/pw1tBxqNLpNNwjCTICGv6alln4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kl3vawhewr"
+        },
+        {
+          "Name": "label",
+          "Value": "admin/jquery-ui-datepicker/jquery-ui.theme.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+H2OXg3HyEZCyGo1/pw1tBxqNLpNNwjCTICGv6alln4="
+        }
+      ]
+    },
+    {
+      "Route": "admin/jquery-ui-datepicker/jquery-ui.theme.min.css",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\jquery-ui.theme.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14308"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cB3aRhD0iqKH13E2AR3+iWbBTNPTrXie41dsZp7AQgw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cB3aRhD0iqKH13E2AR3+iWbBTNPTrXie41dsZp7AQgw="
+        }
+      ]
+    },
+    {
+      "Route": "admin/jquery-ui-datepicker/jquery-ui.theme.min.krn9mn7c2o.css",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\jquery-ui.theme.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14308"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cB3aRhD0iqKH13E2AR3+iWbBTNPTrXie41dsZp7AQgw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "krn9mn7c2o"
+        },
+        {
+          "Name": "label",
+          "Value": "admin/jquery-ui-datepicker/jquery-ui.theme.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cB3aRhD0iqKH13E2AR3+iWbBTNPTrXie41dsZp7AQgw="
+        }
+      ]
+    },
+    {
+      "Route": "admin/jquery-ui-datepicker/LICENSE.ij2sc38tmq.txt",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\LICENSE.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1817"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3jP7aViA0LB2FdS4b3jNQ3lpBpWa3l/f73CWiCeg23g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ij2sc38tmq"
+        },
+        {
+          "Name": "label",
+          "Value": "admin/jquery-ui-datepicker/LICENSE.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3jP7aViA0LB2FdS4b3jNQ3lpBpWa3l/f73CWiCeg23g="
+        }
+      ]
+    },
+    {
+      "Route": "admin/jquery-ui-datepicker/LICENSE.txt",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\LICENSE.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1817"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3jP7aViA0LB2FdS4b3jNQ3lpBpWa3l/f73CWiCeg23g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3jP7aViA0LB2FdS4b3jNQ3lpBpWa3l/f73CWiCeg23g="
+        }
+      ]
+    },
+    {
+      "Route": "admin/jquery-ui-datepicker/package.e9ore0fneh.json",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\package.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1847"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kjEW8xMYuqRSwEE58KqTDNLgkx/6YL7tb1M9vlMK98w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e9ore0fneh"
+        },
+        {
+          "Name": "label",
+          "Value": "admin/jquery-ui-datepicker/package.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kjEW8xMYuqRSwEE58KqTDNLgkx/6YL7tb1M9vlMK98w="
+        }
+      ]
+    },
+    {
+      "Route": "admin/jquery-ui-datepicker/package.json",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\jquery-ui-datepicker\\package.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1847"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kjEW8xMYuqRSwEE58KqTDNLgkx/6YL7tb1M9vlMK98w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kjEW8xMYuqRSwEE58KqTDNLgkx/6YL7tb1M9vlMK98w="
+        }
+      ]
+    },
+    {
+      "Route": "admin/js/bootstrap.min.a8sno6uueg.js",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\js\\bootstrap.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "51039"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VsEqElsCHSGmnmHXGQzvoWjWwoznFSZc6hs7ARLRacQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "a8sno6uueg"
+        },
+        {
+          "Name": "label",
+          "Value": "admin/js/bootstrap.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VsEqElsCHSGmnmHXGQzvoWjWwoznFSZc6hs7ARLRacQ="
+        }
+      ]
+    },
+    {
+      "Route": "admin/js/bootstrap.min.js",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\js\\bootstrap.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "51039"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VsEqElsCHSGmnmHXGQzvoWjWwoznFSZc6hs7ARLRacQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VsEqElsCHSGmnmHXGQzvoWjWwoznFSZc6hs7ARLRacQ="
+        }
+      ]
+    },
+    {
+      "Route": "admin/js/Chart.min.j53whw8egf.js",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\js\\Chart.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "159638"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CfcERD4Ov4+lKbWbYqXD6aFM9M51gN4GUEtDhkWABMo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "j53whw8egf"
+        },
+        {
+          "Name": "label",
+          "Value": "admin/js/Chart.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CfcERD4Ov4+lKbWbYqXD6aFM9M51gN4GUEtDhkWABMo="
+        }
+      ]
+    },
+    {
+      "Route": "admin/js/Chart.min.js",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\js\\Chart.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "159638"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CfcERD4Ov4+lKbWbYqXD6aFM9M51gN4GUEtDhkWABMo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CfcERD4Ov4+lKbWbYqXD6aFM9M51gN4GUEtDhkWABMo="
+        }
+      ]
+    },
+    {
+      "Route": "admin/js/fullcalendar.min.6jha9m4q1i.js",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\js\\fullcalendar.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "213774"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QvhPq+evNjd8JyxSOU5KL3jPYTD7+gWVev1OH763SL0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6jha9m4q1i"
+        },
+        {
+          "Name": "label",
+          "Value": "admin/js/fullcalendar.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QvhPq+evNjd8JyxSOU5KL3jPYTD7+gWVev1OH763SL0="
+        }
+      ]
+    },
+    {
+      "Route": "admin/js/fullcalendar.min.js",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\js\\fullcalendar.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "213774"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QvhPq+evNjd8JyxSOU5KL3jPYTD7+gWVev1OH763SL0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QvhPq+evNjd8JyxSOU5KL3jPYTD7+gWVev1OH763SL0="
+        }
+      ]
+    },
+    {
+      "Route": "admin/js/jquery-3.3.1.min.js",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\js\\jquery-3.3.1.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "86926"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oozPintQUive6gzYPN7KIhwY/B+d8+5rPTxI1ZkgaFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oozPintQUive6gzYPN7KIhwY/B+d8+5rPTxI1ZkgaFU="
+        }
+      ]
+    },
+    {
+      "Route": "admin/js/jquery-3.3.1.min.y78zfkquzf.js",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\js\\jquery-3.3.1.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "86926"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oozPintQUive6gzYPN7KIhwY/B+d8+5rPTxI1ZkgaFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "y78zfkquzf"
+        },
+        {
+          "Name": "label",
+          "Value": "admin/js/jquery-3.3.1.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oozPintQUive6gzYPN7KIhwY/B+d8+5rPTxI1ZkgaFU="
+        }
+      ]
+    },
+    {
+      "Route": "admin/js/moment.min.js",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\js\\moment.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "51679"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CutOzxCRucUsn6C6TcEYsauvvYilEniTXldPa6/wu0k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CutOzxCRucUsn6C6TcEYsauvvYilEniTXldPa6/wu0k="
+        }
+      ]
+    },
+    {
+      "Route": "admin/js/moment.min.m5w5l5pbm0.js",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\js\\moment.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "51679"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CutOzxCRucUsn6C6TcEYsauvvYilEniTXldPa6/wu0k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "m5w5l5pbm0"
+        },
+        {
+          "Name": "label",
+          "Value": "admin/js/moment.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CutOzxCRucUsn6C6TcEYsauvvYilEniTXldPa6/wu0k="
+        }
+      ]
+    },
+    {
+      "Route": "admin/js/tooplate-scripts.js",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\js\\tooplate-scripts.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5178"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mm/uf94ud/XqrA2HvLPgOMMh6hrotdwAMYF83ZhvmyA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mm/uf94ud/XqrA2HvLPgOMMh6hrotdwAMYF83ZhvmyA="
+        }
+      ]
+    },
+    {
+      "Route": "admin/js/tooplate-scripts.qvbtvwfbvs.js",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\js\\tooplate-scripts.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5178"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mm/uf94ud/XqrA2HvLPgOMMh6hrotdwAMYF83ZhvmyA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qvbtvwfbvs"
+        },
+        {
+          "Name": "label",
+          "Value": "admin/js/tooplate-scripts.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mm/uf94ud/XqrA2HvLPgOMMh6hrotdwAMYF83ZhvmyA="
+        }
+      ]
+    },
+    {
+      "Route": "admin/js/utils.agaqpegts8.js",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\js\\utils.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3772"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"llfN8OPz7nWGLv8KMUFlly5P4mkgGfHAnwhvdOUSDwM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "agaqpegts8"
+        },
+        {
+          "Name": "label",
+          "Value": "admin/js/utils.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-llfN8OPz7nWGLv8KMUFlly5P4mkgGfHAnwhvdOUSDwM="
+        }
+      ]
+    },
+    {
+      "Route": "admin/js/utils.js",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\js\\utils.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3772"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"llfN8OPz7nWGLv8KMUFlly5P4mkgGfHAnwhvdOUSDwM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-llfN8OPz7nWGLv8KMUFlly5P4mkgGfHAnwhvdOUSDwM="
+        }
+      ]
+    },
+    {
+      "Route": "admin/webfonts/fa-brands-400.6bkihun1hl.woff",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\webfonts\\fa-brands-400.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74928"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UtAtcw5l90oI55yjn62wYcFOWd4v+oMLzwXAMPz3AOk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6bkihun1hl"
+        },
+        {
+          "Name": "label",
+          "Value": "admin/webfonts/fa-brands-400.woff"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UtAtcw5l90oI55yjn62wYcFOWd4v+oMLzwXAMPz3AOk="
+        }
+      ]
+    },
+    {
+      "Route": "admin/webfonts/fa-brands-400.eot",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\webfonts\\fa-brands-400.eot",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "116516"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.ms-fontobject"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kUp7oUt9TrT/O9NNSOJYg0vLlnZNSecQZU9fgJTp+fk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kUp7oUt9TrT/O9NNSOJYg0vLlnZNSecQZU9fgJTp+fk="
+        }
+      ]
+    },
+    {
+      "Route": "admin/webfonts/fa-brands-400.rhnejdkf2t.eot",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\webfonts\\fa-brands-400.eot",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "116516"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.ms-fontobject"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kUp7oUt9TrT/O9NNSOJYg0vLlnZNSecQZU9fgJTp+fk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rhnejdkf2t"
+        },
+        {
+          "Name": "label",
+          "Value": "admin/webfonts/fa-brands-400.eot"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kUp7oUt9TrT/O9NNSOJYg0vLlnZNSecQZU9fgJTp+fk="
+        }
+      ]
+    },
+    {
+      "Route": "admin/webfonts/fa-brands-400.svg",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\webfonts\\fa-brands-400.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "629256"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YJD36R6Z7N2vxD+YYn0padVj6fR2oEal0r2d0WgwDfg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YJD36R6Z7N2vxD+YYn0padVj6fR2oEal0r2d0WgwDfg="
+        }
+      ]
+    },
+    {
+      "Route": "admin/webfonts/fa-brands-400.ttf",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\webfonts\\fa-brands-400.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "116280"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NlFjtwbIzvX8bGmgoN38QLXHJtWpVfwqLOxQ3qzXeSg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NlFjtwbIzvX8bGmgoN38QLXHJtWpVfwqLOxQ3qzXeSg="
+        }
+      ]
+    },
+    {
+      "Route": "admin/webfonts/fa-brands-400.v56qlu3f9q.woff2",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\webfonts\\fa-brands-400.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "64144"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TQEw0xTxZpyepakR1AHWJQ+WOGpSsMOPez+0PNzRBYk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v56qlu3f9q"
+        },
+        {
+          "Name": "label",
+          "Value": "admin/webfonts/fa-brands-400.woff2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TQEw0xTxZpyepakR1AHWJQ+WOGpSsMOPez+0PNzRBYk="
+        }
+      ]
+    },
+    {
+      "Route": "admin/webfonts/fa-brands-400.w8ui2l9vbr.svg",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\webfonts\\fa-brands-400.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "629256"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YJD36R6Z7N2vxD+YYn0padVj6fR2oEal0r2d0WgwDfg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w8ui2l9vbr"
+        },
+        {
+          "Name": "label",
+          "Value": "admin/webfonts/fa-brands-400.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YJD36R6Z7N2vxD+YYn0padVj6fR2oEal0r2d0WgwDfg="
+        }
+      ]
+    },
+    {
+      "Route": "admin/webfonts/fa-brands-400.woff",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\webfonts\\fa-brands-400.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74928"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UtAtcw5l90oI55yjn62wYcFOWd4v+oMLzwXAMPz3AOk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UtAtcw5l90oI55yjn62wYcFOWd4v+oMLzwXAMPz3AOk="
+        }
+      ]
+    },
+    {
+      "Route": "admin/webfonts/fa-brands-400.woff2",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\webfonts\\fa-brands-400.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "64144"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TQEw0xTxZpyepakR1AHWJQ+WOGpSsMOPez+0PNzRBYk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TQEw0xTxZpyepakR1AHWJQ+WOGpSsMOPez+0PNzRBYk="
+        }
+      ]
+    },
+    {
+      "Route": "admin/webfonts/fa-brands-400.ya0lmljpk1.ttf",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\webfonts\\fa-brands-400.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "116280"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NlFjtwbIzvX8bGmgoN38QLXHJtWpVfwqLOxQ3qzXeSg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ya0lmljpk1"
+        },
+        {
+          "Name": "label",
+          "Value": "admin/webfonts/fa-brands-400.ttf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NlFjtwbIzvX8bGmgoN38QLXHJtWpVfwqLOxQ3qzXeSg="
+        }
+      ]
+    },
+    {
+      "Route": "admin/webfonts/fa-regular-400.2cseo5y99k.woff2",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\webfonts\\fa-regular-400.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14888"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ds2fW7SSvnHjqsyMpPFwyPmJAkKiXixuyaQvE1YbAo8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2cseo5y99k"
+        },
+        {
+          "Name": "label",
+          "Value": "admin/webfonts/fa-regular-400.woff2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ds2fW7SSvnHjqsyMpPFwyPmJAkKiXixuyaQvE1YbAo8="
+        }
+      ]
+    },
+    {
+      "Route": "admin/webfonts/fa-regular-400.3hi7thgbff.eot",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\webfonts\\fa-regular-400.eot",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "40644"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.ms-fontobject"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Rzqa3CsAqiN6ZrggcG0cAlXvsP5oZHYAQv1Xa+l/2a4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3hi7thgbff"
+        },
+        {
+          "Name": "label",
+          "Value": "admin/webfonts/fa-regular-400.eot"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Rzqa3CsAqiN6ZrggcG0cAlXvsP5oZHYAQv1Xa+l/2a4="
+        }
+      ]
+    },
+    {
+      "Route": "admin/webfonts/fa-regular-400.eot",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\webfonts\\fa-regular-400.eot",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "40644"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.ms-fontobject"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Rzqa3CsAqiN6ZrggcG0cAlXvsP5oZHYAQv1Xa+l/2a4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Rzqa3CsAqiN6ZrggcG0cAlXvsP5oZHYAQv1Xa+l/2a4="
+        }
+      ]
+    },
+    {
+      "Route": "admin/webfonts/fa-regular-400.iwcoecxf1j.ttf",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\webfonts\\fa-regular-400.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "40416"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rlr07d3JsGDC71CcsJ6+GkaD5oljOBFDRoDfMZ/qUQc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "iwcoecxf1j"
+        },
+        {
+          "Name": "label",
+          "Value": "admin/webfonts/fa-regular-400.ttf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rlr07d3JsGDC71CcsJ6+GkaD5oljOBFDRoDfMZ/qUQc="
+        }
+      ]
+    },
+    {
+      "Route": "admin/webfonts/fa-regular-400.svg",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\webfonts\\fa-regular-400.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "141405"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"v6afg9SlE7uwG2Nro3fswUIOJjrjK63TfrMwGeL2vzE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-v6afg9SlE7uwG2Nro3fswUIOJjrjK63TfrMwGeL2vzE="
+        }
+      ]
+    },
+    {
+      "Route": "admin/webfonts/fa-regular-400.t4u1tpxa3h.woff",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\webfonts\\fa-regular-400.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18156"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zR85+wuXzQMbnGbPPBHok7/7M3HcuBWFOhus1FW1Y9Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "t4u1tpxa3h"
+        },
+        {
+          "Name": "label",
+          "Value": "admin/webfonts/fa-regular-400.woff"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zR85+wuXzQMbnGbPPBHok7/7M3HcuBWFOhus1FW1Y9Q="
+        }
+      ]
+    },
+    {
+      "Route": "admin/webfonts/fa-regular-400.thgv8runu5.svg",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\webfonts\\fa-regular-400.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "141405"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"v6afg9SlE7uwG2Nro3fswUIOJjrjK63TfrMwGeL2vzE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "thgv8runu5"
+        },
+        {
+          "Name": "label",
+          "Value": "admin/webfonts/fa-regular-400.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-v6afg9SlE7uwG2Nro3fswUIOJjrjK63TfrMwGeL2vzE="
+        }
+      ]
+    },
+    {
+      "Route": "admin/webfonts/fa-regular-400.ttf",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\webfonts\\fa-regular-400.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "40416"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rlr07d3JsGDC71CcsJ6+GkaD5oljOBFDRoDfMZ/qUQc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rlr07d3JsGDC71CcsJ6+GkaD5oljOBFDRoDfMZ/qUQc="
+        }
+      ]
+    },
+    {
+      "Route": "admin/webfonts/fa-regular-400.woff",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\webfonts\\fa-regular-400.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18156"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zR85+wuXzQMbnGbPPBHok7/7M3HcuBWFOhus1FW1Y9Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zR85+wuXzQMbnGbPPBHok7/7M3HcuBWFOhus1FW1Y9Q="
+        }
+      ]
+    },
+    {
+      "Route": "admin/webfonts/fa-regular-400.woff2",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\webfonts\\fa-regular-400.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14888"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ds2fW7SSvnHjqsyMpPFwyPmJAkKiXixuyaQvE1YbAo8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ds2fW7SSvnHjqsyMpPFwyPmJAkKiXixuyaQvE1YbAo8="
+        }
+      ]
+    },
+    {
+      "Route": "admin/webfonts/fa-solid-900.4i5y95t675.woff2",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\webfonts\\fa-solid-900.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "62472"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XH35nfIyWGERkXCDqFqjG4LuKeSMopkOE/rgwGY6kj8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4i5y95t675"
+        },
+        {
+          "Name": "label",
+          "Value": "admin/webfonts/fa-solid-900.woff2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XH35nfIyWGERkXCDqFqjG4LuKeSMopkOE/rgwGY6kj8="
+        }
+      ]
+    },
+    {
+      "Route": "admin/webfonts/fa-solid-900.bfafo1tmnz.svg",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\webfonts\\fa-solid-900.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "624767"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eRFCSteZMfSV2/yXeb9SN3Jh7SUKD/mgcX/vfPcNg7Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bfafo1tmnz"
+        },
+        {
+          "Name": "label",
+          "Value": "admin/webfonts/fa-solid-900.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eRFCSteZMfSV2/yXeb9SN3Jh7SUKD/mgcX/vfPcNg7Y="
+        }
+      ]
+    },
+    {
+      "Route": "admin/webfonts/fa-solid-900.ekpl54ad2r.ttf",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\webfonts\\fa-solid-900.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "168176"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UvbXegBXJ/S5IFERnnbplWt+5xvywiOFgZr7GobSiqQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ekpl54ad2r"
+        },
+        {
+          "Name": "label",
+          "Value": "admin/webfonts/fa-solid-900.ttf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UvbXegBXJ/S5IFERnnbplWt+5xvywiOFgZr7GobSiqQ="
+        }
+      ]
+    },
+    {
+      "Route": "admin/webfonts/fa-solid-900.eot",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\webfonts\\fa-solid-900.eot",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "168396"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.ms-fontobject"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jjx1qMq4vda2QvKd2/O7sLg69KZuRWBMk8u/lwmWtbM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jjx1qMq4vda2QvKd2/O7sLg69KZuRWBMk8u/lwmWtbM="
+        }
+      ]
+    },
+    {
+      "Route": "admin/webfonts/fa-solid-900.ied04nwpll.eot",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\webfonts\\fa-solid-900.eot",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "168396"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.ms-fontobject"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jjx1qMq4vda2QvKd2/O7sLg69KZuRWBMk8u/lwmWtbM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ied04nwpll"
+        },
+        {
+          "Name": "label",
+          "Value": "admin/webfonts/fa-solid-900.eot"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jjx1qMq4vda2QvKd2/O7sLg69KZuRWBMk8u/lwmWtbM="
+        }
+      ]
+    },
+    {
+      "Route": "admin/webfonts/fa-solid-900.sbhwolmi47.woff",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\webfonts\\fa-solid-900.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "80484"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SHRWKaJS+06NJ1BSfA1JNBwsF9X+W8ajfsgrBiroTJw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sbhwolmi47"
+        },
+        {
+          "Name": "label",
+          "Value": "admin/webfonts/fa-solid-900.woff"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SHRWKaJS+06NJ1BSfA1JNBwsF9X+W8ajfsgrBiroTJw="
+        }
+      ]
+    },
+    {
+      "Route": "admin/webfonts/fa-solid-900.svg",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\webfonts\\fa-solid-900.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "624767"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eRFCSteZMfSV2/yXeb9SN3Jh7SUKD/mgcX/vfPcNg7Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eRFCSteZMfSV2/yXeb9SN3Jh7SUKD/mgcX/vfPcNg7Y="
+        }
+      ]
+    },
+    {
+      "Route": "admin/webfonts/fa-solid-900.ttf",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\webfonts\\fa-solid-900.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "168176"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UvbXegBXJ/S5IFERnnbplWt+5xvywiOFgZr7GobSiqQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UvbXegBXJ/S5IFERnnbplWt+5xvywiOFgZr7GobSiqQ="
+        }
+      ]
+    },
+    {
+      "Route": "admin/webfonts/fa-solid-900.woff",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\webfonts\\fa-solid-900.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "80484"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SHRWKaJS+06NJ1BSfA1JNBwsF9X+W8ajfsgrBiroTJw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SHRWKaJS+06NJ1BSfA1JNBwsF9X+W8ajfsgrBiroTJw="
+        }
+      ]
+    },
+    {
+      "Route": "admin/webfonts/fa-solid-900.woff2",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\admin\\webfonts\\fa-solid-900.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "62472"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XH35nfIyWGERkXCDqFqjG4LuKeSMopkOE/rgwGY6kj8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Sep 2018 09:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XH35nfIyWGERkXCDqFqjG4LuKeSMopkOE/rgwGY6kj8="
+        }
+      ]
+    },
     {
       "Route": "Asp.net mini project.bundle.scp.css",
       "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Asp.net mini project.bundle.scp.css",
