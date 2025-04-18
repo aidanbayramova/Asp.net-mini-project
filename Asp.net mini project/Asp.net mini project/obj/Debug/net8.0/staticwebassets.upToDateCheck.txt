@@ -98,6 +98,7 @@ wwwroot\img\client\6.png
 wwwroot\img\comment\1.jpg
 wwwroot\img\comment\2.jpg
 wwwroot\img\comment\3.jpg
+wwwroot\img\f43749a3-8be2-441a-8750-df1ef58704cc.jpg
 wwwroot\img\favicon.ico
 wwwroot\img\footer-logo.png
 wwwroot\img\hero\1.jpg

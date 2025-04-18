@@ -197,10 +197,10 @@ ol {
 }
 
 .form-control {
-  margin-bottom: 23px;
-  padding: 19px 18px;
-  border-radius: 0;
-  height: 50px;
+    margin-bottom: 28px;
+    padding: 14px 25px;
+    border-radius: 0;
+    height: 61px;
 }
 
 label {

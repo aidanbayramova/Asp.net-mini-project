@@ -1,0 +1,19 @@
+﻿@using Asp.net_mini_project.ViewModels.Admin.SliderInfo
+@model SliderInfoDetailVM
+
+<div class="container mt-5">
+    <div class="card shadow p-4">
+        <h2 class="mb-4">Slider Info Details</h2>
+        <dl class="row">
+            <dt class="col-sm-3">Title</dt>
+            <dd class="col-sm-9">@Model.Title</dd>
+
+            <dt class="col-sm-3">Discount</dt>
+            <dd class="col-sm-9">@Model.Discount</dd>
+
+            <dt class="col-sm-3">Description</dt>
+            <dd class="col-sm-9">@Model.Description</dd>
+        </dl>
+        <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+    </div>
+</div>

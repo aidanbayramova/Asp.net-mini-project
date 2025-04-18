@@ -1,0 +1,20 @@
+﻿@using Asp.net_mini_project.ViewModels.Admin.Slider
+@model SliderCreateVM
+
+<div class="mx-5 mt-5">
+    <form class="forms-sample" asp-action="Create" method="post" enctype="multipart/form-data">
+        <div class="form-group">
+            <label for="Image">Image</label>
+            <input asp-for="Image" type="file" class="form-control" id="Image" maxlength="1000">
+            <span class="text-danger" asp-validation-for="Image"></span> 
+        </div>
+        <button type="submit" style="color:dimgrey" class="btn btn-primary me-2">Submit</button>
+        <a asp-action="Index"style="color:dimgray" class="btn btn-light">Cancel</a>
+    </form>
+</div>
+
+
+
+
+
+

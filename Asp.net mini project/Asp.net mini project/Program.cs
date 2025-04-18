@@ -1,4 +1,6 @@
 using Asp.net_mini_project.Data;
+using Asp.net_mini_project.Services;
+using Asp.net_mini_project.Services.Interfaces;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -17,6 +19,8 @@ builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseSqlServer(conString));
 
 
+builder.Services.AddScoped<ISliderService, SliderService>();
+builder.Services.AddScoped<ISliderInfoService, SliderInfoService>();
 
 var app = builder.Build();
 
