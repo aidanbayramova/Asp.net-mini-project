@@ -9,5 +9,6 @@ namespace Asp.net_mini_project.Data
 
         public DbSet<Slider> Sliders { get; set; }
         public DbSet<SliderInfo> SliderInfos { get; set; }
+        public DbSet<Advertisement> Advertisements { get; set; }
     }
 }

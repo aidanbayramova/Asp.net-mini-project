@@ -297,8 +297,16 @@
       "PackagePath": "staticwebassets\\fonts\\ionicons28b5.woff"
     },
     {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\8bea42f2-9333-4fe2-97d1-8c493667bf70.jpg",
+      "PackagePath": "staticwebassets\\img\\8bea42f2-9333-4fe2-97d1-8c493667bf70.jpg"
+    },
+    {
       "Id": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\about.jpg",
       "PackagePath": "staticwebassets\\img\\about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\b37f9661-175b-4165-9414-1176f78bf5bc.jpg",
+      "PackagePath": "staticwebassets\\img\\b37f9661-175b-4165-9414-1176f78bf5bc.jpg"
     },
     {
       "Id": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\banner\\1.jpg",
@@ -405,8 +413,16 @@
       "PackagePath": "staticwebassets\\img\\comment\\3.jpg"
     },
     {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\details.jpg",
+      "PackagePath": "staticwebassets\\img\\details.jpg"
+    },
+    {
       "Id": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\f43749a3-8be2-441a-8750-df1ef58704cc.jpg",
       "PackagePath": "staticwebassets\\img\\f43749a3-8be2-441a-8750-df1ef58704cc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\f46aa67a-b0d2-4a19-8309-4fe3f03ac6c3.jpg",
+      "PackagePath": "staticwebassets\\img\\f46aa67a-b0d2-4a19-8309-4fe3f03ac6c3.jpg"
     },
     {
       "Id": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\favicon.ico",
@@ -491,6 +507,10 @@
     {
       "Id": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\section-title-bg.png",
       "PackagePath": "staticwebassets\\img\\section-title-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\sidebar-post-1.jpg",
+      "PackagePath": "staticwebassets\\img\\sidebar-post-1.jpg"
     },
     {
       "Id": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\team\\1.jpg",

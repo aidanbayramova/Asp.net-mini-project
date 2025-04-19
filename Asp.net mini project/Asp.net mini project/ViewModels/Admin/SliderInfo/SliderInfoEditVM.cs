@@ -4,7 +4,7 @@ namespace Asp.net_mini_project.ViewModels.Admin.SliderInfo
 {
     public class SliderInfoEditVM
     {
-
+        public int Id  { get; set; }
         [Required]
         public string Title { get; set; }
 

@@ -3,64 +3,68 @@
   "WorkspaceRootPath": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|c:\\users\\acer\\desktop\\mvc mini project\\asp.net mini project\\asp.net mini project\\viewcomponents\\home\\sliderviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|solutionrelative:asp.net mini project\\viewcomponents\\home\\sliderviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|c:\\users\\acer\\desktop\\mvc mini project\\asp.net mini project\\asp.net mini project\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|solutionrelative:asp.net mini project\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|c:\\users\\acer\\desktop\\mvc mini project\\asp.net mini project\\asp.net mini project\\areas\\admin\\views\\sliderinfo\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|solutionrelative:asp.net mini project\\areas\\admin\\views\\sliderinfo\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|c:\\users\\acer\\desktop\\mvc mini project\\asp.net mini project\\asp.net mini project\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|solutionrelative:asp.net mini project\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|c:\\users\\acer\\desktop\\mvc mini project\\asp.net mini project\\asp.net mini project\\models\\productimg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|solutionrelative:asp.net mini project\\models\\productimg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|c:\\users\\acer\\desktop\\mvc mini project\\asp.net mini project\\asp.net mini project\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|solutionrelative:asp.net mini project\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|c:\\users\\acer\\desktop\\mvc mini project\\asp.net mini project\\asp.net mini project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|solutionrelative:asp.net mini project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|c:\\users\\acer\\desktop\\mvc mini project\\asp.net mini project\\asp.net mini project\\services\\advertisementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|solutionrelative:asp.net mini project\\services\\advertisementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|c:\\users\\acer\\desktop\\mvc mini project\\asp.net mini project\\asp.net mini project\\areas\\admin\\controllers\\sliderinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|solutionrelative:asp.net mini project\\areas\\admin\\controllers\\sliderinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|c:\\users\\acer\\desktop\\mvc mini project\\asp.net mini project\\asp.net mini project\\viewmodels\\admin\\sliderinfo\\sliderinfodetailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|solutionrelative:asp.net mini project\\viewmodels\\admin\\sliderinfo\\sliderinfodetailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|c:\\users\\acer\\desktop\\mvc mini project\\asp.net mini project\\asp.net mini project\\services\\interfaces\\isliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|solutionrelative:asp.net mini project\\services\\interfaces\\isliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|c:\\users\\acer\\desktop\\mvc mini project\\asp.net mini project\\asp.net mini project\\services\\sliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|solutionrelative:asp.net mini project\\services\\sliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|c:\\users\\acer\\desktop\\mvc mini project\\asp.net mini project\\asp.net mini project\\services\\interfaces\\isliderinfoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|solutionrelative:asp.net mini project\\services\\interfaces\\isliderinfoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|c:\\users\\acer\\desktop\\mvc mini project\\asp.net mini project\\asp.net mini project\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|solutionrelative:asp.net mini project\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|c:\\users\\acer\\desktop\\mvc mini project\\asp.net mini project\\asp.net mini project\\viewmodels\\admin\\sliderinfo\\sliderinfoeditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|solutionrelative:asp.net mini project\\viewmodels\\admin\\sliderinfo\\sliderinfoeditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|c:\\users\\acer\\desktop\\mvc mini project\\asp.net mini project\\asp.net mini project\\areas\\admin\\controllers\\advertisementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|solutionrelative:asp.net mini project\\areas\\admin\\controllers\\advertisementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|c:\\users\\acer\\desktop\\mvc mini project\\asp.net mini project\\asp.net mini project\\areas\\admin\\views\\sliderinfo\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|solutionrelative:asp.net mini project\\areas\\admin\\views\\sliderinfo\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|c:\\users\\acer\\desktop\\mvc mini project\\asp.net mini project\\asp.net mini project\\viewmodels\\admin\\advertisement\\advertisementeditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|solutionrelative:asp.net mini project\\viewmodels\\admin\\advertisement\\advertisementeditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|c:\\users\\acer\\desktop\\mvc mini project\\asp.net mini project\\asp.net mini project\\areas\\admin\\views\\advertisement\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|solutionrelative:asp.net mini project\\areas\\admin\\views\\advertisement\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|c:\\users\\acer\\desktop\\mvc mini project\\asp.net mini project\\asp.net mini project\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|solutionrelative:asp.net mini project\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|c:\\users\\acer\\desktop\\mvc mini project\\asp.net mini project\\asp.net mini project\\areas\\admin\\views\\advertisement\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|solutionrelative:asp.net mini project\\areas\\admin\\views\\advertisement\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|c:\\users\\acer\\desktop\\mvc mini project\\asp.net mini project\\asp.net mini project\\services\\sliderinfoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|solutionrelative:asp.net mini project\\services\\sliderinfoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|c:\\users\\acer\\desktop\\mvc mini project\\asp.net mini project\\asp.net mini project\\areas\\admin\\views\\sliderinfo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|solutionrelative:asp.net mini project\\areas\\admin\\views\\sliderinfo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|c:\\users\\acer\\desktop\\mvc mini project\\asp.net mini project\\asp.net mini project\\areas\\admin\\views\\advertisement\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|solutionrelative:asp.net mini project\\areas\\admin\\views\\advertisement\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|c:\\users\\acer\\desktop\\mvc mini project\\asp.net mini project\\asp.net mini project\\areas\\admin\\views\\sliderinfo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|solutionrelative:asp.net mini project\\areas\\admin\\views\\sliderinfo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|c:\\users\\acer\\desktop\\mvc mini project\\asp.net mini project\\asp.net mini project\\areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|solutionrelative:asp.net mini project\\areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|c:\\users\\acer\\desktop\\mvc mini project\\asp.net mini project\\asp.net mini project\\models\\sliderinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|solutionrelative:asp.net mini project\\models\\sliderinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|c:\\users\\acer\\desktop\\mvc mini project\\asp.net mini project\\asp.net mini project\\services\\interfaces\\iadvertisementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|solutionrelative:asp.net mini project\\services\\interfaces\\iadvertisementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,188 +74,204 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SliderViewComponent.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\ViewComponents\\Home\\SliderViewComponent.cs",
-              "RelativeDocumentMoniker": "Asp.net mini project\\ViewComponents\\Home\\SliderViewComponent.cs",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\ViewComponents\\Home\\SliderViewComponent.cs*",
-              "RelativeToolTip": "Asp.net mini project\\ViewComponents\\Home\\SliderViewComponent.cs*",
-              "ViewState": "AgIAABAAAAAAAAAAAAAUwBkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T17:30:07.25Z",
+              "DocumentIndex": 14,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Views\\Advertisement\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Asp.net mini project\\Areas\\Admin\\Views\\Advertisement\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Views\\Advertisement\\Edit.cshtml",
+              "RelativeToolTip": "Asp.net mini project\\Areas\\Admin\\Views\\Advertisement\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-19T08:47:28.55Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Detail.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Views\\SliderInfo\\Detail.cshtml",
-              "RelativeDocumentMoniker": "Asp.net mini project\\Areas\\Admin\\Views\\SliderInfo\\Detail.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Views\\SliderInfo\\Detail.cshtml",
-              "RelativeToolTip": "Asp.net mini project\\Areas\\Admin\\Views\\SliderInfo\\Detail.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-18T17:17:17.487Z"
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Asp.net mini project\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Models\\Category.cs",
+              "RelativeToolTip": "Asp.net mini project\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T09:43:20.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductImg.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Models\\ProductImg.cs",
+              "RelativeDocumentMoniker": "Asp.net mini project\\Models\\ProductImg.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Models\\ProductImg.cs",
+              "RelativeToolTip": "Asp.net mini project\\Models\\ProductImg.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T09:39:22.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Asp.net mini project\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Models\\Product.cs*",
+              "RelativeToolTip": "Asp.net mini project\\Models\\Product.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T09:38:49.666Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "SliderInfoDetailVM.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\ViewModels\\Admin\\SliderInfo\\SliderInfoDetailVM.cs",
-              "RelativeDocumentMoniker": "Asp.net mini project\\ViewModels\\Admin\\SliderInfo\\SliderInfoDetailVM.cs",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\ViewModels\\Admin\\SliderInfo\\SliderInfoDetailVM.cs",
-              "RelativeToolTip": "Asp.net mini project\\ViewModels\\Admin\\SliderInfo\\SliderInfoDetailVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T17:15:56.786Z"
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Asp.net mini project\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Asp.net mini project\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-19T09:17:40.893Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ISliderService.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Services\\Interfaces\\ISliderService.cs",
-              "RelativeDocumentMoniker": "Asp.net mini project\\Services\\Interfaces\\ISliderService.cs",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Services\\Interfaces\\ISliderService.cs",
-              "RelativeToolTip": "Asp.net mini project\\Services\\Interfaces\\ISliderService.cs",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Asp.net mini project\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Asp.net mini project\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T17:14:59.981Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-19T09:17:22.835Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Views\\Advertisement\\Create.cshtml",
+              "RelativeDocumentMoniker": "Asp.net mini project\\Areas\\Admin\\Views\\Advertisement\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Views\\Advertisement\\Create.cshtml",
+              "RelativeToolTip": "Asp.net mini project\\Areas\\Admin\\Views\\Advertisement\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-19T09:07:04.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Views\\SliderInfo\\Edit.cshtml",
               "RelativeDocumentMoniker": "Asp.net mini project\\Areas\\Admin\\Views\\SliderInfo\\Edit.cshtml",
               "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Views\\SliderInfo\\Edit.cshtml",
               "RelativeToolTip": "Asp.net mini project\\Areas\\Admin\\Views\\SliderInfo\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-18T17:07:57.204Z"
+              "WhenOpened": "2025-04-19T09:05:11.046Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "SliderInfoEditVM.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\ViewModels\\Admin\\SliderInfo\\SliderInfoEditVM.cs",
-              "RelativeDocumentMoniker": "Asp.net mini project\\ViewModels\\Admin\\SliderInfo\\SliderInfoEditVM.cs",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\ViewModels\\Admin\\SliderInfo\\SliderInfoEditVM.cs",
-              "RelativeToolTip": "Asp.net mini project\\ViewModels\\Admin\\SliderInfo\\SliderInfoEditVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAASAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "AdvertisementEditVM.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\ViewModels\\Admin\\Advertisement\\AdvertisementEditVM.cs",
+              "RelativeDocumentMoniker": "Asp.net mini project\\ViewModels\\Admin\\Advertisement\\AdvertisementEditVM.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\ViewModels\\Admin\\Advertisement\\AdvertisementEditVM.cs",
+              "RelativeToolTip": "Asp.net mini project\\ViewModels\\Admin\\Advertisement\\AdvertisementEditVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T17:04:18.051Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "SliderController.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Controllers\\SliderController.cs",
-              "RelativeDocumentMoniker": "Asp.net mini project\\Areas\\Admin\\Controllers\\SliderController.cs",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Controllers\\SliderController.cs",
-              "RelativeToolTip": "Asp.net mini project\\Areas\\Admin\\Controllers\\SliderController.cs",
-              "ViewState": "AgIAAFMAAAAAAAAAAAAswGwAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T17:03:15.706Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
-              "RelativeDocumentMoniker": "Asp.net mini project\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
-              "RelativeToolTip": "Asp.net mini project\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-18T16:44:29.643Z"
+              "WhenOpened": "2025-04-19T08:43:28.134Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Views\\SliderInfo\\Index.cshtml",
-              "RelativeDocumentMoniker": "Asp.net mini project\\Areas\\Admin\\Views\\SliderInfo\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Views\\SliderInfo\\Index.cshtml",
-              "RelativeToolTip": "Asp.net mini project\\Areas\\Admin\\Views\\SliderInfo\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-18T16:44:32.927Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SliderService.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Services\\SliderService.cs",
-              "RelativeDocumentMoniker": "Asp.net mini project\\Services\\SliderService.cs",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Services\\SliderService.cs",
-              "RelativeToolTip": "Asp.net mini project\\Services\\SliderService.cs",
-              "ViewState": "AgIAAFsAAAAAAAAAAAAAAEoAAAAmAAAAAAAAAA==",
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Asp.net mini project\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "Asp.net mini project\\Models\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T16:42:35.482Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ISliderInfoService.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Services\\Interfaces\\ISliderInfoService.cs",
-              "RelativeDocumentMoniker": "Asp.net mini project\\Services\\Interfaces\\ISliderInfoService.cs",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Services\\Interfaces\\ISliderInfoService.cs",
-              "RelativeToolTip": "Asp.net mini project\\Services\\Interfaces\\ISliderInfoService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T16:41:19.369Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "SliderInfoService.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Services\\SliderInfoService.cs",
-              "RelativeDocumentMoniker": "Asp.net mini project\\Services\\SliderInfoService.cs",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Services\\SliderInfoService.cs",
-              "RelativeToolTip": "Asp.net mini project\\Services\\SliderInfoService.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAxwDsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T16:40:31.297Z"
+              "WhenOpened": "2025-04-19T08:43:25.389Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Views\\SliderInfo\\Create.cshtml",
-              "RelativeDocumentMoniker": "Asp.net mini project\\Areas\\Admin\\Views\\SliderInfo\\Create.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Views\\SliderInfo\\Create.cshtml",
-              "RelativeToolTip": "Asp.net mini project\\Areas\\Admin\\Views\\SliderInfo\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Views\\Advertisement\\Index.cshtml",
+              "RelativeDocumentMoniker": "Asp.net mini project\\Areas\\Admin\\Views\\Advertisement\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Views\\Advertisement\\Index.cshtml",
+              "RelativeToolTip": "Asp.net mini project\\Areas\\Admin\\Views\\Advertisement\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAwCsAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-18T16:34:44.912Z"
+              "WhenOpened": "2025-04-19T08:41:06.422Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "SliderInfo.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Models\\SliderInfo.cs",
-              "RelativeDocumentMoniker": "Asp.net mini project\\Models\\SliderInfo.cs",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Models\\SliderInfo.cs",
-              "RelativeToolTip": "Asp.net mini project\\Models\\SliderInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 15,
+              "Title": "IAdvertisementService.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Services\\Interfaces\\IAdvertisementService.cs",
+              "RelativeDocumentMoniker": "Asp.net mini project\\Services\\Interfaces\\IAdvertisementService.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Services\\Interfaces\\IAdvertisementService.cs",
+              "RelativeToolTip": "Asp.net mini project\\Services\\Interfaces\\IAdvertisementService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T16:34:02.11Z"
+              "WhenOpened": "2025-04-19T08:38:30.142Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
+              "Title": "AdvertisementService.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Services\\AdvertisementService.cs",
+              "RelativeDocumentMoniker": "Asp.net mini project\\Services\\AdvertisementService.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Services\\AdvertisementService.cs",
+              "RelativeToolTip": "Asp.net mini project\\Services\\AdvertisementService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T08:38:23.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "SliderInfoController.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Controllers\\SliderInfoController.cs",
               "RelativeDocumentMoniker": "Asp.net mini project\\Areas\\Admin\\Controllers\\SliderInfoController.cs",
               "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Controllers\\SliderInfoController.cs",
               "RelativeToolTip": "Asp.net mini project\\Areas\\Admin\\Controllers\\SliderInfoController.cs",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAYwF0AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAiwFIAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T16:33:50.904Z"
+              "WhenOpened": "2025-04-19T08:37:27.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SliderInfoService.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Services\\SliderInfoService.cs",
+              "RelativeDocumentMoniker": "Asp.net mini project\\Services\\SliderInfoService.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Services\\SliderInfoService.cs",
+              "RelativeToolTip": "Asp.net mini project\\Services\\SliderInfoService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T08:37:07.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdvertisementController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Controllers\\AdvertisementController.cs",
+              "RelativeDocumentMoniker": "Asp.net mini project\\Areas\\Admin\\Controllers\\AdvertisementController.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Controllers\\AdvertisementController.cs",
+              "RelativeToolTip": "Asp.net mini project\\Areas\\Admin\\Controllers\\AdvertisementController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAmwFQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T08:36:56.642Z"
             }
           ]
         }

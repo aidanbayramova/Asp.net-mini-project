@@ -9,10 +9,10 @@ namespace Asp.net_mini_project.ViewComponents.Home
 {
     public class SliderViewComponent:ViewComponent
     {
-        private readonly SliderService _sliderService;
+        private readonly ISliderService _sliderService;
         private readonly ISliderInfoService _sliderInfoService;
 
-        public SliderViewComponent(SliderService sliderService,
+        public SliderViewComponent(ISliderService sliderService,
                                   ISliderInfoService sliderInfoService)
         {
             _sliderService = sliderService;
