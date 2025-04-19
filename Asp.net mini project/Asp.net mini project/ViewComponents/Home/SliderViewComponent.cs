@@ -18,11 +18,17 @@ namespace Asp.net_mini_project.ViewComponents.Home
             _sliderService = sliderService;
             _sliderInfoService = sliderInfoService;
         }
-        //public async Task<IViewComponentResult> InvokeAsync()
-        //{
-        //    IEnumerable<Slider> sliders = await _context.Sliders.AsNoTracking().ToListAsync();
-        //    SliderInfo sliderInfo = await _context.SliderInfos.AsNoTracking().FirstOrDefaultAsync();
-        //    return await Task.FromResult(View(new SliderVMVC { Sliders = sliders, SliderInfo = sliderInfo }));
-        //}
+        public async Task<IViewComponentResult> InvokeAsync()
+        {
+            IEnumerable<Slider> sliders = await _sliderService.GetAllAsync();
+            IEnumerable<SliderInfo> sliderInfos = await _sliderInfoService.GetAllAsync();
+            return await Task.FromResult(View(new SliderVMVC { Sliders = sliders, SliderInfos = sliderInfos }));
+        }
+        public class SliderVMVC
+        {
+          public IEnumerable<Slider> Sliders { get; set; }
+            public IEnumerable<SliderInfo> SliderInfos { get; set; }
+                
+        }
     }
 }
