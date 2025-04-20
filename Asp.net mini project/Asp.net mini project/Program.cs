@@ -22,6 +22,8 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 builder.Services.AddScoped<ISliderService, SliderService>();
 builder.Services.AddScoped<ISliderInfoService, SliderInfoService>();
 builder.Services.AddScoped<IAdvertisementService, AdvertisementService>();
+builder.Services.AddScoped<ICategoryService, CategoryService>();
+builder.Services.AddScoped<IProductService, ProductService>();
 
 var app = builder.Build();
 

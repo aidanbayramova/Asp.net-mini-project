@@ -1,0 +1,17 @@
+﻿@model CategoryCreateVM
+
+<div class="container d-flex justify-content-center align-items-center" style="min-height: 100vh;">
+    <div class="col-xl-10 col-lg-12 tm-md-12 tm-sm-12 tm-col">
+        <div class="bg-white tm-block p-4 rounded shadow">
+            <h2 class="tm-block-title">Create New Category</h2>
+            <form asp-action="Create" method="post" enctype="multipart/form-data">
+                <div class="form-group">
+                    <label for="Name">Title</label>
+                    <input type="text" class="form-control" id="Name" name="Name" pattern="[a-zA-Z]+" title="Only letters are allowed" required id="category" placeholder="Enter title" required />
+                </div>
+
+                <button type="submit" class="btn btn-primary">Create Category</button>
+            </form>
+        </div>
+    </div>
+</div>

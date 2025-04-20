@@ -6,7 +6,6 @@ http://www.tooplate.com/view/2108-dashboard
 	
 
 COLOR CODES
-
   Dark Gray: #656565
   Light Gray: #E6E6E6
   Blue: #0062BB
@@ -24,6 +23,7 @@ body {
 
 body {
   background-image: url(../img/dash-bg-01.jpg);
+
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;

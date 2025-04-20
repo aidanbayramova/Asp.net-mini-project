@@ -1,0 +1,42 @@
+﻿@using Asp.net_mini_project.ViewModels.Admin.Product
+@model ProductDetailVM
+
+<div class="container d-flex justify-content-center align-items-center" style="min-height: 100vh;">
+    <div class="col-xl-10 col-lg-12 tm-md-12 tm-sm-12 tm-col">
+        <div class="bg-white tm-block p-4 rounded shadow">
+            <div class="row mb-4">
+                <div class="col-md-8 col-sm-12">
+                    <h2 class="tm-block-title d-inline-block">@Model.Name</h2>
+                </div>
+                <div class="col-md-4 col-sm-12 text-right">
+                    <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+                </div>
+            </div>
+
+            <div class="mb-4">
+                <p><strong>Category:</strong> @Model.CategoryName</p>
+                <p><strong>Price:</strong> $@Model.Price</p>
+            </div>
+
+            <hr />
+
+            <div class="mb-4">
+                <p><strong>Title:</strong> @Model.Name</p>
+                <p><strong>Description:</strong> @Model.Desc</p>
+                <p><strong>Created At:</strong> @Model.CreateDate.ToString("MMMM dd, yyyy HH:mm")</p>
+            </div>
+
+            <div class="mb-4">
+                <strong>Product Images:</strong>
+                <div class="d-flex flex-wrap mt-2">
+                    @foreach (var item in Model.ProductImgs)
+                    {
+                        <img src="@item.Img" alt="Product Image" class="img-thumbnail me-2 mb-2" style="width: 150px; height: auto;" />
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="https://kit.fontawesome.com/897e067933.js" crossorigin="anonymous"></script>

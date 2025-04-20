@@ -297,8 +297,24 @@
       "PackagePath": "staticwebassets\\fonts\\ionicons28b5.woff"
     },
     {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\124033c8-6769-40ed-a77c-781139c7cef8.jpg",
+      "PackagePath": "staticwebassets\\img\\124033c8-6769-40ed-a77c-781139c7cef8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\72cd7647-c01a-4585-ba2f-e32db09e83ff.jpg",
+      "PackagePath": "staticwebassets\\img\\72cd7647-c01a-4585-ba2f-e32db09e83ff.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\860fea35-bcb1-4923-84b1-2aa914636f6a.jpg",
+      "PackagePath": "staticwebassets\\img\\860fea35-bcb1-4923-84b1-2aa914636f6a.jpg"
+    },
+    {
       "Id": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\8bea42f2-9333-4fe2-97d1-8c493667bf70.jpg",
       "PackagePath": "staticwebassets\\img\\8bea42f2-9333-4fe2-97d1-8c493667bf70.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\9f710684-10e7-4e8e-8454-ade05aa2407b.jpg",
+      "PackagePath": "staticwebassets\\img\\9f710684-10e7-4e8e-8454-ade05aa2407b.jpg"
     },
     {
       "Id": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\about.jpg",
@@ -369,6 +385,10 @@
       "PackagePath": "staticwebassets\\img\\blog\\sidebar-post-3.jpg"
     },
     {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\c9bd7341-cf62-47e3-9265-9e9beef97bd9.jpg",
+      "PackagePath": "staticwebassets\\img\\c9bd7341-cf62-47e3-9265-9e9beef97bd9.jpg"
+    },
+    {
       "Id": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\cart\\1.jpg",
       "PackagePath": "staticwebassets\\img\\cart\\1.jpg"
     },
@@ -415,6 +435,10 @@
     {
       "Id": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\details.jpg",
       "PackagePath": "staticwebassets\\img\\details.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\e3417acd-0749-464e-85e4-9bbcb85eaf86.jpg",
+      "PackagePath": "staticwebassets\\img\\e3417acd-0749-464e-85e4-9bbcb85eaf86.jpg"
     },
     {
       "Id": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\f43749a3-8be2-441a-8750-df1ef58704cc.jpg",

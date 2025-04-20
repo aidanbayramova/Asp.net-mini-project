@@ -19,6 +19,9 @@
             <input type="file" class="form-control" id="Photo" name="Photo" />
         </div>
 
-        <button type="submit" class="btn btn-primary">Save Changes</button>
+        <form asp-action="Edit" method="post" enctype="multipart/form-data">
+          
+            <button type="submit" class="btn btn-primary">Save Changes</button>
+        </form>
     </form>
 </div>

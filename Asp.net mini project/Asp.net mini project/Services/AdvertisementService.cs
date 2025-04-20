@@ -64,10 +64,10 @@ namespace Asp.net_mini_project.Services
 
             advertisementEntity.Title = advertisement.Title;
 
-            // Check if a new photo is uploaded
+            
             if (advertisement.Photo != null)
             {
-                // Define the path to save the file
+               
                 var directoryPath = Path.Combine(_env.WebRootPath, "img");
 
                
@@ -78,13 +78,11 @@ namespace Asp.net_mini_project.Services
 
                 var filePath = Path.Combine(directoryPath, advertisement.Photo.FileName);
 
-                // Save the uploaded file
                 using (var stream = new FileStream(filePath, FileMode.Create))
                 {
                     await advertisement.Photo.CopyToAsync(stream);
                 }
 
-                // Update the advertisement entity with the new image path
                 advertisementEntity.Img = advertisement.Photo.FileName;
             }
 

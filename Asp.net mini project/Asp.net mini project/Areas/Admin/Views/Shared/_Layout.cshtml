@@ -63,22 +63,17 @@
                                     </div>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="products.html">Products</a>
-                                </li>
-                               
-                              
-                                <li class="nav-item">
                                     <a class="nav-link" href="accounts.html">Accounts</a>
                                 </li>
                                 <li class="nav-item dropdown">
-                                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true"
+                                    <a class="nav-link dropdown-toggle" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true"
                                        aria-expanded="false">
-                                        Settings
+                                        SelectionList
                                     </a>
                                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                        <a class="dropdown-item" href="#">Profile</a>
-                                        <a class="dropdown-item" href="#">Billing</a>
-                                        <a class="dropdown-item" href="#">Customize</a>
+                                        <a class="dropdown-item" asp-area="Admin" asp-controller="Category" asp-action="Index">Categories</a>
+                                        <a class="dropdown-item" asp-area="Admin" asp-controller="Product" asp-action="Index">Products</a>
+                                        
                                     </div>
                                 </li>
                             </ul>
@@ -143,5 +138,7 @@
             });
         })
     </script>
+
+    @RenderSection("Scripts", required: false)
+
 </body>
-</html>
