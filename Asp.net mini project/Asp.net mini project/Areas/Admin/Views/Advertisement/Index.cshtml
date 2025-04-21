@@ -28,7 +28,7 @@
                                 <td>
                                     <img src="~/img/@item.Img" alt="Ad Image" width="100" height="auto" style="object-fit: cover;" />
                                 </td>
-                                <td>@item.Title</td>
+                                <td>  @Html.Raw(item.Title)</td>
                                 <td>
                                     <a asp-action="Detail" asp-route-id="@item.Id" title="View Details" class="mr-2">
                                         <i class="fa-solid fa-circle-info" style="cursor: pointer; font-size: 25px; color: blue"></i>

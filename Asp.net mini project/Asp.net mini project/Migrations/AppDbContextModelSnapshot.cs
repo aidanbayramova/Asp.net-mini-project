@@ -120,6 +120,26 @@ namespace Asp.net_mini_project.Migrations
                     b.ToTable("Customers");
                 });
 
+            modelBuilder.Entity("Asp.net_mini_project.Models.Newsletter", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<DateTime>("CreateDate")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("Email")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Newsletters");
+                });
+
             modelBuilder.Entity("Asp.net_mini_project.Models.Product", b =>
                 {
                     b.Property<int>("Id")

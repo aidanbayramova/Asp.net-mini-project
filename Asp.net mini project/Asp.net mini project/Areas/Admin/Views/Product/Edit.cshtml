@@ -1,26 +1,20 @@
 ﻿@model ProductEditVM
 
-@{
-    ViewData["Title"] = "Edit Product";
-}
-
-<h2>Edit Product</h2>
-
 <form asp-action="Edit" asp-route-id="@Model.Id" method="post" enctype="multipart/form-data">
     <div class="form-group">
-        <label asp-for="Name"></label>
+        <label asp-for="Name">Name</label>
         <input asp-for="Name" class="form-control" />
         <span asp-validation-for="Name" class="text-danger"></span>
     </div>
 
     <div class="form-group">
-        <label asp-for="Price"></label>
+        <label asp-for="Price">Price</label>
         <input asp-for="Price" class="form-control" />
         <span asp-validation-for="Price" class="text-danger"></span>
     </div>
 
     <div class="form-group">
-        <label asp-for="Desc"></label>
+        <label asp-for="Desc">Description</label>
         <textarea asp-for="Desc" class="form-control"></textarea>
         <span asp-validation-for="Desc" class="text-danger"></span>
     </div>

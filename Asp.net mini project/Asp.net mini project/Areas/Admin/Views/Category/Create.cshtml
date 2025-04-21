@@ -6,8 +6,11 @@
             <h2 class="tm-block-title">Create New Category</h2>
             <form asp-action="Create" method="post" enctype="multipart/form-data">
                 <div class="form-group">
-                    <label for="Name">Title</label>
-                    <input type="text" class="form-control" id="Name" name="Name" pattern="[a-zA-Z]+" title="Only letters are allowed" required id="category" placeholder="Enter title" required />
+                    <label for="Title">Title</label>
+                 <input type="text" class="form-control" id="Name" name="Name" pattern="[a-zA-Z]+" title="Only letters are allowed" required id="category" placeholder="Enter title" required />
+                    <span asp-validation-for="Name" class="text-danger">
+                        There is a category with this name.
+                    </span>
                 </div>
 
                 <button type="submit" class="btn btn-primary">Create Category</button>

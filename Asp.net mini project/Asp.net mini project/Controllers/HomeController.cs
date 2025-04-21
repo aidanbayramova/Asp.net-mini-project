@@ -12,10 +12,7 @@ namespace Asp.net_mini_project.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
-        {
-            return View();
-        }
+       
 
     }
 }

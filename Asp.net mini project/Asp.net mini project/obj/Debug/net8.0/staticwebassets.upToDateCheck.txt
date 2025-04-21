@@ -72,10 +72,15 @@ wwwroot\fonts\ionicons28b5.svg
 wwwroot\fonts\ionicons28b5.ttf
 wwwroot\fonts\ionicons28b5.woff
 wwwroot\img\124033c8-6769-40ed-a77c-781139c7cef8.jpg
+wwwroot\img\1f150341-e85f-44bd-91c6-e36e3ef9dca8.jpg
+wwwroot\img\2e7056ee-bdec-45e3-a9da-787683e7062a.jpg
+wwwroot\img\3404280c-270c-433d-9e53-e0b01904dc8b.jpg
 wwwroot\img\72cd7647-c01a-4585-ba2f-e32db09e83ff.jpg
+wwwroot\img\7ce0df80-4a69-439b-b9c8-c0601ae66c78.jpg
 wwwroot\img\860fea35-bcb1-4923-84b1-2aa914636f6a.jpg
 wwwroot\img\8bea42f2-9333-4fe2-97d1-8c493667bf70.jpg
 wwwroot\img\9f710684-10e7-4e8e-8454-ade05aa2407b.jpg
+wwwroot\img\a2cafe2d-4714-45da-8d90-873af67c2e78.jpg
 wwwroot\img\about.jpg
 wwwroot\img\b37f9661-175b-4165-9414-1176f78bf5bc.jpg
 wwwroot\img\banner\1.jpg
@@ -93,6 +98,7 @@ wwwroot\img\blog\details.jpg
 wwwroot\img\blog\sidebar-post-1.jpg
 wwwroot\img\blog\sidebar-post-2.jpg
 wwwroot\img\blog\sidebar-post-3.jpg
+wwwroot\img\c04ff935-74ae-4c1f-8c0c-03fd7e6daca1.jpg
 wwwroot\img\c9bd7341-cf62-47e3-9265-9e9beef97bd9.jpg
 wwwroot\img\cart\1.jpg
 wwwroot\img\cart\2.jpg
@@ -105,6 +111,7 @@ wwwroot\img\client\6.png
 wwwroot\img\comment\1.jpg
 wwwroot\img\comment\2.jpg
 wwwroot\img\comment\3.jpg
+wwwroot\img\d603c8db-9903-42d1-9eab-b92d399ad82a.jpg
 wwwroot\img\details.jpg
 wwwroot\img\e3417acd-0749-464e-85e4-9bbcb85eaf86.jpg
 wwwroot\img\f43749a3-8be2-441a-8750-df1ef58704cc.jpg

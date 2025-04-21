@@ -13,7 +13,9 @@
 
                 <div class="form-group">
                     <label for="Title">Title</label>
-                    <input type="text" class="form-control" id="Title" name="Title" placeholder="Enter title" required />
+                    <textarea rows="4" cols="50"
+                              asp-for="Title" class="form-control" id="editor" placeholder="Title..."> 
+                    </textarea>
                 </div>
 
                 <button type="submit" class="btn btn-primary">Create Advertisement</button>
@@ -21,4 +23,9 @@
         </div>
     </div>
 </div>
+<script src="//cdn.ckeditor.com/4.22.1/full/ckeditor.js"></script>
+
+<script>
+    CKEDITOR.replace('editor')
+</script>
 

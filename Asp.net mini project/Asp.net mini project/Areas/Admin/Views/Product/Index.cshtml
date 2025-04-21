@@ -30,9 +30,7 @@
                             <tr>
                                 <td>@item.Name</td>
                                 <td>
-                                    <a  asp-controller="ProductDetail" asp-action="Index" asp-route-id="@item.Id">
-                                        <img src="@Url.Content("~/images/" + item.Img)" alt="product image" width="100" height="100" style="cursor: pointer;" />
-                                    </a>
+                                        <img src="@item.Img" alt="product image" width="100" height="100" style="cursor: pointer;" />
                                 </td>
                                 <td>@item.CategoryName</td>
                                 <td>@item.Description</td>
