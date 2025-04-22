@@ -1,9 +1,10 @@
 ﻿using Asp.net_mini_project.Models;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
 namespace Asp.net_mini_project.Data
 {
-    public class AppDbContext :DbContext
+    public class AppDbContext : IdentityDbContext<AppUser>
     {
         public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) { }
 

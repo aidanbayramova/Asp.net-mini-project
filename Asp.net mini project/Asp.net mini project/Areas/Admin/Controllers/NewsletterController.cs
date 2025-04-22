@@ -1,12 +1,14 @@
 ﻿using Asp.net_mini_project.Models;
 using Asp.net_mini_project.Services.Interfaces;
 using Asp.net_mini_project.ViewModels.Admin.Newsletter;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
 namespace Asp.net_mini_project.Areas.Admin.Controllers
 {
     [Area("Admin")]
+
     public class NewsletterController : Controller
     {
         private readonly INewsletterService _newsletterService;
@@ -15,7 +17,7 @@ namespace Asp.net_mini_project.Areas.Admin.Controllers
         {
             _newsletterService = newsletterService;
         }
-
+        [Authorize(Roles = "Admin,SuperAdmin")]
         public async Task<IActionResult> Index()
         {
             var newsletters = await _newsletterService.GetAllAsync();
@@ -34,6 +36,7 @@ namespace Asp.net_mini_project.Areas.Admin.Controllers
         }
 
         [HttpPost]
+        [Authorize(Roles = "SuperAdmin")]
         public async Task<IActionResult> Delete(int id)
         {
             await _newsletterService.DeleteAsync(id);

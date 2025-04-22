@@ -3,160 +3,103 @@
   "WorkspaceRootPath": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|c:\\users\\acer\\desktop\\mvc mini project\\asp.net mini project\\asp.net mini project\\areas\\admin\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|solutionrelative:asp.net mini project\\areas\\admin\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|c:\\users\\acer\\desktop\\mvc mini project\\asp.net mini project\\asp.net mini project\\areas\\admin\\views\\sliderinfo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|solutionrelative:asp.net mini project\\areas\\admin\\views\\sliderinfo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|c:\\users\\acer\\desktop\\mvc mini project\\asp.net mini project\\asp.net mini project\\areas\\admin\\views\\blog\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|solutionrelative:asp.net mini project\\areas\\admin\\views\\blog\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|c:\\users\\acer\\desktop\\mvc mini project\\asp.net mini project\\asp.net mini project\\areas\\admin\\views\\customer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|solutionrelative:asp.net mini project\\areas\\admin\\views\\customer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|c:\\users\\acer\\desktop\\mvc mini project\\asp.net mini project\\asp.net mini project\\services\\blogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|solutionrelative:asp.net mini project\\services\\blogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|c:\\users\\acer\\desktop\\mvc mini project\\asp.net mini project\\asp.net mini project\\viewmodels\\admin\\blog\\blogeditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|solutionrelative:asp.net mini project\\viewmodels\\admin\\blog\\blogeditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|c:\\users\\acer\\desktop\\mvc mini project\\asp.net mini project\\asp.net mini project\\services\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|solutionrelative:asp.net mini project\\services\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|c:\\users\\acer\\desktop\\mvc mini project\\asp.net mini project\\asp.net mini project\\services\\interfaces\\ireviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|solutionrelative:asp.net mini project\\services\\interfaces\\ireviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|c:\\users\\acer\\desktop\\mvc mini project\\asp.net mini project\\asp.net mini project\\areas\\admin\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|solutionrelative:asp.net mini project\\areas\\admin\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|c:\\users\\acer\\desktop\\mvc mini project\\asp.net mini project\\asp.net mini project\\areas\\admin\\views\\review\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|solutionrelative:asp.net mini project\\areas\\admin\\views\\review\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|c:\\users\\acer\\desktop\\mvc mini project\\asp.net mini project\\asp.net mini project\\viewmodels\\admin\\review\\reviewcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|solutionrelative:asp.net mini project\\viewmodels\\admin\\review\\reviewcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|c:\\users\\acer\\desktop\\mvc mini project\\asp.net mini project\\asp.net mini project\\areas\\admin\\views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|solutionrelative:asp.net mini project\\areas\\admin\\views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|c:\\users\\acer\\desktop\\mvc mini project\\asp.net mini project\\asp.net mini project\\areas\\admin\\views\\customer\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|solutionrelative:asp.net mini project\\areas\\admin\\views\\customer\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|c:\\users\\acer\\desktop\\mvc mini project\\asp.net mini project\\asp.net mini project\\areas\\admin\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|solutionrelative:asp.net mini project\\areas\\admin\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|c:\\users\\acer\\desktop\\mvc mini project\\asp.net mini project\\asp.net mini project\\areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|solutionrelative:asp.net mini project\\areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|c:\\users\\acer\\desktop\\mvc mini project\\asp.net mini project\\asp.net mini project\\areas\\admin\\views\\review\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|solutionrelative:asp.net mini project\\areas\\admin\\views\\review\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|c:\\users\\acer\\desktop\\mvc mini project\\asp.net mini project\\asp.net mini project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|solutionrelative:asp.net mini project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|c:\\users\\acer\\desktop\\mvc mini project\\asp.net mini project\\asp.net mini project\\areas\\admin\\controllers\\sliderinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|solutionrelative:asp.net mini project\\areas\\admin\\controllers\\sliderinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|c:\\users\\acer\\desktop\\mvc mini project\\asp.net mini project\\asp.net mini project\\areas\\admin\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|solutionrelative:asp.net mini project\\areas\\admin\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|c:\\users\\acer\\desktop\\mvc mini project\\asp.net mini project\\asp.net mini project\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|solutionrelative:asp.net mini project\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|c:\\users\\acer\\desktop\\mvc mini project\\asp.net mini project\\asp.net mini project\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|solutionrelative:asp.net mini project\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|c:\\users\\acer\\desktop\\mvc mini project\\asp.net mini project\\asp.net mini project\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|solutionrelative:asp.net mini project\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|c:\\users\\acer\\desktop\\mvc mini project\\asp.net mini project\\asp.net mini project\\viewmodels\\admin\\customer\\customerdetailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|solutionrelative:asp.net mini project\\viewmodels\\admin\\customer\\customerdetailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|c:\\users\\acer\\desktop\\mvc mini project\\asp.net mini project\\asp.net mini project\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|solutionrelative:asp.net mini project\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|c:\\users\\acer\\desktop\\mvc mini project\\asp.net mini project\\asp.net mini project\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|solutionrelative:asp.net mini project\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|c:\\users\\acer\\desktop\\mvc mini project\\asp.net mini project\\asp.net mini project\\areas\\admin\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|solutionrelative:asp.net mini project\\areas\\admin\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|c:\\users\\acer\\desktop\\mvc mini project\\asp.net mini project\\asp.net mini project\\areas\\admin\\views\\review\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|solutionrelative:asp.net mini project\\areas\\admin\\views\\review\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|c:\\users\\acer\\desktop\\mvc mini project\\asp.net mini project\\asp.net mini project\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|solutionrelative:asp.net mini project\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|c:\\users\\acer\\desktop\\mvc mini project\\asp.net mini project\\asp.net mini project\\areas\\admin\\views\\review\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|solutionrelative:asp.net mini project\\areas\\admin\\views\\review\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|c:\\users\\acer\\desktop\\mvc mini project\\asp.net mini project\\asp.net mini project\\services\\interfaces\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|solutionrelative:asp.net mini project\\services\\interfaces\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|c:\\users\\acer\\desktop\\mvc mini project\\asp.net mini project\\asp.net mini project\\viewmodels\\admin\\review\\reviewdetailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|solutionrelative:asp.net mini project\\viewmodels\\admin\\review\\reviewdetailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|c:\\users\\acer\\desktop\\mvc mini project\\asp.net mini project\\asp.net mini project\\viewmodels\\admin\\review\\revieweditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|solutionrelative:asp.net mini project\\viewmodels\\admin\\review\\revieweditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|c:\\users\\acer\\desktop\\mvc mini project\\asp.net mini project\\asp.net mini project\\viewmodels\\admin\\review\\reviewvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|solutionrelative:asp.net mini project\\viewmodels\\admin\\review\\reviewvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|c:\\users\\acer\\desktop\\mvc mini project\\asp.net mini project\\asp.net mini project\\viewmodels\\admin\\customer\\customercreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|solutionrelative:asp.net mini project\\viewmodels\\admin\\customer\\customercreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|c:\\users\\acer\\desktop\\mvc mini project\\asp.net mini project\\asp.net mini project\\viewmodels\\admin\\customer\\customereditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|solutionrelative:asp.net mini project\\viewmodels\\admin\\customer\\customereditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|c:\\users\\acer\\desktop\\mvc mini project\\asp.net mini project\\asp.net mini project\\viewmodels\\admin\\customer\\customervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|solutionrelative:asp.net mini project\\viewmodels\\admin\\customer\\customervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|c:\\users\\acer\\desktop\\mvc mini project\\asp.net mini project\\asp.net mini project\\areas\\admin\\views\\blog\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|solutionrelative:asp.net mini project\\areas\\admin\\views\\blog\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|c:\\users\\acer\\desktop\\mvc mini project\\asp.net mini project\\asp.net mini project\\areas\\admin\\views\\brand\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|solutionrelative:asp.net mini project\\areas\\admin\\views\\brand\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|c:\\users\\acer\\desktop\\mvc mini project\\asp.net mini project\\asp.net mini project\\viewmodels\\admin\\blog\\blogcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|solutionrelative:asp.net mini project\\viewmodels\\admin\\blog\\blogcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|c:\\users\\acer\\desktop\\mvc mini project\\asp.net mini project\\asp.net mini project\\areas\\admin\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|solutionrelative:asp.net mini project\\areas\\admin\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|c:\\users\\acer\\desktop\\mvc mini project\\asp.net mini project\\asp.net mini project\\areas\\admin\\views\\newsletter\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|solutionrelative:asp.net mini project\\areas\\admin\\views\\newsletter\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|c:\\users\\acer\\desktop\\mvc mini project\\asp.net mini project\\asp.net mini project\\areas\\admin\\views\\blog\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|solutionrelative:asp.net mini project\\areas\\admin\\views\\blog\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|c:\\users\\acer\\desktop\\mvc mini project\\asp.net mini project\\asp.net mini project\\areas\\admin\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|solutionrelative:asp.net mini project\\areas\\admin\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|c:\\users\\acer\\desktop\\mvc mini project\\asp.net mini project\\asp.net mini project\\services\\interfaces\\iblogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|solutionrelative:asp.net mini project\\services\\interfaces\\iblogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|c:\\users\\acer\\desktop\\mvc mini project\\asp.net mini project\\asp.net mini project\\areas\\admin\\controllers\\newslettercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|solutionrelative:asp.net mini project\\areas\\admin\\controllers\\newslettercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|c:\\users\\acer\\desktop\\mvc mini project\\asp.net mini project\\asp.net mini project\\viewmodels\\admin\\blog\\blogdetailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|solutionrelative:asp.net mini project\\viewmodels\\admin\\blog\\blogdetailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|c:\\users\\acer\\desktop\\mvc mini project\\asp.net mini project\\asp.net mini project\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|solutionrelative:asp.net mini project\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|c:\\users\\acer\\desktop\\mvc mini project\\asp.net mini project\\asp.net mini project\\models\\blogimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|solutionrelative:asp.net mini project\\models\\blogimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|c:\\users\\acer\\desktop\\mvc mini project\\asp.net mini project\\asp.net mini project\\areas\\admin\\views\\brand\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|solutionrelative:asp.net mini project\\areas\\admin\\views\\brand\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|c:\\users\\acer\\desktop\\mvc mini project\\asp.net mini project\\asp.net mini project\\viewmodels\\admin\\imageblog\\blogimagevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|solutionrelative:asp.net mini project\\viewmodels\\admin\\imageblog\\blogimagevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|c:\\users\\acer\\desktop\\mvc mini project\\asp.net mini project\\asp.net mini project\\areas\\admin\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|solutionrelative:asp.net mini project\\areas\\admin\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|c:\\users\\acer\\desktop\\mvc mini project\\asp.net mini project\\asp.net mini project\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|solutionrelative:asp.net mini project\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|c:\\users\\acer\\desktop\\mvc mini project\\asp.net mini project\\asp.net mini project\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|solutionrelative:asp.net mini project\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|c:\\users\\acer\\desktop\\mvc mini project\\asp.net mini project\\asp.net mini project\\areas\\admin\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|solutionrelative:asp.net mini project\\areas\\admin\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|c:\\users\\acer\\desktop\\mvc mini project\\asp.net mini project\\asp.net mini project\\areas\\admin\\views\\advertisement\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|solutionrelative:asp.net mini project\\areas\\admin\\views\\advertisement\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|c:\\users\\acer\\desktop\\mvc mini project\\asp.net mini project\\asp.net mini project\\areas\\admin\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|solutionrelative:asp.net mini project\\areas\\admin\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|c:\\users\\acer\\desktop\\mvc mini project\\asp.net mini project\\asp.net mini project\\areas\\admin\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|solutionrelative:asp.net mini project\\areas\\admin\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|c:\\users\\acer\\desktop\\mvc mini project\\asp.net mini project\\asp.net mini project\\areas\\admin\\controllers\\advertisementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|solutionrelative:asp.net mini project\\areas\\admin\\controllers\\advertisementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|c:\\users\\acer\\desktop\\mvc mini project\\asp.net mini project\\asp.net mini project\\areas\\admin\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|solutionrelative:asp.net mini project\\areas\\admin\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|c:\\users\\acer\\desktop\\mvc mini project\\asp.net mini project\\asp.net mini project\\views\\shared\\components\\header\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|solutionrelative:asp.net mini project\\views\\shared\\components\\header\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|c:\\users\\acer\\desktop\\mvc mini project\\asp.net mini project\\asp.net mini project\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E727289-3BCE-4ACC-B8A5-4803CEFBD7CF}|Asp.net mini project\\Asp.net mini project.csproj|solutionrelative:asp.net mini project\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_5D65TP2_SQLEXPRESS03/ChristmasGiftShop/True/SqlTable/dbo.AspNetUserRoles.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     }
   ],
   "DocumentGroupContainers": [
@@ -166,266 +109,175 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 30,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Program.cs",
-              "RelativeDocumentMoniker": "Asp.net mini project\\Program.cs",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Program.cs",
-              "RelativeToolTip": "Asp.net mini project\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T20:51:38.17Z",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Views\\SliderInfo\\Index.cshtml",
+              "RelativeDocumentMoniker": "Asp.net mini project\\Areas\\Admin\\Views\\SliderInfo\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Views\\SliderInfo\\Index.cshtml*",
+              "RelativeToolTip": "Asp.net mini project\\Areas\\Admin\\Views\\SliderInfo\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-22T17:10:27.383Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Asp.net mini project\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Asp.net mini project\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAAEcAAAAlAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "RelativeDocumentMoniker": "Asp.net mini project\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Views\\Slider\\Index.cshtml*",
+              "RelativeToolTip": "Asp.net mini project\\Areas\\Admin\\Views\\Slider\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-21T20:50:12.507Z",
+              "WhenOpened": "2025-04-22T17:09:27.986Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Detail.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Views\\Customer\\Detail.cshtml",
-              "RelativeDocumentMoniker": "Asp.net mini project\\Areas\\Admin\\Views\\Customer\\Detail.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Views\\Customer\\Detail.cshtml",
-              "RelativeToolTip": "Asp.net mini project\\Areas\\Admin\\Views\\Customer\\Detail.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACwAAAANAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Views\\Review\\Index.cshtml",
+              "RelativeDocumentMoniker": "Asp.net mini project\\Areas\\Admin\\Views\\Review\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Views\\Review\\Index.cshtml*",
+              "RelativeToolTip": "Asp.net mini project\\Areas\\Admin\\Views\\Review\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-21T20:46:46.317Z",
+              "WhenOpened": "2025-04-22T17:05:03.915Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Views\\Customer\\Create.cshtml",
-              "RelativeDocumentMoniker": "Asp.net mini project\\Areas\\Admin\\Views\\Customer\\Create.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Views\\Customer\\Create.cshtml",
-              "RelativeToolTip": "Asp.net mini project\\Areas\\Admin\\Views\\Customer\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Asp.net mini project\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Views\\Product\\Index.cshtml*",
+              "RelativeToolTip": "Asp.net mini project\\Areas\\Admin\\Views\\Product\\Index.cshtml*",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAD8AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-21T20:46:24.468Z",
+              "WhenOpened": "2025-04-22T17:04:32.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Views\\Newsletter\\Index.cshtml",
+              "RelativeDocumentMoniker": "Asp.net mini project\\Areas\\Admin\\Views\\Newsletter\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Views\\Newsletter\\Index.cshtml*",
+              "RelativeToolTip": "Asp.net mini project\\Areas\\Admin\\Views\\Newsletter\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-22T17:03:56.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Views\\Customer\\Index.cshtml",
+              "RelativeDocumentMoniker": "Asp.net mini project\\Areas\\Admin\\Views\\Customer\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Views\\Customer\\Index.cshtml*",
+              "RelativeToolTip": "Asp.net mini project\\Areas\\Admin\\Views\\Customer\\Index.cshtml*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-22T17:03:17.618Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Views\\Customer\\Index.cshtml",
-              "RelativeDocumentMoniker": "Asp.net mini project\\Areas\\Admin\\Views\\Customer\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Views\\Customer\\Index.cshtml",
-              "RelativeToolTip": "Asp.net mini project\\Areas\\Admin\\Views\\Customer\\Index.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Views\\Brand\\Index.cshtml",
+              "RelativeDocumentMoniker": "Asp.net mini project\\Areas\\Admin\\Views\\Brand\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Views\\Brand\\Index.cshtml*",
+              "RelativeToolTip": "Asp.net mini project\\Areas\\Admin\\Views\\Brand\\Index.cshtml*",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwA0AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-21T20:46:10.491Z",
+              "WhenOpened": "2025-04-22T17:02:29.257Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Views\\Review\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Asp.net mini project\\Areas\\Admin\\Views\\Review\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Views\\Review\\Edit.cshtml",
-              "RelativeToolTip": "Asp.net mini project\\Areas\\Admin\\Views\\Review\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABEAAAAAAAAAA==",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Views\\Blog\\Index.cshtml",
+              "RelativeDocumentMoniker": "Asp.net mini project\\Areas\\Admin\\Views\\Blog\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Views\\Blog\\Index.cshtml*",
+              "RelativeToolTip": "Asp.net mini project\\Areas\\Admin\\Views\\Blog\\Index.cshtml*",
+              "ViewState": "AgIAABgAAAAAAAAAAAAkwD4AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-21T20:45:47.967Z",
+              "WhenOpened": "2025-04-22T17:01:51.189Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Views\\Review\\Create.cshtml",
-              "RelativeDocumentMoniker": "Asp.net mini project\\Areas\\Admin\\Views\\Review\\Create.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Views\\Review\\Create.cshtml",
-              "RelativeToolTip": "Asp.net mini project\\Areas\\Admin\\Views\\Review\\Create.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBgAAAA4AAAAAAAAAA==",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Views\\Advertisement\\Index.cshtml",
+              "RelativeDocumentMoniker": "Asp.net mini project\\Areas\\Admin\\Views\\Advertisement\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Views\\Advertisement\\Index.cshtml*",
+              "RelativeToolTip": "Asp.net mini project\\Areas\\Admin\\Views\\Advertisement\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-21T20:38:40.28Z",
+              "WhenOpened": "2025-04-22T17:01:04.084Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
-              "Title": "Detail.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Views\\Review\\Detail.cshtml",
-              "RelativeDocumentMoniker": "Asp.net mini project\\Areas\\Admin\\Views\\Review\\Detail.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Views\\Review\\Detail.cshtml",
-              "RelativeToolTip": "Asp.net mini project\\Areas\\Admin\\Views\\Review\\Detail.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Views\\Shared\\Components\\Header\\Default.cshtml",
+              "RelativeDocumentMoniker": "Asp.net mini project\\Views\\Shared\\Components\\Header\\Default.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Views\\Shared\\Components\\Header\\Default.cshtml",
+              "RelativeToolTip": "Asp.net mini project\\Views\\Shared\\Components\\Header\\Default.cshtml",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAiwKUAAABjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-21T20:37:14.885Z",
+              "WhenOpened": "2025-04-22T16:50:59.886Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Views\\Customer\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Asp.net mini project\\Areas\\Admin\\Views\\Customer\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Views\\Customer\\Edit.cshtml",
-              "RelativeToolTip": "Asp.net mini project\\Areas\\Admin\\Views\\Customer\\Edit.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-21T20:36:16.863Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Asp.net mini project\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Asp.net mini project\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-21T20:34:54.949Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Views\\Review\\Index.cshtml",
-              "RelativeDocumentMoniker": "Asp.net mini project\\Areas\\Admin\\Views\\Review\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Views\\Review\\Index.cshtml",
-              "RelativeToolTip": "Asp.net mini project\\Areas\\Admin\\Views\\Review\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAgAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "Asp.net mini project\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Views\\Category\\Index.cshtml*",
+              "RelativeToolTip": "Asp.net mini project\\Areas\\Admin\\Views\\Category\\Index.cshtml*",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAADQAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-21T20:32:18.277Z",
+              "WhenOpened": "2025-04-22T16:45:49.716Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "CustomerService.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Services\\CustomerService.cs",
-              "RelativeDocumentMoniker": "Asp.net mini project\\Services\\CustomerService.cs",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Services\\CustomerService.cs",
-              "RelativeToolTip": "Asp.net mini project\\Services\\CustomerService.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAkwGEAAAA4AAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "SliderInfoController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Controllers\\SliderInfoController.cs",
+              "RelativeDocumentMoniker": "Asp.net mini project\\Areas\\Admin\\Controllers\\SliderInfoController.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Controllers\\SliderInfoController.cs",
+              "RelativeToolTip": "Asp.net mini project\\Areas\\Admin\\Controllers\\SliderInfoController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBYAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T20:19:22.891Z",
+              "WhenOpened": "2025-04-22T16:11:19.334Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ReviewService.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Services\\ReviewService.cs",
-              "RelativeDocumentMoniker": "Asp.net mini project\\Services\\ReviewService.cs",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Services\\ReviewService.cs",
-              "RelativeToolTip": "Asp.net mini project\\Services\\ReviewService.cs",
-              "ViewState": "AgIAAFgAAAAAAAAAAAAmwGwAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "SliderController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "RelativeDocumentMoniker": "Asp.net mini project\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "RelativeToolTip": "Asp.net mini project\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowBgAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T20:18:51.092Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "ReviewEditVM.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\ViewModels\\Admin\\Review\\ReviewEditVM.cs",
-              "RelativeDocumentMoniker": "Asp.net mini project\\ViewModels\\Admin\\Review\\ReviewEditVM.cs",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\ViewModels\\Admin\\Review\\ReviewEditVM.cs",
-              "RelativeToolTip": "Asp.net mini project\\ViewModels\\Admin\\Review\\ReviewEditVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T20:12:00.898Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "ReviewDetailVM.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\ViewModels\\Admin\\Review\\ReviewDetailVM.cs",
-              "RelativeDocumentMoniker": "Asp.net mini project\\ViewModels\\Admin\\Review\\ReviewDetailVM.cs",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\ViewModels\\Admin\\Review\\ReviewDetailVM.cs",
-              "RelativeToolTip": "Asp.net mini project\\ViewModels\\Admin\\Review\\ReviewDetailVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T20:11:47.086Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ReviewCreateVM.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\ViewModels\\Admin\\Review\\ReviewCreateVM.cs",
-              "RelativeDocumentMoniker": "Asp.net mini project\\ViewModels\\Admin\\Review\\ReviewCreateVM.cs",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\ViewModels\\Admin\\Review\\ReviewCreateVM.cs",
-              "RelativeToolTip": "Asp.net mini project\\ViewModels\\Admin\\Review\\ReviewCreateVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T20:11:27.396Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "ReviewVM.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\ViewModels\\Admin\\Review\\ReviewVM.cs",
-              "RelativeDocumentMoniker": "Asp.net mini project\\ViewModels\\Admin\\Review\\ReviewVM.cs",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\ViewModels\\Admin\\Review\\ReviewVM.cs",
-              "RelativeToolTip": "Asp.net mini project\\ViewModels\\Admin\\Review\\ReviewVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T20:11:16.355Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IReviewService.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Services\\Interfaces\\IReviewService.cs",
-              "RelativeDocumentMoniker": "Asp.net mini project\\Services\\Interfaces\\IReviewService.cs",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Services\\Interfaces\\IReviewService.cs",
-              "RelativeToolTip": "Asp.net mini project\\Services\\Interfaces\\IReviewService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T20:09:31.505Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "ICustomerService.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Services\\Interfaces\\ICustomerService.cs",
-              "RelativeDocumentMoniker": "Asp.net mini project\\Services\\Interfaces\\ICustomerService.cs",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Services\\Interfaces\\ICustomerService.cs",
-              "RelativeToolTip": "Asp.net mini project\\Services\\Interfaces\\ICustomerService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T20:08:07.255Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "CustomerController.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Controllers\\CustomerController.cs",
-              "RelativeDocumentMoniker": "Asp.net mini project\\Areas\\Admin\\Controllers\\CustomerController.cs",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Controllers\\CustomerController.cs",
-              "RelativeToolTip": "Asp.net mini project\\Areas\\Admin\\Controllers\\CustomerController.cs",
-              "ViewState": "AgIAAGIAAAAAAAAAAAAswHAAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T20:07:13.186Z",
+              "WhenOpened": "2025-04-22T16:11:15.96Z",
               "EditorCaption": ""
             },
             {
@@ -436,239 +288,149 @@
               "RelativeDocumentMoniker": "Asp.net mini project\\Areas\\Admin\\Controllers\\ReviewController.cs",
               "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Controllers\\ReviewController.cs",
               "RelativeToolTip": "Asp.net mini project\\Areas\\Admin\\Controllers\\ReviewController.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAiwEAAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T20:06:27.046Z",
+              "WhenOpened": "2025-04-22T16:11:09.153Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "CustomerEditVM.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\ViewModels\\Admin\\Customer\\CustomerEditVM.cs",
-              "RelativeDocumentMoniker": "Asp.net mini project\\ViewModels\\Admin\\Customer\\CustomerEditVM.cs",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\ViewModels\\Admin\\Customer\\CustomerEditVM.cs",
-              "RelativeToolTip": "Asp.net mini project\\ViewModels\\Admin\\Customer\\CustomerEditVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Asp.net mini project\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Asp.net mini project\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwEAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T20:05:02.976Z",
+              "WhenOpened": "2025-04-22T16:10:58.72Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "CustomerDetailVM.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\ViewModels\\Admin\\Customer\\CustomerDetailVM.cs",
-              "RelativeDocumentMoniker": "Asp.net mini project\\ViewModels\\Admin\\Customer\\CustomerDetailVM.cs",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\ViewModels\\Admin\\Customer\\CustomerDetailVM.cs",
-              "RelativeToolTip": "Asp.net mini project\\ViewModels\\Admin\\Customer\\CustomerDetailVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "NewsletterController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Controllers\\NewsletterController.cs",
+              "RelativeDocumentMoniker": "Asp.net mini project\\Areas\\Admin\\Controllers\\NewsletterController.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Controllers\\NewsletterController.cs",
+              "RelativeToolTip": "Asp.net mini project\\Areas\\Admin\\Controllers\\NewsletterController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T20:04:50.506Z",
+              "WhenOpened": "2025-04-22T16:10:53.677Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "CustomerCreateVM.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\ViewModels\\Admin\\Customer\\CustomerCreateVM.cs",
-              "RelativeDocumentMoniker": "Asp.net mini project\\ViewModels\\Admin\\Customer\\CustomerCreateVM.cs",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\ViewModels\\Admin\\Customer\\CustomerCreateVM.cs",
-              "RelativeToolTip": "Asp.net mini project\\ViewModels\\Admin\\Customer\\CustomerCreateVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Asp.net mini project\\Areas\\Admin\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Asp.net mini project\\Areas\\Admin\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T20:04:39.053Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "CustomerVM.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\ViewModels\\Admin\\Customer\\CustomerVM.cs",
-              "RelativeDocumentMoniker": "Asp.net mini project\\ViewModels\\Admin\\Customer\\CustomerVM.cs",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\ViewModels\\Admin\\Customer\\CustomerVM.cs",
-              "RelativeToolTip": "Asp.net mini project\\ViewModels\\Admin\\Customer\\CustomerVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T20:04:26.89Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Views\\Newsletter\\Index.cshtml",
-              "RelativeDocumentMoniker": "Asp.net mini project\\Areas\\Admin\\Views\\Newsletter\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Views\\Newsletter\\Index.cshtml",
-              "RelativeToolTip": "Asp.net mini project\\Areas\\Admin\\Views\\Newsletter\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-21T17:25:48.878Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Views\\Brand\\Create.cshtml",
-              "RelativeDocumentMoniker": "Asp.net mini project\\Areas\\Admin\\Views\\Brand\\Create.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Views\\Brand\\Create.cshtml",
-              "RelativeToolTip": "Asp.net mini project\\Areas\\Admin\\Views\\Brand\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-21T17:23:53.624Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Views\\Blog\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Asp.net mini project\\Areas\\Admin\\Views\\Blog\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Views\\Blog\\Edit.cshtml",
-              "RelativeToolTip": "Asp.net mini project\\Areas\\Admin\\Views\\Blog\\Edit.cshtml",
-              "ViewState": "AgIAABoAAAAAAAAAAAAtwC0AAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-21T17:22:48.433Z",
+              "WhenOpened": "2025-04-22T16:10:45.759Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Views\\Blog\\Index.cshtml",
-              "RelativeDocumentMoniker": "Asp.net mini project\\Areas\\Admin\\Views\\Blog\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Views\\Blog\\Index.cshtml",
-              "RelativeToolTip": "Asp.net mini project\\Areas\\Admin\\Views\\Blog\\Index.cshtml",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAgwDYAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-21T17:21:03.777Z",
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Asp.net mini project\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Asp.net mini project\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T16:10:41.769Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "Detail.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Views\\Blog\\Detail.cshtml",
-              "RelativeDocumentMoniker": "Asp.net mini project\\Areas\\Admin\\Views\\Blog\\Detail.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Views\\Blog\\Detail.cshtml",
-              "RelativeToolTip": "Asp.net mini project\\Areas\\Admin\\Views\\Blog\\Detail.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-21T17:20:51.358Z",
+              "DocumentIndex": 18,
+              "Title": "BrandController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Controllers\\BrandController.cs",
+              "RelativeDocumentMoniker": "Asp.net mini project\\Areas\\Admin\\Controllers\\BrandController.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Controllers\\BrandController.cs",
+              "RelativeToolTip": "Asp.net mini project\\Areas\\Admin\\Controllers\\BrandController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T16:10:37.729Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 19,
               "Title": "BlogController.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Controllers\\BlogController.cs",
               "RelativeDocumentMoniker": "Asp.net mini project\\Areas\\Admin\\Controllers\\BlogController.cs",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Controllers\\BlogController.cs*",
-              "RelativeToolTip": "Asp.net mini project\\Areas\\Admin\\Controllers\\BlogController.cs*",
-              "ViewState": "AgIAACgAAAAAAAAAAAAkwDUAAAAhAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "Asp.net mini project\\Areas\\Admin\\Controllers\\BlogController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBkAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T17:20:08.09Z",
+              "WhenOpened": "2025-04-22T16:10:33.942Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BlogService.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Services\\BlogService.cs",
-              "RelativeDocumentMoniker": "Asp.net mini project\\Services\\BlogService.cs",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Services\\BlogService.cs",
-              "RelativeToolTip": "Asp.net mini project\\Services\\BlogService.cs",
-              "ViewState": "AgIAAE8AAAAAAAAAAAA5wFkAAAAzAAAAAAAAAA==",
+              "DocumentIndex": 20,
+              "Title": "AdvertisementController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Controllers\\AdvertisementController.cs",
+              "RelativeDocumentMoniker": "Asp.net mini project\\Areas\\Admin\\Controllers\\AdvertisementController.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Controllers\\AdvertisementController.cs",
+              "RelativeToolTip": "Asp.net mini project\\Areas\\Admin\\Controllers\\AdvertisementController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwBcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T17:18:11.596Z",
+              "WhenOpened": "2025-04-22T16:10:30.212Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "IBlogService.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Services\\Interfaces\\IBlogService.cs",
-              "RelativeDocumentMoniker": "Asp.net mini project\\Services\\Interfaces\\IBlogService.cs",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Services\\Interfaces\\IBlogService.cs",
-              "RelativeToolTip": "Asp.net mini project\\Services\\Interfaces\\IBlogService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "DocumentIndex": 21,
+              "Title": "AboutController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Controllers\\AboutController.cs",
+              "RelativeDocumentMoniker": "Asp.net mini project\\Areas\\Admin\\Controllers\\AboutController.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Controllers\\AboutController.cs",
+              "RelativeToolTip": "Asp.net mini project\\Areas\\Admin\\Controllers\\AboutController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T17:15:22.825Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "BlogImageVM.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\ViewModels\\Admin\\ImageBlog\\BlogImageVM.cs",
-              "RelativeDocumentMoniker": "Asp.net mini project\\ViewModels\\Admin\\ImageBlog\\BlogImageVM.cs",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\ViewModels\\Admin\\ImageBlog\\BlogImageVM.cs",
-              "RelativeToolTip": "Asp.net mini project\\ViewModels\\Admin\\ImageBlog\\BlogImageVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T17:14:20.829Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Views\\Blog\\Create.cshtml",
-              "RelativeDocumentMoniker": "Asp.net mini project\\Areas\\Admin\\Views\\Blog\\Create.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Views\\Blog\\Create.cshtml",
-              "RelativeToolTip": "Asp.net mini project\\Areas\\Admin\\Views\\Blog\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-21T17:10:54.297Z",
+              "WhenOpened": "2025-04-22T16:10:25.326Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "BlogImage.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Models\\BlogImage.cs",
-              "RelativeDocumentMoniker": "Asp.net mini project\\Models\\BlogImage.cs",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Models\\BlogImage.cs",
-              "RelativeToolTip": "Asp.net mini project\\Models\\BlogImage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Asp.net mini project\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Asp.net mini project\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T17:10:31.204Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "BlogCreateVM.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\ViewModels\\Admin\\Blog\\BlogCreateVM.cs",
-              "RelativeDocumentMoniker": "Asp.net mini project\\ViewModels\\Admin\\Blog\\BlogCreateVM.cs",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\ViewModels\\Admin\\Blog\\BlogCreateVM.cs",
-              "RelativeToolTip": "Asp.net mini project\\ViewModels\\Admin\\Blog\\BlogCreateVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T17:08:29.763Z",
+              "WhenOpened": "2025-04-22T16:09:56.681Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "BlogDetailVM.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\ViewModels\\Admin\\Blog\\BlogDetailVM.cs",
-              "RelativeDocumentMoniker": "Asp.net mini project\\ViewModels\\Admin\\Blog\\BlogDetailVM.cs",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\ViewModels\\Admin\\Blog\\BlogDetailVM.cs",
-              "RelativeToolTip": "Asp.net mini project\\ViewModels\\Admin\\Blog\\BlogDetailVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T17:07:45.407Z"
+              "DocumentIndex": 24,
+              "Title": "dbo.AspNetUserRoles [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_5D65TP2_SQLEXPRESS03/ChristmasGiftShop/True/SqlTable/dbo.AspNetUserRoles.sql",
+              "ToolTip": "dbo.AspNetUserRoles [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-04-22T16:03:15.933Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BlogEditVM.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\ViewModels\\Admin\\Blog\\BlogEditVM.cs",
-              "RelativeDocumentMoniker": "Asp.net mini project\\ViewModels\\Admin\\Blog\\BlogEditVM.cs",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\ViewModels\\Admin\\Blog\\BlogEditVM.cs",
-              "RelativeToolTip": "Asp.net mini project\\ViewModels\\Admin\\Blog\\BlogEditVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 23,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Asp.net mini project\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Asp.net mini project\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwDsAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T17:07:01.087Z",
+              "WhenOpened": "2025-04-22T15:48:15.039Z",
               "EditorCaption": ""
             }
           ]

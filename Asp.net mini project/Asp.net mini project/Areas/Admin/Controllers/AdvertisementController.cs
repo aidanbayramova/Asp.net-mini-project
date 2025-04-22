@@ -2,6 +2,7 @@
 using Asp.net_mini_project.Services.Interfaces;
 using Asp.net_mini_project.ViewModels.Admin.Advertisement;
 using Asp.net_mini_project.ViewModels.Admin.Slider;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
@@ -18,6 +19,7 @@ namespace Asp.net_mini_project.Areas.Admin.Controllers
             _advertisementService    = advertisementService;
             _env = env;
         }
+        [Authorize(Roles = "Admin,SuperAdmin")]
         public async Task<IActionResult> Index()
         {
             var advertisement = await _advertisementService.GetAllAsync();
@@ -32,6 +34,7 @@ namespace Asp.net_mini_project.Areas.Admin.Controllers
             return View(advertisementI); 
         }
         [HttpGet]
+        [Authorize(Roles = "SuperAdmin")]
         public IActionResult Create()
         {
             return View();
@@ -40,6 +43,7 @@ namespace Asp.net_mini_project.Areas.Admin.Controllers
       
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize(Roles = "SuperAdmin")]
         public async Task<IActionResult> Create(AdvertisementCreateVM request)
         {
             if (!ModelState.IsValid)
@@ -51,6 +55,7 @@ namespace Asp.net_mini_project.Areas.Admin.Controllers
         }
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize(Roles = ",SuperAdmin")]
         public async Task<IActionResult> Delete(int? id)
         {
             if (id == null) return BadRequest(); 
@@ -63,6 +68,7 @@ namespace Asp.net_mini_project.Areas.Admin.Controllers
             return RedirectToAction(nameof(Index)); 
         }
         [HttpGet]
+        [Authorize(Roles = "SuperAdmin")]
         public async Task<IActionResult> Edit(int id)
         {
             var advertisement = await _advertisementService.GetByIdAsync(id);
@@ -80,6 +86,7 @@ namespace Asp.net_mini_project.Areas.Admin.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize(Roles = "SuperAdmin")]
         public async Task<IActionResult> Edit(AdvertisementEditVM model)
         {
                    
@@ -88,6 +95,7 @@ namespace Asp.net_mini_project.Areas.Admin.Controllers
             return RedirectToAction(nameof(Index));
         }
         [HttpGet]
+        [Authorize(Roles = "Admin,SuperAdmin")]
         public async Task<IActionResult> Detail(int? id)
         {
            

@@ -3,13 +3,14 @@ using Asp.net_mini_project.Services;
 using Asp.net_mini_project.Services.Interfaces;
 using Asp.net_mini_project.ViewModels.Admin.Advertisement;
 using Asp.net_mini_project.ViewModels.Admin.Blog;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Asp.net_mini_project.Areas.Admin.Controllers
 {
 
         [Area("Admin")]
-        public class BlogController : Controller
+    public class BlogController : Controller
         {
             private readonly IBlogService _blogService;
             private readonly IWebHostEnvironment _webHostEnv;
@@ -21,6 +22,7 @@ namespace Asp.net_mini_project.Areas.Admin.Controllers
             }
 
             [HttpGet]
+            [Authorize(Roles = "Admin,SuperAdmin")]
             public async Task<IActionResult> Index()
             {
                 var blogList = await _blogService.GetAllAsync();
@@ -28,20 +30,28 @@ namespace Asp.net_mini_project.Areas.Admin.Controllers
             }
 
             [HttpGet]
+            [Authorize(Roles = "SuperAdmin")]
             public IActionResult Create()
             {
                 return View();
             }
 
-            [HttpPost]
-            [ValidateAntiForgeryToken]
-            public async Task<IActionResult> Create(BlogCreateVM createVM)
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Create(BlogCreateVM createVM)
+        {
+            if (!ModelState.IsValid)
             {
-                await _blogService.CreateAsync(createVM);
-                return RedirectToAction(nameof(Index));
+                
+                return View(createVM);
             }
 
+            await _blogService.CreateAsync(createVM); 
+            return RedirectToAction(nameof(Index));
+        }
+
             [HttpGet]
+            [Authorize(Roles = "SuperAdmin")]
             public async Task<IActionResult> Edit(int id)
             {
                 var editModel = await _blogService.GetEditModelAsync(id);
@@ -50,17 +60,19 @@ namespace Asp.net_mini_project.Areas.Admin.Controllers
                 return View(editModel);
             }
 
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, BlogEditVM updateVM)
-        {
+          [HttpPost]
+          [ValidateAntiForgeryToken]
+          [Authorize(Roles = "SuperAdmin")]
+          public async Task<IActionResult> Edit(int id, BlogEditVM updateVM)
+          {
             if (!ModelState.IsValid) return View(updateVM);
 
             await _blogService.EditAsync(updateVM);
             return RedirectToAction("Index");
-        }
+          }
 
-        [HttpGet]
+           [HttpGet]
+           [Authorize(Roles = "Admin,SuperAdmin")]
             public async Task<IActionResult> Detail(int id)
             {
                 var detailVM = await _blogService.GetDetailAsync(id);
@@ -71,6 +83,7 @@ namespace Asp.net_mini_project.Areas.Admin.Controllers
 
             [HttpPost]
             [ValidateAntiForgeryToken]
+            [Authorize(Roles = "SuperAdmin")]
             public async Task<IActionResult> Delete(int id)
             {
                 var blogToDelete = await _blogService.GetByIdAsync(id);
@@ -81,6 +94,7 @@ namespace Asp.net_mini_project.Areas.Admin.Controllers
             }
 
             [HttpPost]
+            [Authorize(Roles = "Admin,SuperAdmin")]
             public async Task<IActionResult> DeleteImg(int imageId, int blogId)
             {
                 await _blogService.DeleteImgAsync(imageId);

@@ -7,7 +7,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace Asp.net_mini_project.Services
 {
-    public class ReviewService :IReviewService
+    public class ReviewService : IReviewService
     {
         private readonly AppDbContext _context;
 
@@ -56,10 +56,9 @@ namespace Asp.net_mini_project.Services
                     Text = c.FullName
                 })
                 .ToListAsync();
-
             return new ReviewCreateVM
             {
-                Consumers = customers  
+                Customers = customers
             };
         }
         public async Task<ReviewEditVM> GetEditModelAsync(int id)
@@ -79,7 +78,7 @@ namespace Asp.net_mini_project.Services
             {
                 Id = review.Id,
                 Comment = review.Comment,
-                CustomerId = review.ConsumerId,
+                CustomerId = review.CustomerId,
                 Customers = customers
             };
         }
@@ -96,7 +95,7 @@ namespace Asp.net_mini_project.Services
                 throw new ArgumentException("Comment cannot be null or empty.");
             }
 
-            if (createVM.ConsumerId == 0)
+            if (createVM.CustomerId == 0)
             {
                 throw new ArgumentException("ConsumerId must be provided.");
             }
@@ -104,10 +103,10 @@ namespace Asp.net_mini_project.Services
             var review = new Review
             {
                 Comment = createVM.Comment,
-                ConsumerId = (int)createVM.ConsumerId,
+                CustomerId = createVM.CustomerId
             };
 
-           
+
             if (review == null)
             {
                 throw new NullReferenceException("Failed to create review.");
@@ -123,7 +122,7 @@ namespace Asp.net_mini_project.Services
             if (review == null) return;
 
             review.Comment = editVM.Comment;
-            review.ConsumerId = editVM.CustomerId;
+            review.CustomerId = editVM.CustomerId;
 
             _context.Reviews.Update(review);
             await _context.SaveChangesAsync();

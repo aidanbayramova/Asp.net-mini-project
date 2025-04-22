@@ -1116,6 +1116,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\ionicons.min.css'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\Login.css'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Asp.net mini project</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Asp.net mini project</BasePath>
+      <RelativePath>css/Login.css</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>stmj0ohodi</Fingerprint>
+      <Integrity>UGq4fr1mzvRUE/X/ybZlPUq8Nw3maEclskIQCGqLnUg=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\Login.css'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\plugins.css'))">
       <SourceType>Package</SourceType>
       <SourceId>Asp.net mini project</SourceId>
@@ -1350,6 +1368,60 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\010603a6-cb04-46ca-8756-edd6304654f0-h1-custom-icon.png'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\0333c274-3eb8-4838-a0e2-e66c65420fe2.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Asp.net mini project</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Asp.net mini project</BasePath>
+      <RelativePath>img/0333c274-3eb8-4838-a0e2-e66c65420fe2.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>vjjektl7sz</Fingerprint>
+      <Integrity>hW2ogtbWKoLtcnnC8p92VuET2UrozQe0HRcAbJRKu3M=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\0333c274-3eb8-4838-a0e2-e66c65420fe2.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\0dca78f4-fa7b-44b1-a612-d73692fa1c44.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Asp.net mini project</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Asp.net mini project</BasePath>
+      <RelativePath>img/0dca78f4-fa7b-44b1-a612-d73692fa1c44.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>kebz41135w</Fingerprint>
+      <Integrity>fBzpREpfOCoUtrJf4v8TVuD+vBWx2Z2NGlusjCT0+ZM=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\0dca78f4-fa7b-44b1-a612-d73692fa1c44.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\1.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Asp.net mini project</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Asp.net mini project</BasePath>
+      <RelativePath>img/1.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>oimxmp395y</Fingerprint>
+      <Integrity>QDoQiNbAbY11UflGh98WTQfErmwFMNPmDt55lY82+V4=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\1.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\124033c8-6769-40ed-a77c-781139c7cef8.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>Asp.net mini project</SourceId>
@@ -1368,6 +1440,42 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\124033c8-6769-40ed-a77c-781139c7cef8.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\1248e03c-a0c0-47a5-a1bf-eb3a8cb55ea6.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Asp.net mini project</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Asp.net mini project</BasePath>
+      <RelativePath>img/1248e03c-a0c0-47a5-a1bf-eb3a8cb55ea6.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>e89d18p9ng</Fingerprint>
+      <Integrity>Av93Sf1YhpPpRFQwmoL//8+f1TMqrS3ETjN4E3ETQis=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\1248e03c-a0c0-47a5-a1bf-eb3a8cb55ea6.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\197f07a6-b1a0-4f61-86e7-7eec2e193f9e.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Asp.net mini project</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Asp.net mini project</BasePath>
+      <RelativePath>img/197f07a6-b1a0-4f61-86e7-7eec2e193f9e.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>e89d18p9ng</Fingerprint>
+      <Integrity>Av93Sf1YhpPpRFQwmoL//8+f1TMqrS3ETjN4E3ETQis=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\197f07a6-b1a0-4f61-86e7-7eec2e193f9e.png'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\1f150341-e85f-44bd-91c6-e36e3ef9dca8.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>Asp.net mini project</SourceId>
@@ -1385,6 +1493,60 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\1f150341-e85f-44bd-91c6-e36e3ef9dca8.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\1f83cee1-70ff-452c-ad03-09be24e94df8.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Asp.net mini project</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Asp.net mini project</BasePath>
+      <RelativePath>img/1f83cee1-70ff-452c-ad03-09be24e94df8.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>zqvy3mb1u9</Fingerprint>
+      <Integrity>xT+KEDAokn3Pc3J9DH8UTMba0FUjVJV1taTWGAMtews=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\1f83cee1-70ff-452c-ad03-09be24e94df8.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\22e20974-27ff-4d72-b644-3b8ba29e44d9.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Asp.net mini project</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Asp.net mini project</BasePath>
+      <RelativePath>img/22e20974-27ff-4d72-b644-3b8ba29e44d9.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>9s18howjuc</Fingerprint>
+      <Integrity>93P46fy6XvausFUn10+jw8kzTWj5Phmb755qJi55xRE=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\22e20974-27ff-4d72-b644-3b8ba29e44d9.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\2981886b-6703-4264-bd8c-d80134e38c00.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Asp.net mini project</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Asp.net mini project</BasePath>
+      <RelativePath>img/2981886b-6703-4264-bd8c-d80134e38c00.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>pqdimsejnk</Fingerprint>
+      <Integrity>74PMVRZ+f5SRTUGRp35kpuwxfAH7jy5gziSTRzHoW7g=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\2981886b-6703-4264-bd8c-d80134e38c00.png'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\2b34be6a-ff23-4ae3-b548-2868ef214e83.jpg'))">
       <SourceType>Package</SourceType>
@@ -1476,6 +1638,78 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\3404280c-270c-433d-9e53-e0b01904dc8b.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\376b20e7-1dc6-4ece-855e-2d8a37839da3.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Asp.net mini project</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Asp.net mini project</BasePath>
+      <RelativePath>img/376b20e7-1dc6-4ece-855e-2d8a37839da3.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>2juntumc3m</Fingerprint>
+      <Integrity>Ts+YPoxRF28Dg6FDjpenhcxBKT3vjmgmV3wVC4Wm0is=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\376b20e7-1dc6-4ece-855e-2d8a37839da3.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\379fd29b-80cd-452c-a5d7-0e846761eb0b.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Asp.net mini project</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Asp.net mini project</BasePath>
+      <RelativePath>img/379fd29b-80cd-452c-a5d7-0e846761eb0b.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>ouj73i0q88</Fingerprint>
+      <Integrity>QEucl+wHexYDtMyK/fV7t8lxpjIxPqer+1LYARzy3Tk=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\379fd29b-80cd-452c-a5d7-0e846761eb0b.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\3b1bf1f5-0e2f-4d14-ad23-f97bb06033ee.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Asp.net mini project</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Asp.net mini project</BasePath>
+      <RelativePath>img/3b1bf1f5-0e2f-4d14-ad23-f97bb06033ee.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>z9529wj6ew</Fingerprint>
+      <Integrity>yZ+x+sDYmdCrTKbIF6ACWeY4RzkbRV5E9u9UNhy/mH8=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\3b1bf1f5-0e2f-4d14-ad23-f97bb06033ee.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\3f3a8222-025d-4fa6-9bf7-7243b42bf57f.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Asp.net mini project</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Asp.net mini project</BasePath>
+      <RelativePath>img/3f3a8222-025d-4fa6-9bf7-7243b42bf57f.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>8n85hx9ypq</Fingerprint>
+      <Integrity>BKBjDJBB+flVX5lV1df374uvuBHfdMrlIGYkKtKdwLA=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\3f3a8222-025d-4fa6-9bf7-7243b42bf57f.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\3fcaec9d-2355-4ca0-b270-4d81c64d531c.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>Asp.net mini project</SourceId>
@@ -1493,6 +1727,24 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\3fcaec9d-2355-4ca0-b270-4d81c64d531c.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\4319deb9-72ef-4b7d-8407-a34a22d9ebc9.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Asp.net mini project</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Asp.net mini project</BasePath>
+      <RelativePath>img/4319deb9-72ef-4b7d-8407-a34a22d9ebc9.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>vwlcsi7wu8</Fingerprint>
+      <Integrity>EXL6Pj4+bXDu3UHoBhoSXowqqUUenN7U7UQ8wSMz7ao=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\4319deb9-72ef-4b7d-8407-a34a22d9ebc9.png'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\432e3566-377d-4554-ab25-83b21e9de78e.png'))">
       <SourceType>Package</SourceType>
@@ -1512,6 +1764,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\432e3566-377d-4554-ab25-83b21e9de78e.png'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\4791da47-de9e-4c13-bdcc-1434c49a3a97.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Asp.net mini project</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Asp.net mini project</BasePath>
+      <RelativePath>img/4791da47-de9e-4c13-bdcc-1434c49a3a97.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>47a0beefi9</Fingerprint>
+      <Integrity>YEmS64Zoi0Pg4DhhVlUVNNUoSNkmRMWgbkGlsTBXSmk=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\4791da47-de9e-4c13-bdcc-1434c49a3a97.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\4af1c819-ab74-4d91-9b3d-f69199123115.jpg\4af1c819-ab74-4d91-9b3d-f69199123115.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>Asp.net mini project</SourceId>
@@ -1529,6 +1799,96 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\4af1c819-ab74-4d91-9b3d-f69199123115.jpg\4af1c819-ab74-4d91-9b3d-f69199123115.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\4bf87be0-d09a-4c7a-8f94-4fac87f7035d.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Asp.net mini project</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Asp.net mini project</BasePath>
+      <RelativePath>img/4bf87be0-d09a-4c7a-8f94-4fac87f7035d.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>959fjtnjzb</Fingerprint>
+      <Integrity>DZNutX5HCHM5gjbb8LISdXMv+Q8yTtolV3NZhF0i+0E=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\4bf87be0-d09a-4c7a-8f94-4fac87f7035d.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\4f1cf17b-5228-41c2-bd5d-f7b6d98ae727.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Asp.net mini project</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Asp.net mini project</BasePath>
+      <RelativePath>img/4f1cf17b-5228-41c2-bd5d-f7b6d98ae727.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>nfkzpm0s1d</Fingerprint>
+      <Integrity>zdx3F7FF2TCCp++M8dArTtocOUBYJ+74sP8GT7Y85eU=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\4f1cf17b-5228-41c2-bd5d-f7b6d98ae727.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\5bc7f823-0d53-4612-9e00-a14ad06bb596.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Asp.net mini project</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Asp.net mini project</BasePath>
+      <RelativePath>img/5bc7f823-0d53-4612-9e00-a14ad06bb596.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>oylr6j3nau</Fingerprint>
+      <Integrity>EHYxv3t2HXa+nf9Gufh6z9vpNYgAlzasy91191F/vfs=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\5bc7f823-0d53-4612-9e00-a14ad06bb596.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\5edec632-1087-406e-8aa7-66be6266c56a.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Asp.net mini project</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Asp.net mini project</BasePath>
+      <RelativePath>img/5edec632-1087-406e-8aa7-66be6266c56a.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>nwlchk9bb3</Fingerprint>
+      <Integrity>58rcg098TU4hT35HHLskItwIYUThdCwRnxtHO1VtfA4=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\5edec632-1087-406e-8aa7-66be6266c56a.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\618c099d-c148-46b8-994f-5b50e851e2af.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Asp.net mini project</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Asp.net mini project</BasePath>
+      <RelativePath>img/618c099d-c148-46b8-994f-5b50e851e2af.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>z9529wj6ew</Fingerprint>
+      <Integrity>yZ+x+sDYmdCrTKbIF6ACWeY4RzkbRV5E9u9UNhy/mH8=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\618c099d-c148-46b8-994f-5b50e851e2af.png'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\65915e77-0df4-4824-913b-9ce4b8b7d407.jpg'))">
       <SourceType>Package</SourceType>
@@ -1548,6 +1908,42 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\65915e77-0df4-4824-913b-9ce4b8b7d407.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\669e1018-34d9-458f-81ab-0745e8acaf75.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Asp.net mini project</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Asp.net mini project</BasePath>
+      <RelativePath>img/669e1018-34d9-458f-81ab-0745e8acaf75.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>x7oxo84dpp</Fingerprint>
+      <Integrity>3bAmYycP9F58R+GajLFo69Mx5PdoPnwgA8fBR8YBgLw=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\669e1018-34d9-458f-81ab-0745e8acaf75.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\672df2bf-cbe2-473c-9464-8f97f07773cf.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Asp.net mini project</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Asp.net mini project</BasePath>
+      <RelativePath>img/672df2bf-cbe2-473c-9464-8f97f07773cf.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>jbxipc0ldp</Fingerprint>
+      <Integrity>LyJqLihHGwQ9b3eNmT2zD0jp6xvT6+zj+iUPQ60T2Ng=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\672df2bf-cbe2-473c-9464-8f97f07773cf.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\6a20df44-bf06-4ead-b938-3ae412b8b351.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>Asp.net mini project</SourceId>
@@ -1566,6 +1962,42 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\6a20df44-bf06-4ead-b938-3ae412b8b351.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\6a66f9d1-a1d2-40ab-91eb-031052aa2014-1.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Asp.net mini project</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Asp.net mini project</BasePath>
+      <RelativePath>img/6a66f9d1-a1d2-40ab-91eb-031052aa2014-1.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>nj5ghl04p0</Fingerprint>
+      <Integrity>E6WAcaUlR3Ft8V1Z5B/8WkvorO+4VcLV5Shdf4/8mcw=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\6a66f9d1-a1d2-40ab-91eb-031052aa2014-1.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\6eec8296-d4d0-4ba9-af8f-47f8caae88e8.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Asp.net mini project</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Asp.net mini project</BasePath>
+      <RelativePath>img/6eec8296-d4d0-4ba9-af8f-47f8caae88e8.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>kebz41135w</Fingerprint>
+      <Integrity>fBzpREpfOCoUtrJf4v8TVuD+vBWx2Z2NGlusjCT0+ZM=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\6eec8296-d4d0-4ba9-af8f-47f8caae88e8.png'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\72cd7647-c01a-4585-ba2f-e32db09e83ff.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>Asp.net mini project</SourceId>
@@ -1583,6 +2015,24 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\72cd7647-c01a-4585-ba2f-e32db09e83ff.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\7b44e372-490d-49fe-9f47-28739e8e9bf1.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Asp.net mini project</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Asp.net mini project</BasePath>
+      <RelativePath>img/7b44e372-490d-49fe-9f47-28739e8e9bf1.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>oylr6j3nau</Fingerprint>
+      <Integrity>EHYxv3t2HXa+nf9Gufh6z9vpNYgAlzasy91191F/vfs=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\7b44e372-490d-49fe-9f47-28739e8e9bf1.png'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\7ce0df80-4a69-439b-b9c8-c0601ae66c78.jpg'))">
       <SourceType>Package</SourceType>
@@ -1692,6 +2142,60 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\9087fba3-6278-4341-ad1a-5b4ef2461a0f.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\91b41710-8f54-4cd1-9eab-bf387b8e3d80.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Asp.net mini project</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Asp.net mini project</BasePath>
+      <RelativePath>img/91b41710-8f54-4cd1-9eab-bf387b8e3d80.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>z9529wj6ew</Fingerprint>
+      <Integrity>yZ+x+sDYmdCrTKbIF6ACWeY4RzkbRV5E9u9UNhy/mH8=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\91b41710-8f54-4cd1-9eab-bf387b8e3d80.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\920e2d2d-ca74-4e06-b861-53e7da7abcd6.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Asp.net mini project</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Asp.net mini project</BasePath>
+      <RelativePath>img/920e2d2d-ca74-4e06-b861-53e7da7abcd6.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>nvcm4947mq</Fingerprint>
+      <Integrity>Tc0bkgQ92W2V0XgBlGfbr0Gz2ce3/TSPWCgdVbNVjrE=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\920e2d2d-ca74-4e06-b861-53e7da7abcd6.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\9dd2e2ce-3d88-4ccc-b684-05f0fe4a30c7.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Asp.net mini project</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Asp.net mini project</BasePath>
+      <RelativePath>img/9dd2e2ce-3d88-4ccc-b684-05f0fe4a30c7.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>ho36vvcjbi</Fingerprint>
+      <Integrity>38wA6EL37/WdzG3RKZw6KKx/rUaTSTrLd5LRXLAjs4A=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\9dd2e2ce-3d88-4ccc-b684-05f0fe4a30c7.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\9f710684-10e7-4e8e-8454-ade05aa2407b.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>Asp.net mini project</SourceId>
@@ -1728,6 +2232,60 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\a2cafe2d-4714-45da-8d90-873af67c2e78.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\a39a7a9e-2b2c-4e5c-a81a-7e35dc5c16e8.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Asp.net mini project</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Asp.net mini project</BasePath>
+      <RelativePath>img/a39a7a9e-2b2c-4e5c-a81a-7e35dc5c16e8.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>e9dfdf6p9c</Fingerprint>
+      <Integrity>HqbgZ1nHmmC61hO9+nqKpTmzpe4dzsnDQyW7VLmG3EU=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\a39a7a9e-2b2c-4e5c-a81a-7e35dc5c16e8.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\a7584801-54e9-4b15-b15f-f42828381a2c.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Asp.net mini project</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Asp.net mini project</BasePath>
+      <RelativePath>img/a7584801-54e9-4b15-b15f-f42828381a2c.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>e9dfdf6p9c</Fingerprint>
+      <Integrity>HqbgZ1nHmmC61hO9+nqKpTmzpe4dzsnDQyW7VLmG3EU=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\a7584801-54e9-4b15-b15f-f42828381a2c.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\a9b56b91-79f7-40b3-a44c-a1a4d418a78f.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Asp.net mini project</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Asp.net mini project</BasePath>
+      <RelativePath>img/a9b56b91-79f7-40b3-a44c-a1a4d418a78f.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>kebz41135w</Fingerprint>
+      <Integrity>fBzpREpfOCoUtrJf4v8TVuD+vBWx2Z2NGlusjCT0+ZM=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\a9b56b91-79f7-40b3-a44c-a1a4d418a78f.png'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\about.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>Asp.net mini project</SourceId>
@@ -1745,6 +2303,42 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\about.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\acc88f88-3e8b-4871-8c59-f0b7a5b58a0c.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Asp.net mini project</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Asp.net mini project</BasePath>
+      <RelativePath>img/acc88f88-3e8b-4871-8c59-f0b7a5b58a0c.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>slm4ganawz</Fingerprint>
+      <Integrity>cLOcJQN527BObpyBh4V9GdgBXWaTTxNVTX9oWYiCQCk=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\acc88f88-3e8b-4871-8c59-f0b7a5b58a0c.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\b252820e-59d6-4ca2-a9ab-6d431f2b0faf.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Asp.net mini project</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Asp.net mini project</BasePath>
+      <RelativePath>img/b252820e-59d6-4ca2-a9ab-6d431f2b0faf.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>axzpd3g9l6</Fingerprint>
+      <Integrity>4iTyJX8qZGzb9+jBvHA+KWumNdriatyB9qu0RK1Z7iA=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\b252820e-59d6-4ca2-a9ab-6d431f2b0faf.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\b37f9661-175b-4165-9414-1176f78bf5bc.jpg'))">
       <SourceType>Package</SourceType>
@@ -1781,6 +2375,24 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\b3a7f6c2-b9e3-4fde-b32a-583ae075e5dc.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\b9ed7cad-79b4-4b1d-ba7e-a210e52a1b55-1.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Asp.net mini project</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Asp.net mini project</BasePath>
+      <RelativePath>img/b9ed7cad-79b4-4b1d-ba7e-a210e52a1b55-1.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>nj5ghl04p0</Fingerprint>
+      <Integrity>E6WAcaUlR3Ft8V1Z5B/8WkvorO+4VcLV5Shdf4/8mcw=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\b9ed7cad-79b4-4b1d-ba7e-a210e52a1b55-1.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\banner\1.jpg'))">
       <SourceType>Package</SourceType>
@@ -2106,6 +2718,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\c04ff935-74ae-4c1f-8c0c-03fd7e6daca1.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\c3ce9173-0635-49d5-a99e-1b424b96ce69.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Asp.net mini project</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Asp.net mini project</BasePath>
+      <RelativePath>img/c3ce9173-0635-49d5-a99e-1b424b96ce69.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>slm4ganawz</Fingerprint>
+      <Integrity>cLOcJQN527BObpyBh4V9GdgBXWaTTxNVTX9oWYiCQCk=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\c3ce9173-0635-49d5-a99e-1b424b96ce69.png'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\c9bd7341-cf62-47e3-9265-9e9beef97bd9.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>Asp.net mini project</SourceId>
@@ -2340,6 +2970,114 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\d603c8db-9903-42d1-9eab-b92d399ad82a.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\d7324142-e30e-4379-a58b-0dec24ffe64b.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Asp.net mini project</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Asp.net mini project</BasePath>
+      <RelativePath>img/d7324142-e30e-4379-a58b-0dec24ffe64b.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>z9529wj6ew</Fingerprint>
+      <Integrity>yZ+x+sDYmdCrTKbIF6ACWeY4RzkbRV5E9u9UNhy/mH8=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\d7324142-e30e-4379-a58b-0dec24ffe64b.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\daf926e0-d97a-4987-a1e7-6f06117a1189.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Asp.net mini project</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Asp.net mini project</BasePath>
+      <RelativePath>img/daf926e0-d97a-4987-a1e7-6f06117a1189.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>xlgbevu36l</Fingerprint>
+      <Integrity>1XJhhh9YT0sGgNdSUfp+L1O7CDDCGvXH2FLI5JbZ2t0=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\daf926e0-d97a-4987-a1e7-6f06117a1189.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\db211641-7bf1-48b4-9440-bc54ecdf8410-1.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Asp.net mini project</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Asp.net mini project</BasePath>
+      <RelativePath>img/db211641-7bf1-48b4-9440-bc54ecdf8410-1.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>nj5ghl04p0</Fingerprint>
+      <Integrity>E6WAcaUlR3Ft8V1Z5B/8WkvorO+4VcLV5Shdf4/8mcw=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\db211641-7bf1-48b4-9440-bc54ecdf8410-1.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\dcf06460-74f2-4fb2-aa21-ffab7b0ddbb1.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Asp.net mini project</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Asp.net mini project</BasePath>
+      <RelativePath>img/dcf06460-74f2-4fb2-aa21-ffab7b0ddbb1.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>ouj73i0q88</Fingerprint>
+      <Integrity>QEucl+wHexYDtMyK/fV7t8lxpjIxPqer+1LYARzy3Tk=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\dcf06460-74f2-4fb2-aa21-ffab7b0ddbb1.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\dea0b213-65aa-4672-85fa-025e3debf348.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Asp.net mini project</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Asp.net mini project</BasePath>
+      <RelativePath>img/dea0b213-65aa-4672-85fa-025e3debf348.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>ouj73i0q88</Fingerprint>
+      <Integrity>QEucl+wHexYDtMyK/fV7t8lxpjIxPqer+1LYARzy3Tk=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\dea0b213-65aa-4672-85fa-025e3debf348.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\deba7782-1530-4bc9-8dcd-a745cb084f97.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Asp.net mini project</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Asp.net mini project</BasePath>
+      <RelativePath>img/deba7782-1530-4bc9-8dcd-a745cb084f97.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>12aiw0sipp</Fingerprint>
+      <Integrity>aWOUuybHk7lvCsu86bGqNcT2EYo5KMU/NSksaRdFXJI=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\deba7782-1530-4bc9-8dcd-a745cb084f97.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\details.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>Asp.net mini project</SourceId>
@@ -2376,23 +3114,59 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\e3417acd-0749-464e-85e4-9bbcb85eaf86.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\ea9ed520-e12f-4135-97cf-4c765f3aab9b-footer-bottom-1.png'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\e3e0c2db-3301-48b2-9e42-a6a54c96b017.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>Asp.net mini project</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/Asp.net mini project</BasePath>
-      <RelativePath>img/ea9ed520-e12f-4135-97cf-4c765f3aab9b-footer-bottom-1.png</RelativePath>
+      <RelativePath>img/e3e0c2db-3301-48b2-9e42-a6a54c96b017.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>kebz41135w</Fingerprint>
-      <Integrity>fBzpREpfOCoUtrJf4v8TVuD+vBWx2Z2NGlusjCT0+ZM=</Integrity>
+      <Fingerprint>3godhgazdu</Fingerprint>
+      <Integrity>Aw6WG4JDNSVotZqvHoXTb51UDPS0hnzkdMzPaRB5SLs=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\ea9ed520-e12f-4135-97cf-4c765f3aab9b-footer-bottom-1.png'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\e3e0c2db-3301-48b2-9e42-a6a54c96b017.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\eae05519-cfed-42c4-8a2d-741efb4916f9.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Asp.net mini project</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Asp.net mini project</BasePath>
+      <RelativePath>img/eae05519-cfed-42c4-8a2d-741efb4916f9.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>hubh8bvmuh</Fingerprint>
+      <Integrity>OdpMRMC9achwUmRQauEvR27F2BnMj4itbadeCc/XCdw=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\eae05519-cfed-42c4-8a2d-741efb4916f9.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\ee7d54a8-731d-4a49-a209-3335ada73c8e.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Asp.net mini project</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Asp.net mini project</BasePath>
+      <RelativePath>img/ee7d54a8-731d-4a49-a209-3335ada73c8e.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>z9529wj6ew</Fingerprint>
+      <Integrity>yZ+x+sDYmdCrTKbIF6ACWeY4RzkbRV5E9u9UNhy/mH8=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\ee7d54a8-731d-4a49-a209-3335ada73c8e.png'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\f43749a3-8be2-441a-8750-df1ef58704cc.jpg'))">
       <SourceType>Package</SourceType>
@@ -2880,6 +3654,42 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\sidebar-post-1.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\signin-image.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Asp.net mini project</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Asp.net mini project</BasePath>
+      <RelativePath>img/signin-image.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>nbwyz86iqy</Fingerprint>
+      <Integrity>3SQUZ7EwNk7tDHXPUh4xyNwKk4vwII1Qpvcm3elQsYY=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\signin-image.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\signup-image.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Asp.net mini project</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Asp.net mini project</BasePath>
+      <RelativePath>img/signup-image.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>jbxipc0ldp</Fingerprint>
+      <Integrity>LyJqLihHGwQ9b3eNmT2zD0jp6xvT6+zj+iUPQ60T2Ng=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\signup-image.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\team\1.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>Asp.net mini project</SourceId>
@@ -3005,6 +3815,24 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\bootstrap.min.js'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\JavaScript.js'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Asp.net mini project</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Asp.net mini project</BasePath>
+      <RelativePath>js/JavaScript.js</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>glh1n6p6co</Fingerprint>
+      <Integrity>VG5YIVFmledEqGg4ixiW7o3WSUFqcMinpTt0YycIYTA=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\JavaScript.js'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\main.js'))">
       <SourceType>Package</SourceType>

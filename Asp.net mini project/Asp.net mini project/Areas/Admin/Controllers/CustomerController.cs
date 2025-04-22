@@ -1,12 +1,14 @@
 ﻿using Asp.net_mini_project.Services.Interfaces;
 using Asp.net_mini_project.ViewModels.Admin.Customer;
 using FiorelloBackendPB103.Helpers.Extensions;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Asp.net_mini_project.Areas.Admin.Controllers
 {
    
         [Area("Admin")]
+
         public class CustomerController : Controller
         {
             private readonly ICustomerService _customerService;
@@ -17,7 +19,7 @@ namespace Asp.net_mini_project.Areas.Admin.Controllers
                 _customerService = customerService;
                 _env = env;
             }
-
+             [Authorize(Roles = "Admin,SuperAdmin")]
             public async Task<IActionResult> Index()
             {
                 var customers = await _customerService.GetAllAsync();
@@ -32,12 +34,15 @@ namespace Asp.net_mini_project.Areas.Admin.Controllers
             }
 
             [HttpGet]
+           [Authorize(Roles = "SuperAdmin")]
             public IActionResult Create()
             {
                 return View();
             }
 
             [HttpPost]
+            [Authorize(Roles = "SuperAdmin")]
+
             public async Task<IActionResult> Create(CustomerCreateVM request)
             {
                 if (!ModelState.IsValid)
@@ -60,6 +65,7 @@ namespace Asp.net_mini_project.Areas.Admin.Controllers
             }
 
             [HttpGet]
+            [Authorize(Roles = "SuperAdmin")]
             public async Task<IActionResult> Edit(int id)
             {
                 var customer = await _customerService.GetByIdAsync(id);
@@ -76,6 +82,7 @@ namespace Asp.net_mini_project.Areas.Admin.Controllers
             }
 
             [HttpPost]
+            [Authorize(Roles = "SuperAdmin")]
             public async Task<IActionResult> Edit(CustomerEditVM request)
             {
 
@@ -99,6 +106,7 @@ namespace Asp.net_mini_project.Areas.Admin.Controllers
             }
 
             [HttpPost]
+            [Authorize(Roles = "SuperAdmin")]
             public async Task<IActionResult> Delete(int id)
             {
                 var customer = await _customerService.GetByIdAsync(id);
@@ -109,6 +117,7 @@ namespace Asp.net_mini_project.Areas.Admin.Controllers
             }
 
             [HttpGet]
+            [Authorize(Roles = "Admin,SuperAdmin")]
             public async Task<IActionResult> Detail(int id)
             {
                 var customerDetail = await _customerService.GetCustomerDetailAsync(id);

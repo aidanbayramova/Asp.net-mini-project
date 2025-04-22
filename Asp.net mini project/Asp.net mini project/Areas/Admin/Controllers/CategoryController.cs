@@ -3,6 +3,7 @@ using Asp.net_mini_project.Services;
 using Asp.net_mini_project.Services.Interfaces;
 using Asp.net_mini_project.ViewModels.Admin.Category;
 using FiorelloBackendPB103.Areas.Admin.ViewModels.Category;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
@@ -17,6 +18,7 @@ namespace Asp.net_mini_project.Areas.Admin.Controllers
             _categoryService = categoryService;
         }
         [HttpGet]
+        [Authorize(Roles = "Admin,SuperAdmin")]
         public async Task<IActionResult> Index()
         {
 
@@ -28,6 +30,7 @@ namespace Asp.net_mini_project.Areas.Admin.Controllers
 
 
         [HttpGet]
+        [Authorize(Roles = "SuperAdmin")]
         public IActionResult Create()
         {
             return View();
@@ -35,6 +38,7 @@ namespace Asp.net_mini_project.Areas.Admin.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize(Roles = "SuperAdmin")]
         public async Task<IActionResult> Create(CategoryCreateVM request)
         {
             if (!ModelState.IsValid)
@@ -56,6 +60,7 @@ namespace Asp.net_mini_project.Areas.Admin.Controllers
         }
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize(Roles = "SuperAdmin")]
         public async Task<IActionResult> Delete(int? id)
         {
             if (id == null)
@@ -83,6 +88,7 @@ namespace Asp.net_mini_project.Areas.Admin.Controllers
         }
 
         [HttpGet]
+        [Authorize(Roles = "Admin ,SuperAdmin")]
         public async Task<IActionResult> Detail(int? id)
         {
             if (id == null) return BadRequest();
@@ -100,6 +106,7 @@ namespace Asp.net_mini_project.Areas.Admin.Controllers
             return View(viewModel);
         }
         [HttpGet]
+        [Authorize(Roles = "SuperAdmin")]
         public async Task<IActionResult> Edit(int? id)
         {
             if (id is null) return BadRequest();
@@ -112,6 +119,7 @@ namespace Asp.net_mini_project.Areas.Admin.Controllers
         }
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize(Roles = "SuperAdmin")]
         public async Task<IActionResult> Edit(CategoryEditVM request)
         {
             if (!ModelState.IsValid) return View(request);

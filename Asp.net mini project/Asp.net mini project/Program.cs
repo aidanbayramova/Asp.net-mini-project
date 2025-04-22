@@ -1,6 +1,8 @@
 using Asp.net_mini_project.Data;
+using Asp.net_mini_project.Models;
 using Asp.net_mini_project.Services;
 using Asp.net_mini_project.Services.Interfaces;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -14,7 +16,29 @@ var conString = builder.Configuration.GetConnectionString("Default") ??
 // Configure DbContext
 builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseSqlServer(conString));
+builder.Services.AddIdentity<AppUser, IdentityRole>().AddEntityFrameworkStores<AppDbContext>()
+                                           .AddDefaultTokenProviders();
 
+builder.Services.Configure<IdentityOptions>(options =>
+{
+    // Password settings.
+    options.Password.RequireDigit = true;
+    options.Password.RequireLowercase = true;
+    options.Password.RequireNonAlphanumeric = true;
+    options.Password.RequireUppercase = true;
+    options.Password.RequiredLength = 6;
+    options.Password.RequiredUniqueChars = 1;
+
+    // Lockout settings.
+    //options.Lockout.DefaultLockoutTimeSpan = TimeSpan.FromMinutes(5);
+    //options.Lockout.MaxFailedAccessAttempts = 5;
+    //options.Lockout.AllowedForNewUsers = true;
+
+    // User settings.
+    //options.User.AllowedUserNameCharacters =
+    //"abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789-._@+";
+    options.User.RequireUniqueEmail = true;
+});
 // Register services
 builder.Services.AddScoped<ISliderService, SliderService>();
 builder.Services.AddScoped<ISliderInfoService, SliderInfoService>();
@@ -42,7 +66,9 @@ app.UseHttpsRedirection();
 app.UseStaticFiles();
 
 app.UseRouting();
+app.UseAuthentication();
 app.UseAuthorization();
+
 
 // Area routing configuration
 app.MapControllerRoute(

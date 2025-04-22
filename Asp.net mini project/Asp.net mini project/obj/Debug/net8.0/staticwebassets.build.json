@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "A1D444NXSGVJDW/hag9stD5OZaDPK87HHW+p4FjBJP8=",
+  "Hash": "kFA++eIbOodpeBNhl2SEe16+3c7AwcS5wAFFBaCEOtM=",
   "Source": "Asp.net mini project",
   "BasePath": "_content/Asp.net mini project",
   "Mode": "Default",
@@ -1340,6 +1340,27 @@
       "OriginalItemSpec": "wwwroot\\css\\ionicons.min.css"
     },
     {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\css\\Login.css",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "css/Login#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "stmj0ohodi",
+      "Integrity": "UGq4fr1mzvRUE/X/ybZlPUq8Nw3maEclskIQCGqLnUg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Login.css"
+    },
+    {
       "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\css\\plugins.css",
       "SourceId": "Asp.net mini project",
       "SourceType": "Discovered",
@@ -1613,6 +1634,69 @@
       "OriginalItemSpec": "wwwroot\\img\\010603a6-cb04-46ca-8756-edd6304654f0-h1-custom-icon.png"
     },
     {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\0333c274-3eb8-4838-a0e2-e66c65420fe2.png",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "img/0333c274-3eb8-4838-a0e2-e66c65420fe2#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vjjektl7sz",
+      "Integrity": "hW2ogtbWKoLtcnnC8p92VuET2UrozQe0HRcAbJRKu3M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\0333c274-3eb8-4838-a0e2-e66c65420fe2.png"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\0dca78f4-fa7b-44b1-a612-d73692fa1c44.png",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "img/0dca78f4-fa7b-44b1-a612-d73692fa1c44#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kebz41135w",
+      "Integrity": "fBzpREpfOCoUtrJf4v8TVuD+vBWx2Z2NGlusjCT0+ZM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\0dca78f4-fa7b-44b1-a612-d73692fa1c44.png"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\1.jpg",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "img/1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "oimxmp395y",
+      "Integrity": "QDoQiNbAbY11UflGh98WTQfErmwFMNPmDt55lY82+V4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\1.jpg"
+    },
+    {
       "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\124033c8-6769-40ed-a77c-781139c7cef8.jpg",
       "SourceId": "Asp.net mini project",
       "SourceType": "Discovered",
@@ -1634,6 +1718,48 @@
       "OriginalItemSpec": "wwwroot\\img\\124033c8-6769-40ed-a77c-781139c7cef8.jpg"
     },
     {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\1248e03c-a0c0-47a5-a1bf-eb3a8cb55ea6.png",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "img/1248e03c-a0c0-47a5-a1bf-eb3a8cb55ea6#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "e89d18p9ng",
+      "Integrity": "Av93Sf1YhpPpRFQwmoL//8+f1TMqrS3ETjN4E3ETQis=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\1248e03c-a0c0-47a5-a1bf-eb3a8cb55ea6.png"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\197f07a6-b1a0-4f61-86e7-7eec2e193f9e.png",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "img/197f07a6-b1a0-4f61-86e7-7eec2e193f9e#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "e89d18p9ng",
+      "Integrity": "Av93Sf1YhpPpRFQwmoL//8+f1TMqrS3ETjN4E3ETQis=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\197f07a6-b1a0-4f61-86e7-7eec2e193f9e.png"
+    },
+    {
       "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\1f150341-e85f-44bd-91c6-e36e3ef9dca8.jpg",
       "SourceId": "Asp.net mini project",
       "SourceType": "Discovered",
@@ -1653,6 +1779,69 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\1f150341-e85f-44bd-91c6-e36e3ef9dca8.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\1f83cee1-70ff-452c-ad03-09be24e94df8.jpg",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "img/1f83cee1-70ff-452c-ad03-09be24e94df8#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zqvy3mb1u9",
+      "Integrity": "xT+KEDAokn3Pc3J9DH8UTMba0FUjVJV1taTWGAMtews=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\1f83cee1-70ff-452c-ad03-09be24e94df8.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\22e20974-27ff-4d72-b644-3b8ba29e44d9.jpg",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "img/22e20974-27ff-4d72-b644-3b8ba29e44d9#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9s18howjuc",
+      "Integrity": "93P46fy6XvausFUn10+jw8kzTWj5Phmb755qJi55xRE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\22e20974-27ff-4d72-b644-3b8ba29e44d9.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\2981886b-6703-4264-bd8c-d80134e38c00.png",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "img/2981886b-6703-4264-bd8c-d80134e38c00#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pqdimsejnk",
+      "Integrity": "74PMVRZ+f5SRTUGRp35kpuwxfAH7jy5gziSTRzHoW7g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\2981886b-6703-4264-bd8c-d80134e38c00.png"
     },
     {
       "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\2b34be6a-ff23-4ae3-b548-2868ef214e83.jpg",
@@ -1760,6 +1949,90 @@
       "OriginalItemSpec": "wwwroot\\img\\3404280c-270c-433d-9e53-e0b01904dc8b.jpg"
     },
     {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\376b20e7-1dc6-4ece-855e-2d8a37839da3.png",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "img/376b20e7-1dc6-4ece-855e-2d8a37839da3#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2juntumc3m",
+      "Integrity": "Ts+YPoxRF28Dg6FDjpenhcxBKT3vjmgmV3wVC4Wm0is=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\376b20e7-1dc6-4ece-855e-2d8a37839da3.png"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\379fd29b-80cd-452c-a5d7-0e846761eb0b.png",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "img/379fd29b-80cd-452c-a5d7-0e846761eb0b#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ouj73i0q88",
+      "Integrity": "QEucl+wHexYDtMyK/fV7t8lxpjIxPqer+1LYARzy3Tk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\379fd29b-80cd-452c-a5d7-0e846761eb0b.png"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\3b1bf1f5-0e2f-4d14-ad23-f97bb06033ee.png",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "img/3b1bf1f5-0e2f-4d14-ad23-f97bb06033ee#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "z9529wj6ew",
+      "Integrity": "yZ+x+sDYmdCrTKbIF6ACWeY4RzkbRV5E9u9UNhy/mH8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\3b1bf1f5-0e2f-4d14-ad23-f97bb06033ee.png"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\3f3a8222-025d-4fa6-9bf7-7243b42bf57f.jpg",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "img/3f3a8222-025d-4fa6-9bf7-7243b42bf57f#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8n85hx9ypq",
+      "Integrity": "BKBjDJBB+flVX5lV1df374uvuBHfdMrlIGYkKtKdwLA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\3f3a8222-025d-4fa6-9bf7-7243b42bf57f.jpg"
+    },
+    {
       "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\3fcaec9d-2355-4ca0-b270-4d81c64d531c.jpg",
       "SourceId": "Asp.net mini project",
       "SourceType": "Discovered",
@@ -1779,6 +2052,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\3fcaec9d-2355-4ca0-b270-4d81c64d531c.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\4319deb9-72ef-4b7d-8407-a34a22d9ebc9.png",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "img/4319deb9-72ef-4b7d-8407-a34a22d9ebc9#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vwlcsi7wu8",
+      "Integrity": "EXL6Pj4+bXDu3UHoBhoSXowqqUUenN7U7UQ8wSMz7ao=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\4319deb9-72ef-4b7d-8407-a34a22d9ebc9.png"
     },
     {
       "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\432e3566-377d-4554-ab25-83b21e9de78e.png",
@@ -1802,6 +2096,27 @@
       "OriginalItemSpec": "wwwroot\\img\\432e3566-377d-4554-ab25-83b21e9de78e.png"
     },
     {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\4791da47-de9e-4c13-bdcc-1434c49a3a97.jpg",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "img/4791da47-de9e-4c13-bdcc-1434c49a3a97#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "47a0beefi9",
+      "Integrity": "YEmS64Zoi0Pg4DhhVlUVNNUoSNkmRMWgbkGlsTBXSmk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\4791da47-de9e-4c13-bdcc-1434c49a3a97.jpg"
+    },
+    {
       "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\4af1c819-ab74-4d91-9b3d-f69199123115.jpg\\4af1c819-ab74-4d91-9b3d-f69199123115.jpg",
       "SourceId": "Asp.net mini project",
       "SourceType": "Discovered",
@@ -1821,6 +2136,111 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\4af1c819-ab74-4d91-9b3d-f69199123115.jpg\\4af1c819-ab74-4d91-9b3d-f69199123115.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\4bf87be0-d09a-4c7a-8f94-4fac87f7035d.jpg",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "img/4bf87be0-d09a-4c7a-8f94-4fac87f7035d#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "959fjtnjzb",
+      "Integrity": "DZNutX5HCHM5gjbb8LISdXMv+Q8yTtolV3NZhF0i+0E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\4bf87be0-d09a-4c7a-8f94-4fac87f7035d.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\4f1cf17b-5228-41c2-bd5d-f7b6d98ae727.jpg",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "img/4f1cf17b-5228-41c2-bd5d-f7b6d98ae727#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nfkzpm0s1d",
+      "Integrity": "zdx3F7FF2TCCp++M8dArTtocOUBYJ+74sP8GT7Y85eU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\4f1cf17b-5228-41c2-bd5d-f7b6d98ae727.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\5bc7f823-0d53-4612-9e00-a14ad06bb596.png",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "img/5bc7f823-0d53-4612-9e00-a14ad06bb596#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "oylr6j3nau",
+      "Integrity": "EHYxv3t2HXa+nf9Gufh6z9vpNYgAlzasy91191F/vfs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\5bc7f823-0d53-4612-9e00-a14ad06bb596.png"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\5edec632-1087-406e-8aa7-66be6266c56a.jpg",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "img/5edec632-1087-406e-8aa7-66be6266c56a#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nwlchk9bb3",
+      "Integrity": "58rcg098TU4hT35HHLskItwIYUThdCwRnxtHO1VtfA4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\5edec632-1087-406e-8aa7-66be6266c56a.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\618c099d-c148-46b8-994f-5b50e851e2af.png",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "img/618c099d-c148-46b8-994f-5b50e851e2af#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "z9529wj6ew",
+      "Integrity": "yZ+x+sDYmdCrTKbIF6ACWeY4RzkbRV5E9u9UNhy/mH8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\618c099d-c148-46b8-994f-5b50e851e2af.png"
     },
     {
       "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\65915e77-0df4-4824-913b-9ce4b8b7d407.jpg",
@@ -1844,6 +2264,48 @@
       "OriginalItemSpec": "wwwroot\\img\\65915e77-0df4-4824-913b-9ce4b8b7d407.jpg"
     },
     {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\669e1018-34d9-458f-81ab-0745e8acaf75.jpg",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "img/669e1018-34d9-458f-81ab-0745e8acaf75#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "x7oxo84dpp",
+      "Integrity": "3bAmYycP9F58R+GajLFo69Mx5PdoPnwgA8fBR8YBgLw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\669e1018-34d9-458f-81ab-0745e8acaf75.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\672df2bf-cbe2-473c-9464-8f97f07773cf.jpg",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "img/672df2bf-cbe2-473c-9464-8f97f07773cf#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jbxipc0ldp",
+      "Integrity": "LyJqLihHGwQ9b3eNmT2zD0jp6xvT6+zj+iUPQ60T2Ng=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\672df2bf-cbe2-473c-9464-8f97f07773cf.jpg"
+    },
+    {
       "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\6a20df44-bf06-4ead-b938-3ae412b8b351.jpg",
       "SourceId": "Asp.net mini project",
       "SourceType": "Discovered",
@@ -1865,6 +2327,48 @@
       "OriginalItemSpec": "wwwroot\\img\\6a20df44-bf06-4ead-b938-3ae412b8b351.jpg"
     },
     {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\6a66f9d1-a1d2-40ab-91eb-031052aa2014-1.jpg",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "img/6a66f9d1-a1d2-40ab-91eb-031052aa2014-1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nj5ghl04p0",
+      "Integrity": "E6WAcaUlR3Ft8V1Z5B/8WkvorO+4VcLV5Shdf4/8mcw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\6a66f9d1-a1d2-40ab-91eb-031052aa2014-1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\6eec8296-d4d0-4ba9-af8f-47f8caae88e8.png",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "img/6eec8296-d4d0-4ba9-af8f-47f8caae88e8#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kebz41135w",
+      "Integrity": "fBzpREpfOCoUtrJf4v8TVuD+vBWx2Z2NGlusjCT0+ZM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\6eec8296-d4d0-4ba9-af8f-47f8caae88e8.png"
+    },
+    {
       "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\72cd7647-c01a-4585-ba2f-e32db09e83ff.jpg",
       "SourceId": "Asp.net mini project",
       "SourceType": "Discovered",
@@ -1884,6 +2388,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\72cd7647-c01a-4585-ba2f-e32db09e83ff.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\7b44e372-490d-49fe-9f47-28739e8e9bf1.png",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "img/7b44e372-490d-49fe-9f47-28739e8e9bf1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "oylr6j3nau",
+      "Integrity": "EHYxv3t2HXa+nf9Gufh6z9vpNYgAlzasy91191F/vfs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\7b44e372-490d-49fe-9f47-28739e8e9bf1.png"
     },
     {
       "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\7ce0df80-4a69-439b-b9c8-c0601ae66c78.jpg",
@@ -2012,6 +2537,69 @@
       "OriginalItemSpec": "wwwroot\\img\\9087fba3-6278-4341-ad1a-5b4ef2461a0f.jpg"
     },
     {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\91b41710-8f54-4cd1-9eab-bf387b8e3d80.png",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "img/91b41710-8f54-4cd1-9eab-bf387b8e3d80#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "z9529wj6ew",
+      "Integrity": "yZ+x+sDYmdCrTKbIF6ACWeY4RzkbRV5E9u9UNhy/mH8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\91b41710-8f54-4cd1-9eab-bf387b8e3d80.png"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\920e2d2d-ca74-4e06-b861-53e7da7abcd6.png",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "img/920e2d2d-ca74-4e06-b861-53e7da7abcd6#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nvcm4947mq",
+      "Integrity": "Tc0bkgQ92W2V0XgBlGfbr0Gz2ce3/TSPWCgdVbNVjrE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\920e2d2d-ca74-4e06-b861-53e7da7abcd6.png"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\9dd2e2ce-3d88-4ccc-b684-05f0fe4a30c7.jpg",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "img/9dd2e2ce-3d88-4ccc-b684-05f0fe4a30c7#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ho36vvcjbi",
+      "Integrity": "38wA6EL37/WdzG3RKZw6KKx/rUaTSTrLd5LRXLAjs4A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\9dd2e2ce-3d88-4ccc-b684-05f0fe4a30c7.jpg"
+    },
+    {
       "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\9f710684-10e7-4e8e-8454-ade05aa2407b.jpg",
       "SourceId": "Asp.net mini project",
       "SourceType": "Discovered",
@@ -2054,6 +2642,69 @@
       "OriginalItemSpec": "wwwroot\\img\\a2cafe2d-4714-45da-8d90-873af67c2e78.jpg"
     },
     {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\a39a7a9e-2b2c-4e5c-a81a-7e35dc5c16e8.jpg",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "img/a39a7a9e-2b2c-4e5c-a81a-7e35dc5c16e8#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "e9dfdf6p9c",
+      "Integrity": "HqbgZ1nHmmC61hO9+nqKpTmzpe4dzsnDQyW7VLmG3EU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\a39a7a9e-2b2c-4e5c-a81a-7e35dc5c16e8.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\a7584801-54e9-4b15-b15f-f42828381a2c.jpg",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "img/a7584801-54e9-4b15-b15f-f42828381a2c#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "e9dfdf6p9c",
+      "Integrity": "HqbgZ1nHmmC61hO9+nqKpTmzpe4dzsnDQyW7VLmG3EU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\a7584801-54e9-4b15-b15f-f42828381a2c.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\a9b56b91-79f7-40b3-a44c-a1a4d418a78f.png",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "img/a9b56b91-79f7-40b3-a44c-a1a4d418a78f#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kebz41135w",
+      "Integrity": "fBzpREpfOCoUtrJf4v8TVuD+vBWx2Z2NGlusjCT0+ZM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\a9b56b91-79f7-40b3-a44c-a1a4d418a78f.png"
+    },
+    {
       "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\about.jpg",
       "SourceId": "Asp.net mini project",
       "SourceType": "Discovered",
@@ -2073,6 +2724,48 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\about.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\acc88f88-3e8b-4871-8c59-f0b7a5b58a0c.png",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "img/acc88f88-3e8b-4871-8c59-f0b7a5b58a0c#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "slm4ganawz",
+      "Integrity": "cLOcJQN527BObpyBh4V9GdgBXWaTTxNVTX9oWYiCQCk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\acc88f88-3e8b-4871-8c59-f0b7a5b58a0c.png"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\b252820e-59d6-4ca2-a9ab-6d431f2b0faf.jpg",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "img/b252820e-59d6-4ca2-a9ab-6d431f2b0faf#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "axzpd3g9l6",
+      "Integrity": "4iTyJX8qZGzb9+jBvHA+KWumNdriatyB9qu0RK1Z7iA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\b252820e-59d6-4ca2-a9ab-6d431f2b0faf.jpg"
     },
     {
       "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\b37f9661-175b-4165-9414-1176f78bf5bc.jpg",
@@ -2115,6 +2808,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\b3a7f6c2-b9e3-4fde-b32a-583ae075e5dc.png"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\b9ed7cad-79b4-4b1d-ba7e-a210e52a1b55-1.jpg",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "img/b9ed7cad-79b4-4b1d-ba7e-a210e52a1b55-1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nj5ghl04p0",
+      "Integrity": "E6WAcaUlR3Ft8V1Z5B/8WkvorO+4VcLV5Shdf4/8mcw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\b9ed7cad-79b4-4b1d-ba7e-a210e52a1b55-1.jpg"
     },
     {
       "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\banner\\1.jpg",
@@ -2495,6 +3209,27 @@
       "OriginalItemSpec": "wwwroot\\img\\c04ff935-74ae-4c1f-8c0c-03fd7e6daca1.jpg"
     },
     {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\c3ce9173-0635-49d5-a99e-1b424b96ce69.png",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "img/c3ce9173-0635-49d5-a99e-1b424b96ce69#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "slm4ganawz",
+      "Integrity": "cLOcJQN527BObpyBh4V9GdgBXWaTTxNVTX9oWYiCQCk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\c3ce9173-0635-49d5-a99e-1b424b96ce69.png"
+    },
+    {
       "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\c9bd7341-cf62-47e3-9265-9e9beef97bd9.jpg",
       "SourceId": "Asp.net mini project",
       "SourceType": "Discovered",
@@ -2768,6 +3503,132 @@
       "OriginalItemSpec": "wwwroot\\img\\d603c8db-9903-42d1-9eab-b92d399ad82a.jpg"
     },
     {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\d7324142-e30e-4379-a58b-0dec24ffe64b.png",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "img/d7324142-e30e-4379-a58b-0dec24ffe64b#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "z9529wj6ew",
+      "Integrity": "yZ+x+sDYmdCrTKbIF6ACWeY4RzkbRV5E9u9UNhy/mH8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\d7324142-e30e-4379-a58b-0dec24ffe64b.png"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\daf926e0-d97a-4987-a1e7-6f06117a1189.jpg",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "img/daf926e0-d97a-4987-a1e7-6f06117a1189#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xlgbevu36l",
+      "Integrity": "1XJhhh9YT0sGgNdSUfp+L1O7CDDCGvXH2FLI5JbZ2t0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\daf926e0-d97a-4987-a1e7-6f06117a1189.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\db211641-7bf1-48b4-9440-bc54ecdf8410-1.jpg",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "img/db211641-7bf1-48b4-9440-bc54ecdf8410-1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nj5ghl04p0",
+      "Integrity": "E6WAcaUlR3Ft8V1Z5B/8WkvorO+4VcLV5Shdf4/8mcw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\db211641-7bf1-48b4-9440-bc54ecdf8410-1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\dcf06460-74f2-4fb2-aa21-ffab7b0ddbb1.png",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "img/dcf06460-74f2-4fb2-aa21-ffab7b0ddbb1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ouj73i0q88",
+      "Integrity": "QEucl+wHexYDtMyK/fV7t8lxpjIxPqer+1LYARzy3Tk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\dcf06460-74f2-4fb2-aa21-ffab7b0ddbb1.png"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\dea0b213-65aa-4672-85fa-025e3debf348.png",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "img/dea0b213-65aa-4672-85fa-025e3debf348#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ouj73i0q88",
+      "Integrity": "QEucl+wHexYDtMyK/fV7t8lxpjIxPqer+1LYARzy3Tk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\dea0b213-65aa-4672-85fa-025e3debf348.png"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\deba7782-1530-4bc9-8dcd-a745cb084f97.jpg",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "img/deba7782-1530-4bc9-8dcd-a745cb084f97#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "12aiw0sipp",
+      "Integrity": "aWOUuybHk7lvCsu86bGqNcT2EYo5KMU/NSksaRdFXJI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\deba7782-1530-4bc9-8dcd-a745cb084f97.jpg"
+    },
+    {
       "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\details.jpg",
       "SourceId": "Asp.net mini project",
       "SourceType": "Discovered",
@@ -2810,12 +3671,12 @@
       "OriginalItemSpec": "wwwroot\\img\\e3417acd-0749-464e-85e4-9bbcb85eaf86.jpg"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\ea9ed520-e12f-4135-97cf-4c765f3aab9b-footer-bottom-1.png",
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\e3e0c2db-3301-48b2-9e42-a6a54c96b017.jpg",
       "SourceId": "Asp.net mini project",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
       "BasePath": "_content/Asp.net mini project",
-      "RelativePath": "img/ea9ed520-e12f-4135-97cf-4c765f3aab9b-footer-bottom-1#[.{fingerprint}]?.png",
+      "RelativePath": "img/e3e0c2db-3301-48b2-9e42-a6a54c96b017#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2824,11 +3685,53 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "kebz41135w",
-      "Integrity": "fBzpREpfOCoUtrJf4v8TVuD+vBWx2Z2NGlusjCT0+ZM=",
+      "Fingerprint": "3godhgazdu",
+      "Integrity": "Aw6WG4JDNSVotZqvHoXTb51UDPS0hnzkdMzPaRB5SLs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\ea9ed520-e12f-4135-97cf-4c765f3aab9b-footer-bottom-1.png"
+      "OriginalItemSpec": "wwwroot\\img\\e3e0c2db-3301-48b2-9e42-a6a54c96b017.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\eae05519-cfed-42c4-8a2d-741efb4916f9.png",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "img/eae05519-cfed-42c4-8a2d-741efb4916f9#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hubh8bvmuh",
+      "Integrity": "OdpMRMC9achwUmRQauEvR27F2BnMj4itbadeCc/XCdw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\eae05519-cfed-42c4-8a2d-741efb4916f9.png"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\ee7d54a8-731d-4a49-a209-3335ada73c8e.png",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "img/ee7d54a8-731d-4a49-a209-3335ada73c8e#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "z9529wj6ew",
+      "Integrity": "yZ+x+sDYmdCrTKbIF6ACWeY4RzkbRV5E9u9UNhy/mH8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\ee7d54a8-731d-4a49-a209-3335ada73c8e.png"
     },
     {
       "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\f43749a3-8be2-441a-8750-df1ef58704cc.jpg",
@@ -3398,6 +4301,48 @@
       "OriginalItemSpec": "wwwroot\\img\\sidebar-post-1.jpg"
     },
     {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\signin-image.jpg",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "img/signin-image#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nbwyz86iqy",
+      "Integrity": "3SQUZ7EwNk7tDHXPUh4xyNwKk4vwII1Qpvcm3elQsYY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\signin-image.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\signup-image.jpg",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "img/signup-image#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jbxipc0ldp",
+      "Integrity": "LyJqLihHGwQ9b3eNmT2zD0jp6xvT6+zj+iUPQ60T2Ng=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\signup-image.jpg"
+    },
+    {
       "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\team\\1.jpg",
       "SourceId": "Asp.net mini project",
       "SourceType": "Discovered",
@@ -3543,6 +4488,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\js\\JavaScript.js",
+      "SourceId": "Asp.net mini project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\",
+      "BasePath": "_content/Asp.net mini project",
+      "RelativePath": "js/JavaScript#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "glh1n6p6co",
+      "Integrity": "VG5YIVFmledEqGg4ixiW7o3WSUFqcMinpTt0YycIYTA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\JavaScript.js"
     },
     {
       "Identity": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\js\\main.js",
@@ -8881,6 +9847,88 @@
       ]
     },
     {
+      "Route": "css/Login.css",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\css\\Login.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22500"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UGq4fr1mzvRUE/X/ybZlPUq8Nw3maEclskIQCGqLnUg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 12:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UGq4fr1mzvRUE/X/ybZlPUq8Nw3maEclskIQCGqLnUg="
+        }
+      ]
+    },
+    {
+      "Route": "css/Login.stmj0ohodi.css",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\css\\Login.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22500"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UGq4fr1mzvRUE/X/ybZlPUq8Nw3maEclskIQCGqLnUg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 12:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "stmj0ohodi"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Login.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UGq4fr1mzvRUE/X/ybZlPUq8Nw3maEclskIQCGqLnUg="
+        }
+      ]
+    },
+    {
       "Route": "css/plugins.12032rlxj7.css",
       "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\css\\plugins.css",
       "Selectors": [],
@@ -9947,6 +10995,252 @@
       ]
     },
     {
+      "Route": "img/0333c274-3eb8-4838-a0e2-e66c65420fe2.png",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\0333c274-3eb8-4838-a0e2-e66c65420fe2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4248"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hW2ogtbWKoLtcnnC8p92VuET2UrozQe0HRcAbJRKu3M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 08:31:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hW2ogtbWKoLtcnnC8p92VuET2UrozQe0HRcAbJRKu3M="
+        }
+      ]
+    },
+    {
+      "Route": "img/0333c274-3eb8-4838-a0e2-e66c65420fe2.vjjektl7sz.png",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\0333c274-3eb8-4838-a0e2-e66c65420fe2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4248"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hW2ogtbWKoLtcnnC8p92VuET2UrozQe0HRcAbJRKu3M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 08:31:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vjjektl7sz"
+        },
+        {
+          "Name": "label",
+          "Value": "img/0333c274-3eb8-4838-a0e2-e66c65420fe2.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hW2ogtbWKoLtcnnC8p92VuET2UrozQe0HRcAbJRKu3M="
+        }
+      ]
+    },
+    {
+      "Route": "img/0dca78f4-fa7b-44b1-a612-d73692fa1c44.kebz41135w.png",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\0dca78f4-fa7b-44b1-a612-d73692fa1c44.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4210"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fBzpREpfOCoUtrJf4v8TVuD+vBWx2Z2NGlusjCT0+ZM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 07:05:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kebz41135w"
+        },
+        {
+          "Name": "label",
+          "Value": "img/0dca78f4-fa7b-44b1-a612-d73692fa1c44.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fBzpREpfOCoUtrJf4v8TVuD+vBWx2Z2NGlusjCT0+ZM="
+        }
+      ]
+    },
+    {
+      "Route": "img/0dca78f4-fa7b-44b1-a612-d73692fa1c44.png",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\0dca78f4-fa7b-44b1-a612-d73692fa1c44.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4210"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fBzpREpfOCoUtrJf4v8TVuD+vBWx2Z2NGlusjCT0+ZM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 07:05:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fBzpREpfOCoUtrJf4v8TVuD+vBWx2Z2NGlusjCT0+ZM="
+        }
+      ]
+    },
+    {
+      "Route": "img/1.jpg",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "53859"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QDoQiNbAbY11UflGh98WTQfErmwFMNPmDt55lY82+V4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 11:44:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QDoQiNbAbY11UflGh98WTQfErmwFMNPmDt55lY82+V4="
+        }
+      ]
+    },
+    {
+      "Route": "img/1.oimxmp395y.jpg",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "53859"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QDoQiNbAbY11UflGh98WTQfErmwFMNPmDt55lY82+V4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 11:44:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oimxmp395y"
+        },
+        {
+          "Name": "label",
+          "Value": "img/1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QDoQiNbAbY11UflGh98WTQfErmwFMNPmDt55lY82+V4="
+        }
+      ]
+    },
+    {
       "Route": "img/124033c8-6769-40ed-a77c-781139c7cef8.5pscfu32oa.jpg",
       "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\124033c8-6769-40ed-a77c-781139c7cef8.jpg",
       "Selectors": [],
@@ -10029,6 +11323,170 @@
       ]
     },
     {
+      "Route": "img/1248e03c-a0c0-47a5-a1bf-eb3a8cb55ea6.e89d18p9ng.png",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\1248e03c-a0c0-47a5-a1bf-eb3a8cb55ea6.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3058"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Av93Sf1YhpPpRFQwmoL//8+f1TMqrS3ETjN4E3ETQis=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 08:32:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e89d18p9ng"
+        },
+        {
+          "Name": "label",
+          "Value": "img/1248e03c-a0c0-47a5-a1bf-eb3a8cb55ea6.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Av93Sf1YhpPpRFQwmoL//8+f1TMqrS3ETjN4E3ETQis="
+        }
+      ]
+    },
+    {
+      "Route": "img/1248e03c-a0c0-47a5-a1bf-eb3a8cb55ea6.png",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\1248e03c-a0c0-47a5-a1bf-eb3a8cb55ea6.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3058"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Av93Sf1YhpPpRFQwmoL//8+f1TMqrS3ETjN4E3ETQis=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 08:32:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Av93Sf1YhpPpRFQwmoL//8+f1TMqrS3ETjN4E3ETQis="
+        }
+      ]
+    },
+    {
+      "Route": "img/197f07a6-b1a0-4f61-86e7-7eec2e193f9e.e89d18p9ng.png",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\197f07a6-b1a0-4f61-86e7-7eec2e193f9e.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3058"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Av93Sf1YhpPpRFQwmoL//8+f1TMqrS3ETjN4E3ETQis=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 10:59:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e89d18p9ng"
+        },
+        {
+          "Name": "label",
+          "Value": "img/197f07a6-b1a0-4f61-86e7-7eec2e193f9e.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Av93Sf1YhpPpRFQwmoL//8+f1TMqrS3ETjN4E3ETQis="
+        }
+      ]
+    },
+    {
+      "Route": "img/197f07a6-b1a0-4f61-86e7-7eec2e193f9e.png",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\197f07a6-b1a0-4f61-86e7-7eec2e193f9e.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3058"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Av93Sf1YhpPpRFQwmoL//8+f1TMqrS3ETjN4E3ETQis=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 10:59:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Av93Sf1YhpPpRFQwmoL//8+f1TMqrS3ETjN4E3ETQis="
+        }
+      ]
+    },
+    {
       "Route": "img/1f150341-e85f-44bd-91c6-e36e3ef9dca8.ji0wzi5jf8.jpg",
       "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\1f150341-e85f-44bd-91c6-e36e3ef9dca8.jpg",
       "Selectors": [],
@@ -10107,6 +11565,252 @@
         {
           "Name": "integrity",
           "Value": "sha256-ZZrPbI9i7ZCGxh7fl4VoQR8kHYTu3NSCaZaKwhFgHhs="
+        }
+      ]
+    },
+    {
+      "Route": "img/1f83cee1-70ff-452c-ad03-09be24e94df8.jpg",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\1f83cee1-70ff-452c-ad03-09be24e94df8.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "118372"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xT+KEDAokn3Pc3J9DH8UTMba0FUjVJV1taTWGAMtews=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 05:59:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xT+KEDAokn3Pc3J9DH8UTMba0FUjVJV1taTWGAMtews="
+        }
+      ]
+    },
+    {
+      "Route": "img/1f83cee1-70ff-452c-ad03-09be24e94df8.zqvy3mb1u9.jpg",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\1f83cee1-70ff-452c-ad03-09be24e94df8.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "118372"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xT+KEDAokn3Pc3J9DH8UTMba0FUjVJV1taTWGAMtews=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 05:59:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zqvy3mb1u9"
+        },
+        {
+          "Name": "label",
+          "Value": "img/1f83cee1-70ff-452c-ad03-09be24e94df8.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xT+KEDAokn3Pc3J9DH8UTMba0FUjVJV1taTWGAMtews="
+        }
+      ]
+    },
+    {
+      "Route": "img/22e20974-27ff-4d72-b644-3b8ba29e44d9.9s18howjuc.jpg",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\22e20974-27ff-4d72-b644-3b8ba29e44d9.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13364"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"93P46fy6XvausFUn10+jw8kzTWj5Phmb755qJi55xRE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 12:53:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9s18howjuc"
+        },
+        {
+          "Name": "label",
+          "Value": "img/22e20974-27ff-4d72-b644-3b8ba29e44d9.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-93P46fy6XvausFUn10+jw8kzTWj5Phmb755qJi55xRE="
+        }
+      ]
+    },
+    {
+      "Route": "img/22e20974-27ff-4d72-b644-3b8ba29e44d9.jpg",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\22e20974-27ff-4d72-b644-3b8ba29e44d9.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13364"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"93P46fy6XvausFUn10+jw8kzTWj5Phmb755qJi55xRE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 12:53:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-93P46fy6XvausFUn10+jw8kzTWj5Phmb755qJi55xRE="
+        }
+      ]
+    },
+    {
+      "Route": "img/2981886b-6703-4264-bd8c-d80134e38c00.png",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\2981886b-6703-4264-bd8c-d80134e38c00.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4099"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"74PMVRZ+f5SRTUGRp35kpuwxfAH7jy5gziSTRzHoW7g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 08:32:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-74PMVRZ+f5SRTUGRp35kpuwxfAH7jy5gziSTRzHoW7g="
+        }
+      ]
+    },
+    {
+      "Route": "img/2981886b-6703-4264-bd8c-d80134e38c00.pqdimsejnk.png",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\2981886b-6703-4264-bd8c-d80134e38c00.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4099"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"74PMVRZ+f5SRTUGRp35kpuwxfAH7jy5gziSTRzHoW7g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 08:32:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pqdimsejnk"
+        },
+        {
+          "Name": "label",
+          "Value": "img/2981886b-6703-4264-bd8c-d80134e38c00.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-74PMVRZ+f5SRTUGRp35kpuwxfAH7jy5gziSTRzHoW7g="
         }
       ]
     },
@@ -10521,6 +12225,334 @@
       ]
     },
     {
+      "Route": "img/376b20e7-1dc6-4ece-855e-2d8a37839da3.2juntumc3m.png",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\376b20e7-1dc6-4ece-855e-2d8a37839da3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2845"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ts+YPoxRF28Dg6FDjpenhcxBKT3vjmgmV3wVC4Wm0is=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 08:32:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2juntumc3m"
+        },
+        {
+          "Name": "label",
+          "Value": "img/376b20e7-1dc6-4ece-855e-2d8a37839da3.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ts+YPoxRF28Dg6FDjpenhcxBKT3vjmgmV3wVC4Wm0is="
+        }
+      ]
+    },
+    {
+      "Route": "img/376b20e7-1dc6-4ece-855e-2d8a37839da3.png",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\376b20e7-1dc6-4ece-855e-2d8a37839da3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2845"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ts+YPoxRF28Dg6FDjpenhcxBKT3vjmgmV3wVC4Wm0is=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 08:32:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ts+YPoxRF28Dg6FDjpenhcxBKT3vjmgmV3wVC4Wm0is="
+        }
+      ]
+    },
+    {
+      "Route": "img/379fd29b-80cd-452c-a5d7-0e846761eb0b.ouj73i0q88.png",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\379fd29b-80cd-452c-a5d7-0e846761eb0b.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2651"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QEucl+wHexYDtMyK/fV7t8lxpjIxPqer+1LYARzy3Tk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 15:22:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ouj73i0q88"
+        },
+        {
+          "Name": "label",
+          "Value": "img/379fd29b-80cd-452c-a5d7-0e846761eb0b.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QEucl+wHexYDtMyK/fV7t8lxpjIxPqer+1LYARzy3Tk="
+        }
+      ]
+    },
+    {
+      "Route": "img/379fd29b-80cd-452c-a5d7-0e846761eb0b.png",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\379fd29b-80cd-452c-a5d7-0e846761eb0b.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2651"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QEucl+wHexYDtMyK/fV7t8lxpjIxPqer+1LYARzy3Tk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 15:22:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QEucl+wHexYDtMyK/fV7t8lxpjIxPqer+1LYARzy3Tk="
+        }
+      ]
+    },
+    {
+      "Route": "img/3b1bf1f5-0e2f-4d14-ad23-f97bb06033ee.png",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\3b1bf1f5-0e2f-4d14-ad23-f97bb06033ee.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1330"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yZ+x+sDYmdCrTKbIF6ACWeY4RzkbRV5E9u9UNhy/mH8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 07:08:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yZ+x+sDYmdCrTKbIF6ACWeY4RzkbRV5E9u9UNhy/mH8="
+        }
+      ]
+    },
+    {
+      "Route": "img/3b1bf1f5-0e2f-4d14-ad23-f97bb06033ee.z9529wj6ew.png",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\3b1bf1f5-0e2f-4d14-ad23-f97bb06033ee.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1330"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yZ+x+sDYmdCrTKbIF6ACWeY4RzkbRV5E9u9UNhy/mH8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 07:08:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "z9529wj6ew"
+        },
+        {
+          "Name": "label",
+          "Value": "img/3b1bf1f5-0e2f-4d14-ad23-f97bb06033ee.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yZ+x+sDYmdCrTKbIF6ACWeY4RzkbRV5E9u9UNhy/mH8="
+        }
+      ]
+    },
+    {
+      "Route": "img/3f3a8222-025d-4fa6-9bf7-7243b42bf57f.8n85hx9ypq.jpg",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\3f3a8222-025d-4fa6-9bf7-7243b42bf57f.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23145"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BKBjDJBB+flVX5lV1df374uvuBHfdMrlIGYkKtKdwLA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 12:54:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8n85hx9ypq"
+        },
+        {
+          "Name": "label",
+          "Value": "img/3f3a8222-025d-4fa6-9bf7-7243b42bf57f.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BKBjDJBB+flVX5lV1df374uvuBHfdMrlIGYkKtKdwLA="
+        }
+      ]
+    },
+    {
+      "Route": "img/3f3a8222-025d-4fa6-9bf7-7243b42bf57f.jpg",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\3f3a8222-025d-4fa6-9bf7-7243b42bf57f.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23145"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BKBjDJBB+flVX5lV1df374uvuBHfdMrlIGYkKtKdwLA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 12:54:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BKBjDJBB+flVX5lV1df374uvuBHfdMrlIGYkKtKdwLA="
+        }
+      ]
+    },
+    {
       "Route": "img/3fcaec9d-2355-4ca0-b270-4d81c64d531c.02r07fzudl.jpg",
       "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\3fcaec9d-2355-4ca0-b270-4d81c64d531c.jpg",
       "Selectors": [],
@@ -10599,6 +12631,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-CMTggLBWc/HwPpTYMuFQ9EFxLaDt5c4R/fzumv2tSjM="
+        }
+      ]
+    },
+    {
+      "Route": "img/4319deb9-72ef-4b7d-8407-a34a22d9ebc9.png",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\4319deb9-72ef-4b7d-8407-a34a22d9ebc9.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1597582"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EXL6Pj4+bXDu3UHoBhoSXowqqUUenN7U7UQ8wSMz7ao=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 08:00:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EXL6Pj4+bXDu3UHoBhoSXowqqUUenN7U7UQ8wSMz7ao="
+        }
+      ]
+    },
+    {
+      "Route": "img/4319deb9-72ef-4b7d-8407-a34a22d9ebc9.vwlcsi7wu8.png",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\4319deb9-72ef-4b7d-8407-a34a22d9ebc9.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1597582"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EXL6Pj4+bXDu3UHoBhoSXowqqUUenN7U7UQ8wSMz7ao=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 08:00:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vwlcsi7wu8"
+        },
+        {
+          "Name": "label",
+          "Value": "img/4319deb9-72ef-4b7d-8407-a34a22d9ebc9.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EXL6Pj4+bXDu3UHoBhoSXowqqUUenN7U7UQ8wSMz7ao="
         }
       ]
     },
@@ -10685,6 +12799,88 @@
       ]
     },
     {
+      "Route": "img/4791da47-de9e-4c13-bdcc-1434c49a3a97.47a0beefi9.jpg",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\4791da47-de9e-4c13-bdcc-1434c49a3a97.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "104181"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YEmS64Zoi0Pg4DhhVlUVNNUoSNkmRMWgbkGlsTBXSmk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 14:23:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "47a0beefi9"
+        },
+        {
+          "Name": "label",
+          "Value": "img/4791da47-de9e-4c13-bdcc-1434c49a3a97.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YEmS64Zoi0Pg4DhhVlUVNNUoSNkmRMWgbkGlsTBXSmk="
+        }
+      ]
+    },
+    {
+      "Route": "img/4791da47-de9e-4c13-bdcc-1434c49a3a97.jpg",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\4791da47-de9e-4c13-bdcc-1434c49a3a97.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "104181"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YEmS64Zoi0Pg4DhhVlUVNNUoSNkmRMWgbkGlsTBXSmk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 14:23:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YEmS64Zoi0Pg4DhhVlUVNNUoSNkmRMWgbkGlsTBXSmk="
+        }
+      ]
+    },
+    {
       "Route": "img/4af1c819-ab74-4d91-9b3d-f69199123115.jpg/4af1c819-ab74-4d91-9b3d-f69199123115.47a0beefi9.jpg",
       "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\4af1c819-ab74-4d91-9b3d-f69199123115.jpg\\4af1c819-ab74-4d91-9b3d-f69199123115.jpg",
       "Selectors": [],
@@ -10763,6 +12959,416 @@
         {
           "Name": "integrity",
           "Value": "sha256-YEmS64Zoi0Pg4DhhVlUVNNUoSNkmRMWgbkGlsTBXSmk="
+        }
+      ]
+    },
+    {
+      "Route": "img/4bf87be0-d09a-4c7a-8f94-4fac87f7035d.959fjtnjzb.jpg",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\4bf87be0-d09a-4c7a-8f94-4fac87f7035d.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "27073"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DZNutX5HCHM5gjbb8LISdXMv+Q8yTtolV3NZhF0i+0E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 12:51:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "959fjtnjzb"
+        },
+        {
+          "Name": "label",
+          "Value": "img/4bf87be0-d09a-4c7a-8f94-4fac87f7035d.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DZNutX5HCHM5gjbb8LISdXMv+Q8yTtolV3NZhF0i+0E="
+        }
+      ]
+    },
+    {
+      "Route": "img/4bf87be0-d09a-4c7a-8f94-4fac87f7035d.jpg",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\4bf87be0-d09a-4c7a-8f94-4fac87f7035d.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "27073"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DZNutX5HCHM5gjbb8LISdXMv+Q8yTtolV3NZhF0i+0E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 12:51:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DZNutX5HCHM5gjbb8LISdXMv+Q8yTtolV3NZhF0i+0E="
+        }
+      ]
+    },
+    {
+      "Route": "img/4f1cf17b-5228-41c2-bd5d-f7b6d98ae727.jpg",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\4f1cf17b-5228-41c2-bd5d-f7b6d98ae727.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "122077"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zdx3F7FF2TCCp++M8dArTtocOUBYJ+74sP8GT7Y85eU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 08:06:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zdx3F7FF2TCCp++M8dArTtocOUBYJ+74sP8GT7Y85eU="
+        }
+      ]
+    },
+    {
+      "Route": "img/4f1cf17b-5228-41c2-bd5d-f7b6d98ae727.nfkzpm0s1d.jpg",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\4f1cf17b-5228-41c2-bd5d-f7b6d98ae727.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "122077"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zdx3F7FF2TCCp++M8dArTtocOUBYJ+74sP8GT7Y85eU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 08:06:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nfkzpm0s1d"
+        },
+        {
+          "Name": "label",
+          "Value": "img/4f1cf17b-5228-41c2-bd5d-f7b6d98ae727.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zdx3F7FF2TCCp++M8dArTtocOUBYJ+74sP8GT7Y85eU="
+        }
+      ]
+    },
+    {
+      "Route": "img/5bc7f823-0d53-4612-9e00-a14ad06bb596.oylr6j3nau.png",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\5bc7f823-0d53-4612-9e00-a14ad06bb596.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "36675"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EHYxv3t2HXa+nf9Gufh6z9vpNYgAlzasy91191F/vfs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 15:30:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oylr6j3nau"
+        },
+        {
+          "Name": "label",
+          "Value": "img/5bc7f823-0d53-4612-9e00-a14ad06bb596.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EHYxv3t2HXa+nf9Gufh6z9vpNYgAlzasy91191F/vfs="
+        }
+      ]
+    },
+    {
+      "Route": "img/5bc7f823-0d53-4612-9e00-a14ad06bb596.png",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\5bc7f823-0d53-4612-9e00-a14ad06bb596.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "36675"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EHYxv3t2HXa+nf9Gufh6z9vpNYgAlzasy91191F/vfs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 15:30:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EHYxv3t2HXa+nf9Gufh6z9vpNYgAlzasy91191F/vfs="
+        }
+      ]
+    },
+    {
+      "Route": "img/5edec632-1087-406e-8aa7-66be6266c56a.jpg",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\5edec632-1087-406e-8aa7-66be6266c56a.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "109931"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"58rcg098TU4hT35HHLskItwIYUThdCwRnxtHO1VtfA4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 07:08:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-58rcg098TU4hT35HHLskItwIYUThdCwRnxtHO1VtfA4="
+        }
+      ]
+    },
+    {
+      "Route": "img/5edec632-1087-406e-8aa7-66be6266c56a.nwlchk9bb3.jpg",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\5edec632-1087-406e-8aa7-66be6266c56a.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "109931"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"58rcg098TU4hT35HHLskItwIYUThdCwRnxtHO1VtfA4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 07:08:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nwlchk9bb3"
+        },
+        {
+          "Name": "label",
+          "Value": "img/5edec632-1087-406e-8aa7-66be6266c56a.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-58rcg098TU4hT35HHLskItwIYUThdCwRnxtHO1VtfA4="
+        }
+      ]
+    },
+    {
+      "Route": "img/618c099d-c148-46b8-994f-5b50e851e2af.png",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\618c099d-c148-46b8-994f-5b50e851e2af.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1330"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yZ+x+sDYmdCrTKbIF6ACWeY4RzkbRV5E9u9UNhy/mH8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 15:33:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yZ+x+sDYmdCrTKbIF6ACWeY4RzkbRV5E9u9UNhy/mH8="
+        }
+      ]
+    },
+    {
+      "Route": "img/618c099d-c148-46b8-994f-5b50e851e2af.z9529wj6ew.png",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\618c099d-c148-46b8-994f-5b50e851e2af.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1330"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yZ+x+sDYmdCrTKbIF6ACWeY4RzkbRV5E9u9UNhy/mH8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 15:33:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "z9529wj6ew"
+        },
+        {
+          "Name": "label",
+          "Value": "img/618c099d-c148-46b8-994f-5b50e851e2af.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yZ+x+sDYmdCrTKbIF6ACWeY4RzkbRV5E9u9UNhy/mH8="
         }
       ]
     },
@@ -10849,6 +13455,170 @@
       ]
     },
     {
+      "Route": "img/669e1018-34d9-458f-81ab-0745e8acaf75.jpg",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\669e1018-34d9-458f-81ab-0745e8acaf75.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15854"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3bAmYycP9F58R+GajLFo69Mx5PdoPnwgA8fBR8YBgLw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 08:10:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3bAmYycP9F58R+GajLFo69Mx5PdoPnwgA8fBR8YBgLw="
+        }
+      ]
+    },
+    {
+      "Route": "img/669e1018-34d9-458f-81ab-0745e8acaf75.x7oxo84dpp.jpg",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\669e1018-34d9-458f-81ab-0745e8acaf75.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15854"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3bAmYycP9F58R+GajLFo69Mx5PdoPnwgA8fBR8YBgLw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 08:10:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x7oxo84dpp"
+        },
+        {
+          "Name": "label",
+          "Value": "img/669e1018-34d9-458f-81ab-0745e8acaf75.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3bAmYycP9F58R+GajLFo69Mx5PdoPnwgA8fBR8YBgLw="
+        }
+      ]
+    },
+    {
+      "Route": "img/672df2bf-cbe2-473c-9464-8f97f07773cf.jbxipc0ldp.jpg",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\672df2bf-cbe2-473c-9464-8f97f07773cf.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20463"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LyJqLihHGwQ9b3eNmT2zD0jp6xvT6+zj+iUPQ60T2Ng=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 07:47:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jbxipc0ldp"
+        },
+        {
+          "Name": "label",
+          "Value": "img/672df2bf-cbe2-473c-9464-8f97f07773cf.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LyJqLihHGwQ9b3eNmT2zD0jp6xvT6+zj+iUPQ60T2Ng="
+        }
+      ]
+    },
+    {
+      "Route": "img/672df2bf-cbe2-473c-9464-8f97f07773cf.jpg",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\672df2bf-cbe2-473c-9464-8f97f07773cf.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20463"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LyJqLihHGwQ9b3eNmT2zD0jp6xvT6+zj+iUPQ60T2Ng=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 07:47:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LyJqLihHGwQ9b3eNmT2zD0jp6xvT6+zj+iUPQ60T2Ng="
+        }
+      ]
+    },
+    {
       "Route": "img/6a20df44-bf06-4ead-b938-3ae412b8b351.jpg",
       "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\6a20df44-bf06-4ead-b938-3ae412b8b351.jpg",
       "Selectors": [],
@@ -10931,6 +13701,170 @@
       ]
     },
     {
+      "Route": "img/6a66f9d1-a1d2-40ab-91eb-031052aa2014-1.jpg",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\6a66f9d1-a1d2-40ab-91eb-031052aa2014-1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6518"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"E6WAcaUlR3Ft8V1Z5B/8WkvorO+4VcLV5Shdf4/8mcw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 08:17:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-E6WAcaUlR3Ft8V1Z5B/8WkvorO+4VcLV5Shdf4/8mcw="
+        }
+      ]
+    },
+    {
+      "Route": "img/6a66f9d1-a1d2-40ab-91eb-031052aa2014-1.nj5ghl04p0.jpg",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\6a66f9d1-a1d2-40ab-91eb-031052aa2014-1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6518"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"E6WAcaUlR3Ft8V1Z5B/8WkvorO+4VcLV5Shdf4/8mcw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 08:17:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nj5ghl04p0"
+        },
+        {
+          "Name": "label",
+          "Value": "img/6a66f9d1-a1d2-40ab-91eb-031052aa2014-1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-E6WAcaUlR3Ft8V1Z5B/8WkvorO+4VcLV5Shdf4/8mcw="
+        }
+      ]
+    },
+    {
+      "Route": "img/6eec8296-d4d0-4ba9-af8f-47f8caae88e8.kebz41135w.png",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\6eec8296-d4d0-4ba9-af8f-47f8caae88e8.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4210"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fBzpREpfOCoUtrJf4v8TVuD+vBWx2Z2NGlusjCT0+ZM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 06:52:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kebz41135w"
+        },
+        {
+          "Name": "label",
+          "Value": "img/6eec8296-d4d0-4ba9-af8f-47f8caae88e8.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fBzpREpfOCoUtrJf4v8TVuD+vBWx2Z2NGlusjCT0+ZM="
+        }
+      ]
+    },
+    {
+      "Route": "img/6eec8296-d4d0-4ba9-af8f-47f8caae88e8.png",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\6eec8296-d4d0-4ba9-af8f-47f8caae88e8.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4210"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fBzpREpfOCoUtrJf4v8TVuD+vBWx2Z2NGlusjCT0+ZM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 06:52:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fBzpREpfOCoUtrJf4v8TVuD+vBWx2Z2NGlusjCT0+ZM="
+        }
+      ]
+    },
+    {
       "Route": "img/72cd7647-c01a-4585-ba2f-e32db09e83ff.jpg",
       "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\72cd7647-c01a-4585-ba2f-e32db09e83ff.jpg",
       "Selectors": [],
@@ -11009,6 +13943,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-9gIH7iVcxh49mqynQMsZopaXxQbdkkS4wsu/KBy69v8="
+        }
+      ]
+    },
+    {
+      "Route": "img/7b44e372-490d-49fe-9f47-28739e8e9bf1.oylr6j3nau.png",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\7b44e372-490d-49fe-9f47-28739e8e9bf1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "36675"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EHYxv3t2HXa+nf9Gufh6z9vpNYgAlzasy91191F/vfs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 06:51:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oylr6j3nau"
+        },
+        {
+          "Name": "label",
+          "Value": "img/7b44e372-490d-49fe-9f47-28739e8e9bf1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EHYxv3t2HXa+nf9Gufh6z9vpNYgAlzasy91191F/vfs="
+        }
+      ]
+    },
+    {
+      "Route": "img/7b44e372-490d-49fe-9f47-28739e8e9bf1.png",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\7b44e372-490d-49fe-9f47-28739e8e9bf1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "36675"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EHYxv3t2HXa+nf9Gufh6z9vpNYgAlzasy91191F/vfs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 06:51:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EHYxv3t2HXa+nf9Gufh6z9vpNYgAlzasy91191F/vfs="
         }
       ]
     },
@@ -11505,6 +14521,252 @@
       ]
     },
     {
+      "Route": "img/91b41710-8f54-4cd1-9eab-bf387b8e3d80.png",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\91b41710-8f54-4cd1-9eab-bf387b8e3d80.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1330"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yZ+x+sDYmdCrTKbIF6ACWeY4RzkbRV5E9u9UNhy/mH8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 14:18:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yZ+x+sDYmdCrTKbIF6ACWeY4RzkbRV5E9u9UNhy/mH8="
+        }
+      ]
+    },
+    {
+      "Route": "img/91b41710-8f54-4cd1-9eab-bf387b8e3d80.z9529wj6ew.png",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\91b41710-8f54-4cd1-9eab-bf387b8e3d80.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1330"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yZ+x+sDYmdCrTKbIF6ACWeY4RzkbRV5E9u9UNhy/mH8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 14:18:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "z9529wj6ew"
+        },
+        {
+          "Name": "label",
+          "Value": "img/91b41710-8f54-4cd1-9eab-bf387b8e3d80.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yZ+x+sDYmdCrTKbIF6ACWeY4RzkbRV5E9u9UNhy/mH8="
+        }
+      ]
+    },
+    {
+      "Route": "img/920e2d2d-ca74-4e06-b861-53e7da7abcd6.nvcm4947mq.png",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\920e2d2d-ca74-4e06-b861-53e7da7abcd6.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20125"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Tc0bkgQ92W2V0XgBlGfbr0Gz2ce3/TSPWCgdVbNVjrE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 14:10:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nvcm4947mq"
+        },
+        {
+          "Name": "label",
+          "Value": "img/920e2d2d-ca74-4e06-b861-53e7da7abcd6.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Tc0bkgQ92W2V0XgBlGfbr0Gz2ce3/TSPWCgdVbNVjrE="
+        }
+      ]
+    },
+    {
+      "Route": "img/920e2d2d-ca74-4e06-b861-53e7da7abcd6.png",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\920e2d2d-ca74-4e06-b861-53e7da7abcd6.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20125"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Tc0bkgQ92W2V0XgBlGfbr0Gz2ce3/TSPWCgdVbNVjrE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 14:10:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Tc0bkgQ92W2V0XgBlGfbr0Gz2ce3/TSPWCgdVbNVjrE="
+        }
+      ]
+    },
+    {
+      "Route": "img/9dd2e2ce-3d88-4ccc-b684-05f0fe4a30c7.ho36vvcjbi.jpg",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\9dd2e2ce-3d88-4ccc-b684-05f0fe4a30c7.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "27579"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"38wA6EL37/WdzG3RKZw6KKx/rUaTSTrLd5LRXLAjs4A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 12:52:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ho36vvcjbi"
+        },
+        {
+          "Name": "label",
+          "Value": "img/9dd2e2ce-3d88-4ccc-b684-05f0fe4a30c7.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-38wA6EL37/WdzG3RKZw6KKx/rUaTSTrLd5LRXLAjs4A="
+        }
+      ]
+    },
+    {
+      "Route": "img/9dd2e2ce-3d88-4ccc-b684-05f0fe4a30c7.jpg",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\9dd2e2ce-3d88-4ccc-b684-05f0fe4a30c7.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "27579"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"38wA6EL37/WdzG3RKZw6KKx/rUaTSTrLd5LRXLAjs4A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 12:52:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-38wA6EL37/WdzG3RKZw6KKx/rUaTSTrLd5LRXLAjs4A="
+        }
+      ]
+    },
+    {
       "Route": "img/9f710684-10e7-4e8e-8454-ade05aa2407b.0ge6irzaix.jpg",
       "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\9f710684-10e7-4e8e-8454-ade05aa2407b.jpg",
       "Selectors": [],
@@ -11669,6 +14931,252 @@
       ]
     },
     {
+      "Route": "img/a39a7a9e-2b2c-4e5c-a81a-7e35dc5c16e8.e9dfdf6p9c.jpg",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\a39a7a9e-2b2c-4e5c-a81a-7e35dc5c16e8.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "115101"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HqbgZ1nHmmC61hO9+nqKpTmzpe4dzsnDQyW7VLmG3EU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 08:03:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e9dfdf6p9c"
+        },
+        {
+          "Name": "label",
+          "Value": "img/a39a7a9e-2b2c-4e5c-a81a-7e35dc5c16e8.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HqbgZ1nHmmC61hO9+nqKpTmzpe4dzsnDQyW7VLmG3EU="
+        }
+      ]
+    },
+    {
+      "Route": "img/a39a7a9e-2b2c-4e5c-a81a-7e35dc5c16e8.jpg",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\a39a7a9e-2b2c-4e5c-a81a-7e35dc5c16e8.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "115101"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HqbgZ1nHmmC61hO9+nqKpTmzpe4dzsnDQyW7VLmG3EU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 08:03:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HqbgZ1nHmmC61hO9+nqKpTmzpe4dzsnDQyW7VLmG3EU="
+        }
+      ]
+    },
+    {
+      "Route": "img/a7584801-54e9-4b15-b15f-f42828381a2c.e9dfdf6p9c.jpg",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\a7584801-54e9-4b15-b15f-f42828381a2c.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "115101"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HqbgZ1nHmmC61hO9+nqKpTmzpe4dzsnDQyW7VLmG3EU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 07:55:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e9dfdf6p9c"
+        },
+        {
+          "Name": "label",
+          "Value": "img/a7584801-54e9-4b15-b15f-f42828381a2c.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HqbgZ1nHmmC61hO9+nqKpTmzpe4dzsnDQyW7VLmG3EU="
+        }
+      ]
+    },
+    {
+      "Route": "img/a7584801-54e9-4b15-b15f-f42828381a2c.jpg",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\a7584801-54e9-4b15-b15f-f42828381a2c.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "115101"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HqbgZ1nHmmC61hO9+nqKpTmzpe4dzsnDQyW7VLmG3EU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 07:55:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HqbgZ1nHmmC61hO9+nqKpTmzpe4dzsnDQyW7VLmG3EU="
+        }
+      ]
+    },
+    {
+      "Route": "img/a9b56b91-79f7-40b3-a44c-a1a4d418a78f.kebz41135w.png",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\a9b56b91-79f7-40b3-a44c-a1a4d418a78f.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4210"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fBzpREpfOCoUtrJf4v8TVuD+vBWx2Z2NGlusjCT0+ZM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 05:59:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kebz41135w"
+        },
+        {
+          "Name": "label",
+          "Value": "img/a9b56b91-79f7-40b3-a44c-a1a4d418a78f.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fBzpREpfOCoUtrJf4v8TVuD+vBWx2Z2NGlusjCT0+ZM="
+        }
+      ]
+    },
+    {
+      "Route": "img/a9b56b91-79f7-40b3-a44c-a1a4d418a78f.png",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\a9b56b91-79f7-40b3-a44c-a1a4d418a78f.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4210"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fBzpREpfOCoUtrJf4v8TVuD+vBWx2Z2NGlusjCT0+ZM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 05:59:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fBzpREpfOCoUtrJf4v8TVuD+vBWx2Z2NGlusjCT0+ZM="
+        }
+      ]
+    },
+    {
       "Route": "img/about.g30xq20ve6.jpg",
       "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\about.jpg",
       "Selectors": [],
@@ -11747,6 +15255,170 @@
         {
           "Name": "integrity",
           "Value": "sha256-vOD2qjEJsmEZ21GqLq1hiph87lh32XV5FLdTh5SKvg4="
+        }
+      ]
+    },
+    {
+      "Route": "img/acc88f88-3e8b-4871-8c59-f0b7a5b58a0c.png",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\acc88f88-3e8b-4871-8c59-f0b7a5b58a0c.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4115"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cLOcJQN527BObpyBh4V9GdgBXWaTTxNVTX9oWYiCQCk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 11:28:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cLOcJQN527BObpyBh4V9GdgBXWaTTxNVTX9oWYiCQCk="
+        }
+      ]
+    },
+    {
+      "Route": "img/acc88f88-3e8b-4871-8c59-f0b7a5b58a0c.slm4ganawz.png",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\acc88f88-3e8b-4871-8c59-f0b7a5b58a0c.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4115"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cLOcJQN527BObpyBh4V9GdgBXWaTTxNVTX9oWYiCQCk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 11:28:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "slm4ganawz"
+        },
+        {
+          "Name": "label",
+          "Value": "img/acc88f88-3e8b-4871-8c59-f0b7a5b58a0c.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cLOcJQN527BObpyBh4V9GdgBXWaTTxNVTX9oWYiCQCk="
+        }
+      ]
+    },
+    {
+      "Route": "img/b252820e-59d6-4ca2-a9ab-6d431f2b0faf.axzpd3g9l6.jpg",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\b252820e-59d6-4ca2-a9ab-6d431f2b0faf.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23437"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4iTyJX8qZGzb9+jBvHA+KWumNdriatyB9qu0RK1Z7iA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 08:10:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "axzpd3g9l6"
+        },
+        {
+          "Name": "label",
+          "Value": "img/b252820e-59d6-4ca2-a9ab-6d431f2b0faf.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4iTyJX8qZGzb9+jBvHA+KWumNdriatyB9qu0RK1Z7iA="
+        }
+      ]
+    },
+    {
+      "Route": "img/b252820e-59d6-4ca2-a9ab-6d431f2b0faf.jpg",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\b252820e-59d6-4ca2-a9ab-6d431f2b0faf.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23437"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4iTyJX8qZGzb9+jBvHA+KWumNdriatyB9qu0RK1Z7iA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 08:10:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4iTyJX8qZGzb9+jBvHA+KWumNdriatyB9qu0RK1Z7iA="
         }
       ]
     },
@@ -11911,6 +15583,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-yZ+x+sDYmdCrTKbIF6ACWeY4RzkbRV5E9u9UNhy/mH8="
+        }
+      ]
+    },
+    {
+      "Route": "img/b9ed7cad-79b4-4b1d-ba7e-a210e52a1b55-1.jpg",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\b9ed7cad-79b4-4b1d-ba7e-a210e52a1b55-1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6518"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"E6WAcaUlR3Ft8V1Z5B/8WkvorO+4VcLV5Shdf4/8mcw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 08:16:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-E6WAcaUlR3Ft8V1Z5B/8WkvorO+4VcLV5Shdf4/8mcw="
+        }
+      ]
+    },
+    {
+      "Route": "img/b9ed7cad-79b4-4b1d-ba7e-a210e52a1b55-1.nj5ghl04p0.jpg",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\b9ed7cad-79b4-4b1d-ba7e-a210e52a1b55-1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6518"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"E6WAcaUlR3Ft8V1Z5B/8WkvorO+4VcLV5Shdf4/8mcw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 08:16:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nj5ghl04p0"
+        },
+        {
+          "Name": "label",
+          "Value": "img/b9ed7cad-79b4-4b1d-ba7e-a210e52a1b55-1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-E6WAcaUlR3Ft8V1Z5B/8WkvorO+4VcLV5Shdf4/8mcw="
         }
       ]
     },
@@ -13391,6 +17145,88 @@
       ]
     },
     {
+      "Route": "img/c3ce9173-0635-49d5-a99e-1b424b96ce69.png",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\c3ce9173-0635-49d5-a99e-1b424b96ce69.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4115"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cLOcJQN527BObpyBh4V9GdgBXWaTTxNVTX9oWYiCQCk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 08:32:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cLOcJQN527BObpyBh4V9GdgBXWaTTxNVTX9oWYiCQCk="
+        }
+      ]
+    },
+    {
+      "Route": "img/c3ce9173-0635-49d5-a99e-1b424b96ce69.slm4ganawz.png",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\c3ce9173-0635-49d5-a99e-1b424b96ce69.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4115"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cLOcJQN527BObpyBh4V9GdgBXWaTTxNVTX9oWYiCQCk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 08:32:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "slm4ganawz"
+        },
+        {
+          "Name": "label",
+          "Value": "img/c3ce9173-0635-49d5-a99e-1b424b96ce69.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cLOcJQN527BObpyBh4V9GdgBXWaTTxNVTX9oWYiCQCk="
+        }
+      ]
+    },
+    {
       "Route": "img/c9bd7341-cf62-47e3-9265-9e9beef97bd9.jpg",
       "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\c9bd7341-cf62-47e3-9265-9e9beef97bd9.jpg",
       "Selectors": [],
@@ -14457,6 +18293,498 @@
       ]
     },
     {
+      "Route": "img/d7324142-e30e-4379-a58b-0dec24ffe64b.png",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\d7324142-e30e-4379-a58b-0dec24ffe64b.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1330"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yZ+x+sDYmdCrTKbIF6ACWeY4RzkbRV5E9u9UNhy/mH8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 14:24:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yZ+x+sDYmdCrTKbIF6ACWeY4RzkbRV5E9u9UNhy/mH8="
+        }
+      ]
+    },
+    {
+      "Route": "img/d7324142-e30e-4379-a58b-0dec24ffe64b.z9529wj6ew.png",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\d7324142-e30e-4379-a58b-0dec24ffe64b.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1330"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yZ+x+sDYmdCrTKbIF6ACWeY4RzkbRV5E9u9UNhy/mH8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 14:24:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "z9529wj6ew"
+        },
+        {
+          "Name": "label",
+          "Value": "img/d7324142-e30e-4379-a58b-0dec24ffe64b.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yZ+x+sDYmdCrTKbIF6ACWeY4RzkbRV5E9u9UNhy/mH8="
+        }
+      ]
+    },
+    {
+      "Route": "img/daf926e0-d97a-4987-a1e7-6f06117a1189.jpg",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\daf926e0-d97a-4987-a1e7-6f06117a1189.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10645"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1XJhhh9YT0sGgNdSUfp+L1O7CDDCGvXH2FLI5JbZ2t0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 12:53:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1XJhhh9YT0sGgNdSUfp+L1O7CDDCGvXH2FLI5JbZ2t0="
+        }
+      ]
+    },
+    {
+      "Route": "img/daf926e0-d97a-4987-a1e7-6f06117a1189.xlgbevu36l.jpg",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\daf926e0-d97a-4987-a1e7-6f06117a1189.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10645"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1XJhhh9YT0sGgNdSUfp+L1O7CDDCGvXH2FLI5JbZ2t0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 12:53:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xlgbevu36l"
+        },
+        {
+          "Name": "label",
+          "Value": "img/daf926e0-d97a-4987-a1e7-6f06117a1189.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1XJhhh9YT0sGgNdSUfp+L1O7CDDCGvXH2FLI5JbZ2t0="
+        }
+      ]
+    },
+    {
+      "Route": "img/db211641-7bf1-48b4-9440-bc54ecdf8410-1.jpg",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\db211641-7bf1-48b4-9440-bc54ecdf8410-1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6518"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"E6WAcaUlR3Ft8V1Z5B/8WkvorO+4VcLV5Shdf4/8mcw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 08:20:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-E6WAcaUlR3Ft8V1Z5B/8WkvorO+4VcLV5Shdf4/8mcw="
+        }
+      ]
+    },
+    {
+      "Route": "img/db211641-7bf1-48b4-9440-bc54ecdf8410-1.nj5ghl04p0.jpg",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\db211641-7bf1-48b4-9440-bc54ecdf8410-1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6518"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"E6WAcaUlR3Ft8V1Z5B/8WkvorO+4VcLV5Shdf4/8mcw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 08:20:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nj5ghl04p0"
+        },
+        {
+          "Name": "label",
+          "Value": "img/db211641-7bf1-48b4-9440-bc54ecdf8410-1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-E6WAcaUlR3Ft8V1Z5B/8WkvorO+4VcLV5Shdf4/8mcw="
+        }
+      ]
+    },
+    {
+      "Route": "img/dcf06460-74f2-4fb2-aa21-ffab7b0ddbb1.ouj73i0q88.png",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\dcf06460-74f2-4fb2-aa21-ffab7b0ddbb1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2651"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QEucl+wHexYDtMyK/fV7t8lxpjIxPqer+1LYARzy3Tk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 15:22:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ouj73i0q88"
+        },
+        {
+          "Name": "label",
+          "Value": "img/dcf06460-74f2-4fb2-aa21-ffab7b0ddbb1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QEucl+wHexYDtMyK/fV7t8lxpjIxPqer+1LYARzy3Tk="
+        }
+      ]
+    },
+    {
+      "Route": "img/dcf06460-74f2-4fb2-aa21-ffab7b0ddbb1.png",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\dcf06460-74f2-4fb2-aa21-ffab7b0ddbb1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2651"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QEucl+wHexYDtMyK/fV7t8lxpjIxPqer+1LYARzy3Tk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 15:22:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QEucl+wHexYDtMyK/fV7t8lxpjIxPqer+1LYARzy3Tk="
+        }
+      ]
+    },
+    {
+      "Route": "img/dea0b213-65aa-4672-85fa-025e3debf348.ouj73i0q88.png",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\dea0b213-65aa-4672-85fa-025e3debf348.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2651"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QEucl+wHexYDtMyK/fV7t8lxpjIxPqer+1LYARzy3Tk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 05:56:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ouj73i0q88"
+        },
+        {
+          "Name": "label",
+          "Value": "img/dea0b213-65aa-4672-85fa-025e3debf348.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QEucl+wHexYDtMyK/fV7t8lxpjIxPqer+1LYARzy3Tk="
+        }
+      ]
+    },
+    {
+      "Route": "img/dea0b213-65aa-4672-85fa-025e3debf348.png",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\dea0b213-65aa-4672-85fa-025e3debf348.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2651"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QEucl+wHexYDtMyK/fV7t8lxpjIxPqer+1LYARzy3Tk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 05:56:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QEucl+wHexYDtMyK/fV7t8lxpjIxPqer+1LYARzy3Tk="
+        }
+      ]
+    },
+    {
+      "Route": "img/deba7782-1530-4bc9-8dcd-a745cb084f97.12aiw0sipp.jpg",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\deba7782-1530-4bc9-8dcd-a745cb084f97.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22608"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aWOUuybHk7lvCsu86bGqNcT2EYo5KMU/NSksaRdFXJI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 12:55:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "12aiw0sipp"
+        },
+        {
+          "Name": "label",
+          "Value": "img/deba7782-1530-4bc9-8dcd-a745cb084f97.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aWOUuybHk7lvCsu86bGqNcT2EYo5KMU/NSksaRdFXJI="
+        }
+      ]
+    },
+    {
+      "Route": "img/deba7782-1530-4bc9-8dcd-a745cb084f97.jpg",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\deba7782-1530-4bc9-8dcd-a745cb084f97.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22608"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aWOUuybHk7lvCsu86bGqNcT2EYo5KMU/NSksaRdFXJI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 12:55:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aWOUuybHk7lvCsu86bGqNcT2EYo5KMU/NSksaRdFXJI="
+        }
+      ]
+    },
+    {
       "Route": "img/details.jpg",
       "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\details.jpg",
       "Selectors": [],
@@ -14621,8 +18949,8 @@
       ]
     },
     {
-      "Route": "img/ea9ed520-e12f-4135-97cf-4c765f3aab9b-footer-bottom-1.kebz41135w.png",
-      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\ea9ed520-e12f-4135-97cf-4c765f3aab9b-footer-bottom-1.png",
+      "Route": "img/e3e0c2db-3301-48b2-9e42-a6a54c96b017.3godhgazdu.jpg",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\e3e0c2db-3301-48b2-9e42-a6a54c96b017.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -14631,19 +18959,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4210"
+          "Value": "32155"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/png"
+          "Value": "image/jpeg"
         },
         {
           "Name": "ETag",
-          "Value": "\"fBzpREpfOCoUtrJf4v8TVuD+vBWx2Z2NGlusjCT0+ZM=\""
+          "Value": "\"Aw6WG4JDNSVotZqvHoXTb51UDPS0hnzkdMzPaRB5SLs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 21 Apr 2025 21:00:07 GMT"
+          "Value": "Tue, 22 Apr 2025 08:09:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14653,21 +18981,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "kebz41135w"
+          "Value": "3godhgazdu"
         },
         {
           "Name": "label",
-          "Value": "img/ea9ed520-e12f-4135-97cf-4c765f3aab9b-footer-bottom-1.png"
+          "Value": "img/e3e0c2db-3301-48b2-9e42-a6a54c96b017.jpg"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-fBzpREpfOCoUtrJf4v8TVuD+vBWx2Z2NGlusjCT0+ZM="
+          "Value": "sha256-Aw6WG4JDNSVotZqvHoXTb51UDPS0hnzkdMzPaRB5SLs="
         }
       ]
     },
     {
-      "Route": "img/ea9ed520-e12f-4135-97cf-4c765f3aab9b-footer-bottom-1.png",
-      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\ea9ed520-e12f-4135-97cf-4c765f3aab9b-footer-bottom-1.png",
+      "Route": "img/e3e0c2db-3301-48b2-9e42-a6a54c96b017.jpg",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\e3e0c2db-3301-48b2-9e42-a6a54c96b017.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -14676,19 +19004,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4210"
+          "Value": "32155"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/png"
+          "Value": "image/jpeg"
         },
         {
           "Name": "ETag",
-          "Value": "\"fBzpREpfOCoUtrJf4v8TVuD+vBWx2Z2NGlusjCT0+ZM=\""
+          "Value": "\"Aw6WG4JDNSVotZqvHoXTb51UDPS0hnzkdMzPaRB5SLs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 21 Apr 2025 21:00:07 GMT"
+          "Value": "Tue, 22 Apr 2025 08:09:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14698,7 +19026,171 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-fBzpREpfOCoUtrJf4v8TVuD+vBWx2Z2NGlusjCT0+ZM="
+          "Value": "sha256-Aw6WG4JDNSVotZqvHoXTb51UDPS0hnzkdMzPaRB5SLs="
+        }
+      ]
+    },
+    {
+      "Route": "img/eae05519-cfed-42c4-8a2d-741efb4916f9.hubh8bvmuh.png",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\eae05519-cfed-42c4-8a2d-741efb4916f9.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4124"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OdpMRMC9achwUmRQauEvR27F2BnMj4itbadeCc/XCdw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 08:32:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hubh8bvmuh"
+        },
+        {
+          "Name": "label",
+          "Value": "img/eae05519-cfed-42c4-8a2d-741efb4916f9.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OdpMRMC9achwUmRQauEvR27F2BnMj4itbadeCc/XCdw="
+        }
+      ]
+    },
+    {
+      "Route": "img/eae05519-cfed-42c4-8a2d-741efb4916f9.png",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\eae05519-cfed-42c4-8a2d-741efb4916f9.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4124"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OdpMRMC9achwUmRQauEvR27F2BnMj4itbadeCc/XCdw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 08:32:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OdpMRMC9achwUmRQauEvR27F2BnMj4itbadeCc/XCdw="
+        }
+      ]
+    },
+    {
+      "Route": "img/ee7d54a8-731d-4a49-a209-3335ada73c8e.png",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\ee7d54a8-731d-4a49-a209-3335ada73c8e.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1330"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yZ+x+sDYmdCrTKbIF6ACWeY4RzkbRV5E9u9UNhy/mH8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 06:54:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yZ+x+sDYmdCrTKbIF6ACWeY4RzkbRV5E9u9UNhy/mH8="
+        }
+      ]
+    },
+    {
+      "Route": "img/ee7d54a8-731d-4a49-a209-3335ada73c8e.z9529wj6ew.png",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\ee7d54a8-731d-4a49-a209-3335ada73c8e.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1330"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yZ+x+sDYmdCrTKbIF6ACWeY4RzkbRV5E9u9UNhy/mH8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 06:54:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "z9529wj6ew"
+        },
+        {
+          "Name": "label",
+          "Value": "img/ee7d54a8-731d-4a49-a209-3335ada73c8e.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yZ+x+sDYmdCrTKbIF6ACWeY4RzkbRV5E9u9UNhy/mH8="
         }
       ]
     },
@@ -16917,6 +21409,170 @@
       ]
     },
     {
+      "Route": "img/signin-image.jpg",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\signin-image.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21118"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3SQUZ7EwNk7tDHXPUh4xyNwKk4vwII1Qpvcm3elQsYY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Sep 2018 14:12:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3SQUZ7EwNk7tDHXPUh4xyNwKk4vwII1Qpvcm3elQsYY="
+        }
+      ]
+    },
+    {
+      "Route": "img/signin-image.nbwyz86iqy.jpg",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\signin-image.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21118"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3SQUZ7EwNk7tDHXPUh4xyNwKk4vwII1Qpvcm3elQsYY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Sep 2018 14:12:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nbwyz86iqy"
+        },
+        {
+          "Name": "label",
+          "Value": "img/signin-image.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3SQUZ7EwNk7tDHXPUh4xyNwKk4vwII1Qpvcm3elQsYY="
+        }
+      ]
+    },
+    {
+      "Route": "img/signup-image.jbxipc0ldp.jpg",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\signup-image.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20463"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LyJqLihHGwQ9b3eNmT2zD0jp6xvT6+zj+iUPQ60T2Ng=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Sep 2018 21:49:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jbxipc0ldp"
+        },
+        {
+          "Name": "label",
+          "Value": "img/signup-image.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LyJqLihHGwQ9b3eNmT2zD0jp6xvT6+zj+iUPQ60T2Ng="
+        }
+      ]
+    },
+    {
+      "Route": "img/signup-image.jpg",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\signup-image.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20463"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LyJqLihHGwQ9b3eNmT2zD0jp6xvT6+zj+iUPQ60T2Ng=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Sep 2018 21:49:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LyJqLihHGwQ9b3eNmT2zD0jp6xvT6+zj+iUPQ60T2Ng="
+        }
+      ]
+    },
+    {
       "Route": "img/team/1.eqhbde61sa.jpg",
       "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\img\\team\\1.jpg",
       "Selectors": [],
@@ -17487,6 +22143,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-O82ALp93hJ58HpPIcnn7uwTUWUnSvnmwNWbOrN4psVg="
+        }
+      ]
+    },
+    {
+      "Route": "js/JavaScript.glh1n6p6co.js",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\js\\JavaScript.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "217"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VG5YIVFmledEqGg4ixiW7o3WSUFqcMinpTt0YycIYTA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 12:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "glh1n6p6co"
+        },
+        {
+          "Name": "label",
+          "Value": "js/JavaScript.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VG5YIVFmledEqGg4ixiW7o3WSUFqcMinpTt0YycIYTA="
+        }
+      ]
+    },
+    {
+      "Route": "js/JavaScript.js",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC Mini Project\\Asp.net mini project\\Asp.net mini project\\wwwroot\\js\\JavaScript.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "217"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VG5YIVFmledEqGg4ixiW7o3WSUFqcMinpTt0YycIYTA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 12:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VG5YIVFmledEqGg4ixiW7o3WSUFqcMinpTt0YycIYTA="
         }
       ]
     },

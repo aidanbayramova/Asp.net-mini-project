@@ -1,0 +1,40 @@
+﻿@model AboutCreateVM
+
+<div class="container d-flex justify-content-center align-items-center" style="min-height: 100vh;">
+    <div class="col-xl-10 col-lg-12 tm-md-12 tm-sm-12 tm-col">
+        <div class="bg-white tm-block p-4 rounded shadow">
+            <h2 class="tm-block-title">Create New About</h2>
+
+            <form asp-action="Create" method="post" enctype="multipart/form-data">
+                <div class="form-group">
+                    <label for="Img">Image</label>
+                    <input type="file" class="form-control" id="Img" name="Img" accept="image/*" required />
+                    <span asp-validation-for="Img" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label for="Title">Title</label>
+                    <textarea rows="4" cols="50"
+                              asp-for="Title" class="form-control" id="editor" placeholder="Title..."> 
+                    <span asp-validation-for="Title" class="text-danger"></span>
+                    </textarea>
+                </div>
+                <div class="form-group">
+                    <label for="Desc">Description</label>
+                    <textarea rows="4" cols="50"
+                              asp-for="Description" class="form-control" placeholder="Description..."> 
+                    <span asp-validation-for="Description" class="text-danger"></span>
+                    </textarea>
+                </div>
+
+                <button type="submit" class="btn btn-primary">Create About</button>
+            </form>
+        </div>
+    </div>
+</div>
+<script src="//cdn.ckeditor.com/4.22.1/full/ckeditor.js"></script>
+
+<script>
+    CKEDITOR.replace('editor')
+</script>
+

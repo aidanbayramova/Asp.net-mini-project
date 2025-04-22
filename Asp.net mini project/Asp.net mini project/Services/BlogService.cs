@@ -52,7 +52,7 @@ namespace Asp.net_mini_project.Services
                 }
             }
 
-            await _context.Blogs.AddAsync(newBlog);
+            await _context.Blogs.AddAsync(newBlog); 
             await _context.SaveChangesAsync();
         }
 
@@ -77,21 +77,19 @@ namespace Asp.net_mini_project.Services
             await _context.SaveChangesAsync();
         }
 
+
         public async Task EditAsync(BlogEditVM editVM)
         {
-            var blog = await _context.Blogs.FindAsync(editVM.Id);
-            if (blog == null) throw new Exception("Blog not found");
-
-            blog.Title = editVM.Title;
-            blog.Desc = editVM.Description; 
-            blog.BlogImages = (ICollection<BlogImage>)editVM.Images;
-
-            await _context.SaveChangesAsync();
             var existingBlog = await _context.Blogs
                 .Include(b => b.BlogImages)
                 .FirstOrDefaultAsync(b => b.Id == editVM.Id);
 
-            if (existingBlog == null) return;
+            if (existingBlog == null) throw new Exception("Blog not found");
+
+            existingBlog.Title = editVM.Title;
+            existingBlog.Desc = editVM.Description;
+
+
 
             if (editVM.Images != null && editVM.Images.Count > 0)
             {
@@ -121,10 +119,9 @@ namespace Asp.net_mini_project.Services
                 }
             }
 
-            existingBlog.Title = editVM.Title;
-            existingBlog.Desc = editVM.Description;
             await _context.SaveChangesAsync();
         }
+
 
         public async Task<IEnumerable<BlogVM>> GetAllAsync()
         {

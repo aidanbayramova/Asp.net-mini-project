@@ -4,6 +4,7 @@ using Asp.net_mini_project.Services.Interfaces;
 using Asp.net_mini_project.ViewModels.Admin.Brand;
 using Asp.net_mini_project.ViewModels.Admin.Slider;
 using FiorelloBackendPB103.Helpers.Extensions;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
@@ -20,7 +21,7 @@ namespace Asp.net_mini_project.Areas.Admin.Controllers
             _sliderService = sliderService;
             _env = env;
         }
-
+        [Authorize(Roles = "Admin,SuperAdmin")]
         public async Task<IActionResult> Index()
         {
             var sliders = await _sliderService.GetAllAsync();
@@ -29,12 +30,14 @@ namespace Asp.net_mini_project.Areas.Admin.Controllers
         }
   
         [HttpGet]
+        [Authorize(Roles = "SuperAdmin")]
         public IActionResult Create()
         {
             return View();
         }
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize(Roles = "SuperAdmin")]
         public async Task<IActionResult> Create(SliderCreateVM request)
         {
             if (!ModelState.IsValid)
@@ -60,6 +63,7 @@ namespace Asp.net_mini_project.Areas.Admin.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize(Roles = "SuperAdmin")]
         public async Task<IActionResult> Delete(int? id)
         {
             if (id == null) return BadRequest();
@@ -73,6 +77,7 @@ namespace Asp.net_mini_project.Areas.Admin.Controllers
         }
        
         [HttpGet]
+        [Authorize(Roles = "SuperAdmin")]
         public async Task<IActionResult> Edit(int id)
         {
             var slider = await _sliderService.GetByIdAsync(id);
@@ -88,6 +93,7 @@ namespace Asp.net_mini_project.Areas.Admin.Controllers
         }
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize(Roles = "SuperAdmin")]
         public async Task<IActionResult> Edit(SliderEditVM sliderEditVM)
         {
             //if (!ModelState.IsValid) return View(brandEditVM);
@@ -96,6 +102,7 @@ namespace Asp.net_mini_project.Areas.Admin.Controllers
             return RedirectToAction(nameof(Index));
         }
         [HttpGet]
+        [Authorize(Roles = "SuperAdmin")]
         public async Task<IActionResult> Detail(int? id)
         {
             if (id is null) return BadRequest();

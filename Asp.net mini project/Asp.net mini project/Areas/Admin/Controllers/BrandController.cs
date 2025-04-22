@@ -2,11 +2,13 @@
 using Asp.net_mini_project.Services.Interfaces;
 using Asp.net_mini_project.ViewModels.Admin.Advertisement;
 using Asp.net_mini_project.ViewModels.Admin.Brand;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Asp.net_mini_project.Areas.Admin.Controllers
 {
     [Area("Admin")]
+   
     public class BrandController : Controller
     {
         private readonly IBrandService _brandService;
@@ -15,6 +17,7 @@ namespace Asp.net_mini_project.Areas.Admin.Controllers
         {
             _brandService = brandService;
         }
+        [Authorize(Roles = "Admin,SuperAdmin")]
         public async Task<IActionResult> Index()
         {
             var brand = await _brandService.GetAllAsync();
@@ -28,6 +31,8 @@ namespace Asp.net_mini_project.Areas.Admin.Controllers
 
             return View(model);
         }
+        [Authorize(Roles = "Admin,SuperAdmin")]
+
         public async Task<IActionResult> Detail(int id)
         {
             var brand = await _brandService.GetByIdAsync(id);
@@ -42,7 +47,7 @@ namespace Asp.net_mini_project.Areas.Admin.Controllers
             return View(viewModel);
         }
 
-
+        [Authorize(Roles = "SuperAdmin")]
         public IActionResult Create()
         {
             return View();
@@ -51,6 +56,7 @@ namespace Asp.net_mini_project.Areas.Admin.Controllers
        
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize(Roles = "SuperAdmin")]
         public async Task<IActionResult> Create(BrandCreateVM brandCreateVM)
         {
             if (!ModelState.IsValid) return View();
@@ -59,7 +65,7 @@ namespace Asp.net_mini_project.Areas.Admin.Controllers
             return RedirectToAction(nameof(Index));
         }
 
-       
+        [Authorize(Roles = "SuperAdmin")]
         public async Task<IActionResult> Edit(int id)
         {
             var brand = await _brandService.GetByIdAsync(id);
@@ -77,6 +83,7 @@ namespace Asp.net_mini_project.Areas.Admin.Controllers
       
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize(Roles = "SuperAdmin")]
         public async Task<IActionResult> Edit(BrandEditVM brandEditVM)
         {
             //if (!ModelState.IsValid) return View(brandEditVM);
@@ -88,6 +95,7 @@ namespace Asp.net_mini_project.Areas.Admin.Controllers
  
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize(Roles = "SuperAdmin")]
         public async Task<IActionResult> Delete(int id)
         {
             await _brandService.DeleteAsync(id);

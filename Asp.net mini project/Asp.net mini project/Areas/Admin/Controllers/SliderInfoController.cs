@@ -2,6 +2,7 @@
 using Asp.net_mini_project.Services;
 using Asp.net_mini_project.Services.Interfaces;
 using Asp.net_mini_project.ViewModels.Admin.SliderInfo;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
@@ -18,7 +19,7 @@ namespace Asp.net_mini_project.Areas.Admin.Controllers
             _sliderInfoService = sliderInfoService;
             _env = env;
         }
-
+        [Authorize(Roles = "Admin,SuperAdmin")]
         public async Task<IActionResult> Index()
         {
             var sliderInfos = await _sliderInfoService.GetAllAsync();
@@ -34,6 +35,7 @@ namespace Asp.net_mini_project.Areas.Admin.Controllers
             return View(vmList);
         }
         [HttpGet]
+        [Authorize(Roles = "Admin,SuperAdmin")]
         public IActionResult Create()
         {
             return View();
@@ -41,6 +43,7 @@ namespace Asp.net_mini_project.Areas.Admin.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize(Roles = "SuperAdmin")]
         public async Task<IActionResult> Create(SliderInfoCreateVM request)
         {
             if (!ModelState.IsValid)
@@ -52,6 +55,8 @@ namespace Asp.net_mini_project.Areas.Admin.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
+
+        [Authorize(Roles = "SuperAdmin")]
         public async Task<IActionResult> Delete(int? id)
         {
             if (id == null) return BadRequest();
@@ -64,6 +69,7 @@ namespace Asp.net_mini_project.Areas.Admin.Controllers
             return RedirectToAction(nameof(Index));
         }
         [HttpGet]
+        [Authorize(Roles = "SuperAdmin")]
         public async Task<IActionResult> Edit(int id)
         {
             var sliderInfo = await _sliderInfoService.GetByIdAsync(id);
@@ -81,6 +87,7 @@ namespace Asp.net_mini_project.Areas.Admin.Controllers
         }
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize(Roles = "SuperAdmin")]
         public async Task<IActionResult> Edit(SliderInfoEditVM model)
         {
             if (!ModelState.IsValid) return View(model);
@@ -90,6 +97,7 @@ namespace Asp.net_mini_project.Areas.Admin.Controllers
             return RedirectToAction(nameof(Index));
         }
         [HttpGet]
+        [Authorize(Roles = "Adil,SuperAdmin")]
         public async Task<IActionResult> Detail(int? id)
         {
             if (id is null) return BadRequest();

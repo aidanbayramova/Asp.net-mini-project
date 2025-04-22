@@ -9,7 +9,7 @@ namespace Asp.net_mini_project.Services.Interfaces
         Task DeleteImgAsync(int imageId);
         Task EditAsync(BlogEditVM model);
         Task DeleteAsync(Blog blog);
-        Task<Blog?> GetByIdAsync(int id);
+        Task<Blog> GetByIdAsync(int id);
         Task<IEnumerable<BlogVM>> GetAllAsync();
         Task<BlogDetailVM?> GetDetailAsync(int id);
         Task<BlogEditVM?> GetEditModelAsync(int id);

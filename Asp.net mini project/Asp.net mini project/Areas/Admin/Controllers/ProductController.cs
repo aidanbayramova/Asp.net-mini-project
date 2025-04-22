@@ -1,5 +1,6 @@
 ﻿using Asp.net_mini_project.Services.Interfaces;
 using Asp.net_mini_project.ViewModels.Admin.Product;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 
@@ -22,12 +23,14 @@ namespace Asp.net_mini_project.Areas.Admin.Controllers
         }
 
         [HttpGet]
+        [Authorize(Roles = "Admin,SuperAdmin")]
         public async Task<IActionResult> Index()
         {
             var products = await _productService.GetAllAsync();
             return View(products);
         }
         [HttpGet]
+        [Authorize(Roles = "SuperAdmin")]
         public async Task<IActionResult> Create()
         {
             var categories = await _categoryService.GetAllAsync();
@@ -42,6 +45,7 @@ namespace Asp.net_mini_project.Areas.Admin.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize(Roles = "SuperAdmin")]
         public async Task<IActionResult> Create(ProductCreateVM model)
         {
             if (!ModelState.IsValid)
@@ -62,6 +66,7 @@ namespace Asp.net_mini_project.Areas.Admin.Controllers
             return RedirectToAction(nameof(Index));
         }
         [HttpGet]
+        [Authorize(Roles = "SuperAdmin")]
         public async Task<IActionResult> Edit(int id)
         {
             var product = await _productService.GetByIdAsync(id);
@@ -84,6 +89,7 @@ namespace Asp.net_mini_project.Areas.Admin.Controllers
         }
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize(Roles = "SuperAdmin")]
         public async Task<IActionResult> Edit(ProductEditVM model)
         {
             if (ModelState.IsValid)
@@ -95,6 +101,7 @@ namespace Asp.net_mini_project.Areas.Admin.Controllers
             return View(model);
         }
         [HttpGet]
+        [Authorize(Roles = "Admin,SuperAdmin")]
         public async Task<IActionResult> Detail(int id)
         {
             var product = await _productService.GetDetailAsync(id);
@@ -105,6 +112,7 @@ namespace Asp.net_mini_project.Areas.Admin.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize(Roles = "SuperAdmin")]
         public async Task<IActionResult> Delete(int id)
         {
             var product = await _productService.GetByIdAsync(id);
@@ -114,6 +122,7 @@ namespace Asp.net_mini_project.Areas.Admin.Controllers
             return RedirectToAction(nameof(Index));
         }
         [HttpPost]
+        [Authorize(Roles = "SuperAdmin")]
         public async Task<IActionResult> DeleteImage(int imageId, int productId)
         {
             await _productService.DeleteImageAsync(imageId);
