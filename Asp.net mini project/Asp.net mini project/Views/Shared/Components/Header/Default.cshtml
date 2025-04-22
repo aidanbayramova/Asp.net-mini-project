@@ -32,7 +32,10 @@
                                     <li><a href="#">My Account</a></li>
                                     <li><a href="wishlist.html">Wishlist</a></li>
                                     <li>
-                                        <a href="#" data-toggle="dropdown"><i class="fa fa-shopping-cart"></i><span class="num">2</span></a>
+                                        <a asp-controller="Cart" asp-action="Index">
+                                            <i class="fa fa-shopping-cart"></i>
+                                            <span class="num">2</span>
+                                        </a>
 
                                         <!-- Mini Cart -->
                                         <div class="mini-cart-brief dropdown-menu text-left">

@@ -1,0 +1,41 @@
+﻿@model CustomerEditVM
+
+<div class="container d-flex justify-content-center align-items-center" style="min-height: 100vh;">
+    <div class="col-xl-8 col-lg-10 tm-md-12 tm-sm-12 tm-col">
+        <div class="bg-white tm-block p-4 rounded shadow">
+            <h2 class="tm-block-title text-center">Edit Customer</h2>
+
+            @if (TempData["Error"] != null)
+            {
+                <div class="alert alert-danger">
+                    @TempData["Error"]
+                </div>
+            }
+
+            <form method="post" enctype="multipart/form-data">
+                <input type="hidden" asp-for="Id" />
+
+                <div class="form-group mb-3">
+                    <label asp-for="FullName" class="font-weight-bold">Full Name</label>
+                    <input asp-for="FullName" class="form-control" />
+                    <span asp-validation-for="FullName" class="text-danger"></span>
+                </div>
+
+                <div class="form-group mb-3">
+                    <label class="font-weight-bold">Current Profile Image</label><br />
+                    <img src="~/img/@Model.ProfileImg" alt="Profile Image" class="rounded-circle shadow-sm" style="width: 100px; height: auto;" />
+                </div>
+
+                <div class="form-group mb-3">
+                    <label asp-for="NewProfileImage" class="font-weight-bold">New Profile Image (optional)</label>
+                    <input asp-for="NewProfileImage" class="form-control" type="file" />
+                    <span asp-validation-for="NewProfileImage" class="text-danger"></span>
+                </div>
+
+                <div class="d-flex justify-content-end mt-4">
+                    <button type="submit" class="btn btn-primary">Save Changes</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

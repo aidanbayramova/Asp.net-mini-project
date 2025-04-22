@@ -1,0 +1,32 @@
+﻿@model ReviewCreateVM
+
+<div class="container d-flex justify-content-center align-items-center" style="min-height: 100vh;">
+    <div class="col-xl-8 col-lg-10 tm-md-12 tm-sm-12 tm-col">
+        <div class="bg-white tm-block p-4 rounded shadow">
+            <div class="row mb-4">         
+            </div>
+
+            <form asp-action="Create" method="post">
+                <div asp-validation-summary="All" class="text-danger mb-3"></div>
+
+                <div class="form-group mb-3">
+                    <label asp-for="Comment" class="form-label">Comment</label>
+                    <input asp-for="Comment" class="form-control" />
+                    <span asp-validation-for="Comment" class="text-danger"></span>
+                </div>
+
+                <div class="form-group mb-4">
+                    <label asp-for="CustomerId" class="form-label">Select Customer</label>
+                    <select asp-for="CustomerId" asp-items="Model.Customers" class="form-control">
+                        <option value="">-- Select --</option>
+                    </select>
+                    <span asp-validation-for="CustomerId" class="text-danger"></span>
+                </div>
+                <div class="d-flex justify-content-end">
+                    <button type="submit" class="btn btn-primary me-2">Submit</button>
+                    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

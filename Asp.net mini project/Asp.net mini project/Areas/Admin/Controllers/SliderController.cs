@@ -1,6 +1,7 @@
 ﻿using Asp.net_mini_project.Models;
 using Asp.net_mini_project.Services;
 using Asp.net_mini_project.Services.Interfaces;
+using Asp.net_mini_project.ViewModels.Admin.Brand;
 using Asp.net_mini_project.ViewModels.Admin.Slider;
 using FiorelloBackendPB103.Helpers.Extensions;
 using Microsoft.AspNetCore.Mvc;
@@ -80,17 +81,18 @@ namespace Asp.net_mini_project.Areas.Admin.Controllers
             var model = new SliderEditVM
             {
                 Id = slider.Id,
-               Img = slider.Img
+                Img = slider.Img
             };
 
             return View(model);
         }
-
         [HttpPost]
-        public async Task<IActionResult> Edit(SliderEditVM model)
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Edit(SliderEditVM sliderEditVM)
         {
-            if (!ModelState.IsValid) return View(model);
-            await _sliderService.EditAsync(model);
+            //if (!ModelState.IsValid) return View(brandEditVM);
+
+            await _sliderService.EditAsync(sliderEditVM);
             return RedirectToAction(nameof(Index));
         }
         [HttpGet]

@@ -1,0 +1,28 @@
+﻿
+@model BrandDetailVM
+
+<div class="container mt-5">
+    <div class="col-xl-8 col-lg-10 mx-auto">
+        <div class="bg-white tm-block p-4 rounded shadow">
+            <div class="row mb-4 align-items-center">
+                <div class="col-md-8 col-sm-12">
+                    <h2 class="tm-block-title d-inline-block">Brand Detail</h2>
+                </div>
+                <div class="col-md-4 col-sm-12 text-md-end text-sm-start mt-2 mt-md-0">
+                    <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+                </div>
+            </div>
+
+            <hr />
+
+            <div class="mb-3">
+                <strong>Brand Image:</strong>
+                <div class="mt-2">
+                    <img src="~/img/@Model.Img" alt="Brand Image" class="img-thumbnail" style="max-width: 200px;" />
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="https://kit.fontawesome.com/897e067933.js" crossorigin="anonymous"></script>

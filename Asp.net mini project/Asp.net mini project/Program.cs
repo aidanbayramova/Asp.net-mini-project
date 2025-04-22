@@ -22,7 +22,12 @@ builder.Services.AddScoped<IAdvertisementService, AdvertisementService>();
 builder.Services.AddScoped<ICategoryService, CategoryService>();
 builder.Services.AddScoped<IProductService, ProductService>();
 builder.Services.AddScoped<IAboutService, AboutService>();
-builder.Services.AddScoped<INewsletterService, NewsletterService>(); // Add NewsletterService
+builder.Services.AddScoped<INewsletterService, NewsletterService>();
+builder.Services.AddScoped<IBlogService, BlogService>();
+builder.Services.AddScoped<IBrandService, BrandService>();
+builder.Services.AddScoped<ICustomerService, CustomerService>();
+builder.Services.AddScoped<IReviewService, ReviewService>();
+
 
 var app = builder.Build();
 

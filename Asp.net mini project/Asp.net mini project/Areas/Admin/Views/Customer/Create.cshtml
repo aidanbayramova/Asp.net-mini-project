@@ -1,0 +1,28 @@
+﻿@model CustomerCreateVM
+
+<div class="container d-flex justify-content-center align-items-center" style="min-height: 100vh;">
+    <div class="col-xl-8 col-lg-10 tm-md-12 tm-sm-12 tm-col">
+        <div class="bg-white tm-block p-4 rounded shadow">
+            <h2 class="tm-block-title text-center">Create Customer</h2>
+
+            <form method="post" enctype="multipart/form-data">
+                <div class="form-group mb-3">
+                    <label asp-for="FullName" class="font-weight-bold">Full Name</label>
+                    <input asp-for="FullName" class="form-control" />
+                    <span asp-validation-for="FullName" class="text-danger"></span>
+                </div>
+
+                <div class="form-group mt-3">
+                    <label asp-for="ProfileImageFile" class="font-weight-bold">Profile Image</label>
+                    <input asp-for="ProfileImageFile" class="form-control" type="file" />
+                    <span asp-validation-for="ProfileImageFile" class="text-danger"></span>
+                </div>
+
+                <div class="d-flex justify-content-between mt-4">
+                    <button type="submit" class="btn btn-success">Create</button>
+                    <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

@@ -1,5 +1,4 @@
-﻿@model List<Asp.net_mini_project.Models.Newsletter>
-
+﻿@model Asp.net_mini_project.Models.Newsletter
 <div class="newsletter-section section pt-100 pb-120">
     <div class="container">
         <div class="row">
@@ -11,15 +10,30 @@
 
         <div class="row">
             <div class="text-center col">
-               
+
                 <form asp-controller="Newsletter" asp-action="Subscribe" method="post" class="subscribe-form">
                     <div class="newsletter-input-group">
-                        <input  type="email" name="email" class="email" placeholder="Your email address" required />
-                        <span class="text-danger"></span>
+                        <input asp-for="Email" class="email" placeholder="Your email address" required />
+                        <span asp-validation-for="Email" class="text-danger"></span>
                         <button type="submit" class="button">Subscribe</button>
+                    
                     </div>
                 </form>
+                @if (TempData["Success"] != null)
+                {
+                    <div class="alert alert-success text-center">
+                        @TempData["Success"]
+                    </div>
+                }
+
+                @if (TempData["Error"] != null)
+                {
+                    <div class="alert alert-danger text-center">
+                        @TempData["Error"]
+                    </div>
+                }
             </div>
         </div>
     </div>
 </div>
+<script src="~/js/subscribe.js"></script>

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Asp.net mini project")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7706b14e9c32978a80e40e9f7b88c3abdba340b6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1543558d8d5f29c113fb8248ece3c405a7734021")]
 [assembly: System.Reflection.AssemblyProductAttribute("Asp.net mini project")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Asp.net mini project")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,10 @@
+﻿@model BlogDetailVM
+
+@{
+    ViewData["Title"] = "Blog Detayı";
+}
+
+<h2>@Model.Title</h2>
+<p>@Model.Description</p>
+
+<a href="@Url.Action("Index", "Blog")" class="btn btn-secondary">Geri Dön</a>

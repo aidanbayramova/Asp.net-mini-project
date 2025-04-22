@@ -5,7 +5,10 @@
 
     <form asp-action="Edit" enctype="multipart/form-data">
         <div class="form-group">
-            <label for="Title">Title</label>
+            <label for="Title">Title</label> 
+            <textarea rows="4" cols="50"
+                      asp-for="Title" class="form-control" id="editor" placeholder="Title..."> 
+             </textarea>
             <input type="text" class="form-control" id="Title" name="Title" value="@Model.Title" required />
         </div>
 
@@ -25,3 +28,10 @@
         </form>
     </form>
 </div>
+
+<script src="//cdn.ckeditor.com/4.22.1/full/ckeditor.js"></script>
+
+<script>
+    CKEDITOR.replace('editor')
+</script>
+

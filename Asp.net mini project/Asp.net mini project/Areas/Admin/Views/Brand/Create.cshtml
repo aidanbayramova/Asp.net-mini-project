@@ -1,0 +1,20 @@
+﻿@model BrandCreateVM
+
+<div class="container d-flex justify-content-center align-items-center" style="min-height: 100vh;">
+    <div class="col-xl-10 col-lg-12 tm-md-12 tm-sm-12 tm-col">
+        <div class="bg-white tm-block p-4 rounded shadow">
+            <h2 class="tm-block-title">Create New Brand</h2>
+
+            <form asp-action="Create" method="post" enctype="multipart/form-data">
+                <div class="form-group">
+                    <label for="Img">Image</label>
+                    <input type="file" class="form-control" id="Img" name="Img" accept="image/*" required />
+                </div>
+
+              
+
+                <button type="submit" class="btn btn-primary">Create Brand</button>
+            </form>
+        </div>
+    </div>
+</div>

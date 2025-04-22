@@ -12,7 +12,9 @@ namespace Asp.net_mini_project.Areas.Admin.Controllers
         private readonly ICategoryService _categoryService;
         private readonly IWebHostEnvironment _env;
 
-        public ProductController(IProductService productService, ICategoryService categoryService, IWebHostEnvironment env)
+        public ProductController(IProductService productService, 
+                                 ICategoryService categoryService,
+                                 IWebHostEnvironment env)
         {
             _productService = productService;
             _categoryService = categoryService;
@@ -48,20 +50,17 @@ namespace Asp.net_mini_project.Areas.Admin.Controllers
                 return View(model);
             }
 
-            var categoryExist = await _categoryService.GetByIdAsync(model.CategoryId);
+           var categoryExist = await _categoryService.GetByIdAsync(model.CategoryId);
             if (categoryExist == null)
             {
                 ModelState.AddModelError("CategoryId", "Invalid category selected.");
                 ViewBag.Categories = new SelectList(await _categoryService.GetAllAsync(), "Id", "Name", model.CategoryId);
                 return View(model);
-            }
-
-           
+            }           
             await _productService.CreateAsync(model);
 
             return RedirectToAction(nameof(Index));
         }
-
         [HttpGet]
         public async Task<IActionResult> Edit(int id)
         {
@@ -70,7 +69,6 @@ namespace Asp.net_mini_project.Areas.Admin.Controllers
             {
                 return NotFound();
             }
-
             ViewBag.Categories = new SelectList(await _categoryService.GetAllAsync(), "Id", "Name", product.CategoryId);
             var model = new ProductEditVM
             {
@@ -84,7 +82,6 @@ namespace Asp.net_mini_project.Areas.Admin.Controllers
 
             return View(model);
         }
-
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Edit(ProductEditVM model)
@@ -94,7 +91,6 @@ namespace Asp.net_mini_project.Areas.Admin.Controllers
                 await _productService.EditAsync(model);
                 return RedirectToAction("Index");
             }
-
             ViewBag.Categories = new SelectList(await _categoryService.GetAllAsync(), "Id", "Name", model.CategoryId);
             return View(model);
         }

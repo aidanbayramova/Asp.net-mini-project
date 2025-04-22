@@ -1,4 +1,5 @@
-﻿<!-- Banner Section Start-->
+﻿@model IEnumerable<Advertisement>
+
 <div class="banner-section section pt-120">
     <div class="container">
         <div class="row">
@@ -6,27 +7,24 @@
             <div class="col-lg-6 col-12 mb-30">
 
                 <div class="single-banner">
-                    <img src="~/img/banner/1.jpg" alt="banner">
+                    <img src="/img/@Model.FirstOrDefault().Img" alt="banner">
                     <div class="banner-content right">
-                        <h1 class="white"><span>Gifts</span>Christmas</h1>
+                        <h1 class="white">@Html.Raw(Model.FirstOrDefault().Title)</h1>
                         <a href="#" class="button">Shop Now</a>
                     </div>
                 </div>
 
             </div>
-
             <div class="col-lg-6 col-12 mb-30">
-
                 <div class="single-banner">
-                    <img src="~/img/banner/2.jpg" alt="banner">
+                    <img src="/img/@Model.LastOrDefault().Img" alt="banner">
                     <div class="banner-content left">
-                        <h2 class="black"><span class="small">Save <span class="red">25%</span></span><span class="red">Offer</span> Christmas</h2>
+                        <h2 class="black">@Html.Raw(Model.LastOrDefault().Title)</h2>
                         <a href="#" class="link">Shop Now</a>
                     </div>
                 </div>
 
             </div>
-
         </div>
     </div>
 </div>
