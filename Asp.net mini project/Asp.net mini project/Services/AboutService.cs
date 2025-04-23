@@ -25,7 +25,7 @@ namespace Asp.net_mini_project.Services
                     Id = a.Id,
                     Title = a.Title,
                     Description = a.Description,
-                    Img = a.Image
+                    Img = a.Image,
                 })
                 .ToListAsync();
         }
@@ -111,7 +111,8 @@ namespace Asp.net_mini_project.Services
                 Id = about.Id,
                 Title = about.Title,
                 Description = about.Description,
-                Img = about.Image
+                Img = about.Image,
+                VideoUrl = about.VideoUrl,
             };
         }
     }

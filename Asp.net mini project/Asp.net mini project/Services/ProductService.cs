@@ -52,6 +52,7 @@ namespace Asp.net_mini_project.Services
                 CategoryName = product.Category.Name,
                 ProductImgs = product.ProductImgs,
                 CreateDate = DateTime.Now,
+                Desc = product.Desc
             };
         }
 

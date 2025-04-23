@@ -83,6 +83,7 @@ namespace Asp.net_mini_project.Areas.Admin.Controllers
                 Desc = product.Desc,
                 CategoryId = product.CategoryId,
                 
+                
             };
 
             return View(model);

@@ -21,11 +21,11 @@ namespace Asp.net_mini_project.ViewComponents.Home
             IEnumerable<ProductVM> products = await _productService.GetAllAsync();
             IEnumerable<CategoryVM> categories = await _categoryService.GetAllAsync();
             return await Task.FromResult(View(new ProductVMVC { Categories = categories, Products = products }));
-        }
-        public class ProductVMVC
-        {
-            public IEnumerable<ProductVM> Products { get; set; }
-            public IEnumerable<CategoryVM> Categories { get; set; }
-        }
+        }      
+    }
+    public class ProductVMVC
+    {
+        public IEnumerable<ProductVM> Products { get; set; }
+        public IEnumerable<CategoryVM> Categories { get; set; }
     }
 }

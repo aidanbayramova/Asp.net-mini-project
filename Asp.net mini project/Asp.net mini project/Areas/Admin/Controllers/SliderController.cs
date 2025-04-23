@@ -43,11 +43,11 @@ namespace Asp.net_mini_project.Areas.Admin.Controllers
             if (!ModelState.IsValid)
                 return View(request);
 
-            if (request.Image.CheckFilesSize(200))
-            {
-                ModelState.AddModelError("Image", "Image size must be max 200KB");
-                return View(request);
-            }
+            //if (request.Image.CheckFilesSize(1000))
+            //{
+            //    ModelState.AddModelError("Image", "Image size must be max 1000KB");
+            //    return View(request);
+            //}
 
             if (!request.Image.CheckFileType("image/"))
             {

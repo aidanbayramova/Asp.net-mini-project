@@ -1,0 +1,77 @@
+﻿@model List<BasketProductVM>
+
+<div class="cart-section section pt-120 pb-90" id="cart-page">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <div class="card"></div>
+                <div class="table-responsive mb-30">
+                    <table class="table cart-table text-center" style="margin-top:7pc;">
+
+                        <!-- Table Head -->
+                        <thead>
+                            <tr>
+                                <th class="image">image</th>
+                                <th class="name">product name</th>
+                                <th class="qty">quantity</th>
+                                <th class="price">price</th>
+                                <th class="total">Category</th>
+                                <th class="remove">remove</th>
+                            </tr>
+                        </thead>
+
+                        <!-- Table Body -->
+                        <tbody>
+                            @foreach (var item in Model)
+                            {
+                                <tr>
+                                    <td><a href="#" class="cart-pro-image"><img src="@item.Img" alt="" /></a></td>
+                                    <td><a href="#" class="cart-pro-title">@item.Name</a></td>
+                                    <td>
+                                        <div class="product-quantity">
+                                            <input type="text" value="@item.Count" name="qtybox">
+                                        </div>
+                                    </td>
+                                    <td><p class="cart-pro-price"> @item.Price</p></td>
+                                    <td><p>@item.CategoryName</p></td>
+                                    <td>
+                                        <button class="cart-pro-remove" data-id="@item.Product.Id">
+                                            <i class="fa fa-trash-o"></i>
+                                        </button>
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+
+                <div class="row">
+
+                    <!-- Cart Action -->
+                    <div class="cart-action col-lg-4 col-md-6 col-12 mb-30">
+                        <a href="#" class="button">Continiue Shopping</a>
+                        <button class="button">update cart</button>
+                    </div>
+
+                    <!-- Cart Cuppon -->
+                    <div class="cart-cuppon col-lg-4 col-md-6 col-12 mb-30">
+                        <h4 class="title">Discount Code</h4>
+                        <p>Enter your coupon code if you have</p>
+                        <form action="#" class="cuppon-form">
+                            <input type="text" placeholder="Cuppon Code">
+                            <button class="button">apply coupon</button>
+                        </form>
+                    </div>
+
+                    <!-- Cart Checkout Progress -->
+                    <div class="cart-checkout-process col-lg-4 col-md-6 col-12 mb-30">
+                        <h4 class="title">Process Checkout</h4>
+                        <h5><span>Total:</span> <span class="total-price text-info">@ViewBag.totalPrice</span>$</h5>
+                        <button class="button">process to checkout</button>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+    </div>

@@ -50,7 +50,7 @@
 
                                     @if (User.Identity.IsAuthenticated && User.IsInRole("SuperAdmin"))
                                     {
-                                        <form class="d-inline" asp-area="Admin" asp-controller="Category" asp-action="Delete" asp-route-id="@item.Id" method="post" onsubmit="return confirm('Are you sure you want to delete this category?');">
+                                        <form class="d-inline" asp-area="Admin" asp-controller="Advertisement" asp-action="Delete" asp-route-id="@item.Id" method="post" onsubmit="return confirm('Are you sure you want to delete this Advertisement?');">
                                             <button type="submit" class="btn" style="background: transparent; border: none; padding: 0; outline: none; box-shadow: none;">
                                                 <i class="fas fa-trash-alt text-danger" style="cursor: pointer; font-size: 25px;"></i>
                                             </button>

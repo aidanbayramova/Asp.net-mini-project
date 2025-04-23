@@ -17,6 +17,7 @@ namespace Asp.net_mini_project.Data
         public DbSet<Customer> Customers { get; set; }
         public DbSet<Review> Reviews { get; set; }
         public DbSet<About> Abouts { get; set; }
+        public DbSet<Team> Teams { get; set; }
         public DbSet<Newsletter> Newsletters { get; set; }
         public DbSet<Blog> Blogs { get; set; }
         public DbSet<BlogImage> BlogImages { get; set; }
