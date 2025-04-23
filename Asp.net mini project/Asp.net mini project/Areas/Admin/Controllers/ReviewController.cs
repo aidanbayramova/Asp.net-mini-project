@@ -8,7 +8,6 @@ namespace Asp.net_mini_project.Areas.Admin.Controllers
 {
   
         [Area("Admin")]
-
         public class ReviewController : Controller
         {
             private readonly IReviewService _reviewService;

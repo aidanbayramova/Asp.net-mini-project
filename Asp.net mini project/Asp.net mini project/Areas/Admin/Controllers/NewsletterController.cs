@@ -8,7 +8,6 @@ using Microsoft.EntityFrameworkCore;
 namespace Asp.net_mini_project.Areas.Admin.Controllers
 {
     [Area("Admin")]
-
     public class NewsletterController : Controller
     {
         private readonly INewsletterService _newsletterService;

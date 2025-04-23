@@ -117,6 +117,7 @@
     <script src="~/admin/js/bootstrap.min.js"></script>
     <!-- https://getbootstrap.com/ -->
     <script src="~/admin/js/tooplate-scripts.js"></script>
+
     <script>
         let ctxLine,
             ctxBar,
@@ -129,13 +130,13 @@
             configPie,
             lineChart;
         barChart, pieChart;
-        // DOM is ready
+  
         $(function () {
             updateChartOptions();
-            drawLineChart(); // Line Chart
-            drawBarChart(); // Bar Chart
-            drawPieChart(); // Pie Chart
-            drawCalendar(); // Calendar
+            drawLineChart();
+            drawBarChart(); 
+            drawPieChart(); 
+            drawCalendar(); 
 
             $(window).resize(function () {
                 updateChartOptions();

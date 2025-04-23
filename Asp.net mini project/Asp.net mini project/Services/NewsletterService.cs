@@ -13,8 +13,6 @@ namespace Asp.net_mini_project.Services
         {
             _context = context;
         }
-
-
         public async Task AddAsync(string email)
         {
             if (!string.IsNullOrWhiteSpace(email))

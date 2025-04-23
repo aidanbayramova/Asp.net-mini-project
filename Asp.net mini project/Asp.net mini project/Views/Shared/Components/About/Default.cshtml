@@ -1,10 +1,8 @@
-﻿@using Asp.net_mini_project.ViewModels.Admin.About
-@model IEnumerable<AboutVM>
+﻿@model IEnumerable<AboutVM>
 <div class="about-section section pt-120 pb-90">
     <div class="container">
         <div class="row flex-row-reverse">
 
-            <!-- About Image -->
             <div class="about-image col-lg-6 col-12 mb-30">
                @foreach (var item in Model)
                 {
@@ -12,7 +10,7 @@
                 }
             </div>
 
-            <!-- Mission Content -->
+          
             <div class="about-content col-lg-6 col-12 mb-30">
                 @foreach (var item in Model)
                 {
@@ -20,11 +18,9 @@
                     <h2>@Html.Raw(item.Title)</h2>
                     <p>@item.Description</p>
                 }
-               
-              
+
                 <a href="#" class="button">Shop Now</a>
             </div>
-
         </div>
     </div>
 </div>

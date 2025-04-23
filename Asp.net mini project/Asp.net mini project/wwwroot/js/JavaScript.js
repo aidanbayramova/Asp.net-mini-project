@@ -5,4 +5,4 @@
     } else {
         input.type = "password";
     }
-}
+} 

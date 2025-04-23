@@ -12,6 +12,7 @@ namespace Asp.net_mini_project.ViewModels.Admin.Product
         [Required]
         public string Desc { get; set; }
         public int CategoryId { get; set; }
+        [Required]
         public List<IFormFile>? Images { get; set; }
         public List<ProductImageVM> ExistingImages { get; set; } = new();
         public int? MainImageId { get; set; }

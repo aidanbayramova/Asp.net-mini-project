@@ -74,6 +74,8 @@ wwwroot\fonts\ionicons28b5.ttf
 wwwroot\fonts\ionicons28b5.woff
 wwwroot\img\010603a6-cb04-46ca-8756-edd6304654f0-h1-custom-icon.png
 wwwroot\img\0333c274-3eb8-4838-a0e2-e66c65420fe2.png
+wwwroot\img\0a55f755-f24a-4d0c-9c64-786738fa2153.jpg
+wwwroot\img\0b7e2d8d-9ec2-4158-ad60-9e8d40103076.jpg
 wwwroot\img\0dca78f4-fa7b-44b1-a612-d73692fa1c44.png
 wwwroot\img\1.jpg
 wwwroot\img\124033c8-6769-40ed-a77c-781139c7cef8.jpg
@@ -103,6 +105,7 @@ wwwroot\img\4af1c819-ab74-4d91-9b3d-f69199123115.jpg\4af1c819-ab74-4d91-9b3d-f69
 wwwroot\img\4bf87be0-d09a-4c7a-8f94-4fac87f7035d.jpg
 wwwroot\img\4f1cf17b-5228-41c2-bd5d-f7b6d98ae727.jpg
 wwwroot\img\513880cc-dc5a-4e02-a681-e54f61444c4e.jpg
+wwwroot\img\59dcb411-9d72-41b4-83e6-16f9ddbe10d5.jpg
 wwwroot\img\5edec632-1087-406e-8aa7-66be6266c56a.jpg
 wwwroot\img\618c099d-c148-46b8-994f-5b50e851e2af.png
 wwwroot\img\65915e77-0df4-4824-913b-9ce4b8b7d407.jpg
@@ -117,10 +120,12 @@ wwwroot\img\7b44e372-490d-49fe-9f47-28739e8e9bf1.png
 wwwroot\img\7ce0df80-4a69-439b-b9c8-c0601ae66c78.jpg
 wwwroot\img\83e02961-d476-4cdb-97a7-daf5fcf1e4ec.jpg
 wwwroot\img\860fea35-bcb1-4923-84b1-2aa914636f6a.jpg
+wwwroot\img\876d665c-9ce9-42df-b658-f188424c4a03-2.jpg
 wwwroot\img\8a7ce07f-5057-4b0e-94b2-dcf541a3d7cd.jpg
 wwwroot\img\8bea42f2-9333-4fe2-97d1-8c493667bf70.jpg
 wwwroot\img\9087fba3-6278-4341-ad1a-5b4ef2461a0f.jpg
 wwwroot\img\920e2d2d-ca74-4e06-b861-53e7da7abcd6.png
+wwwroot\img\95dd3f83-ab8c-4bbc-b1f3-d18b3367b569.jpg
 wwwroot\img\9dd2e2ce-3d88-4ccc-b684-05f0fe4a30c7.jpg
 wwwroot\img\9f710684-10e7-4e8e-8454-ade05aa2407b.jpg
 wwwroot\img\a2cafe2d-4714-45da-8d90-873af67c2e78.jpg
@@ -157,6 +162,8 @@ wwwroot\img\c9bd7341-cf62-47e3-9265-9e9beef97bd9.jpg
 wwwroot\img\cart\1.jpg
 wwwroot\img\cart\2.jpg
 wwwroot\img\cc2adf65-4e75-4513-8a82-ad40feffe1cb.jpg
+wwwroot\img\chiristmas2.jpg
+wwwroot\img\christmas.jpg
 wwwroot\img\client\1.png
 wwwroot\img\client\2.png
 wwwroot\img\client\3.png
@@ -189,6 +196,7 @@ wwwroot\img\favicon.ico
 wwwroot\img\favicon.png
 wwwroot\img\ff630bca-1bf8-4c83-ba5f-7d9fe226e890.jpg
 wwwroot\img\footer-logo.png
+wwwroot\img\hello.jpg
 wwwroot\img\hero\1.jpg
 wwwroot\img\hero\2.jpg
 wwwroot\img\icon\select-arrow-down.png
@@ -212,6 +220,7 @@ wwwroot\img\section-title-bg.png
 wwwroot\img\sidebar-post-1.jpg
 wwwroot\img\signin-image.jpg
 wwwroot\img\signup-image.jpg
+wwwroot\img\snow man.jpg
 wwwroot\img\team\1.jpg
 wwwroot\img\team\2.jpg
 wwwroot\img\team\3.jpg

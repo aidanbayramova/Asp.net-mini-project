@@ -5,8 +5,7 @@ using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Asp.net_mini_project.Areas.Admin.Controllers
-{
-   
+{   
         [Area("Admin")]
 
         public class CustomerController : Controller
@@ -88,9 +87,9 @@ namespace Asp.net_mini_project.Areas.Admin.Controllers
 
                 if (request.NewProfileImage != null)
                 {
-                    if (request.NewProfileImage.CheckFilesSize(200))
+                    if (request.NewProfileImage.CheckFilesSize(1000))
                     {
-                        ModelState.AddModelError("NewProfileImage", "Image size must be max 200KB");
+                        ModelState.AddModelError("NewProfileImage", "Image size must be max 100KB");
                         return View(request);
                     }
 

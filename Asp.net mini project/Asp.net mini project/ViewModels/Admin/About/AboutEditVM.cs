@@ -11,6 +11,7 @@ namespace Asp.net_mini_project.ViewModels.Admin.About
         public string Description { get; set; }
         [Required]
         public string VideoUrl { get; set; }
+        [Required]
         public string Img { get; set; }
         public IFormFile NewImg { get; set; }
     }

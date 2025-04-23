@@ -8,7 +8,9 @@ namespace Asp.net_mini_project.ViewModels.Admin.Team
         public string FullName { get; set; }
         [Required]
         public string Position { get; set; }
+        [Required]
         public string Img { get; set; }
+        [Required]
         public IFormFile NewImg { get; set; }
     }
 }

@@ -26,6 +26,12 @@
                     <span asp-validation-for="Description" class="text-danger"></span>
                     </textarea>
                 </div>
+                <div class="form-group mb-3">
+                    <label style="color:white;" asp-for="VideoUrl" class="font-weight-bold">Video URL</label>
+                    <input asp-for="VideoUrl" class="form-control" id="VideoUrl" />
+                    <span asp-validation-for="VideoUrl" class="text-danger"></span>
+                    <a id="videoLink" href="#" target="_blank" style="display:none;">Open Video</a>
+                </div>
 
                 <button type="submit" class="btn btn-primary">Create About</button>
             </form>
@@ -37,4 +43,3 @@
 <script>
     CKEDITOR.replace('editor')
 </script>
-

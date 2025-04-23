@@ -23,7 +23,6 @@ namespace Asp.net_mini_project.Services
             return await _context.Advertisements.AsNoTracking().ToListAsync();
 
         }
-
         public async Task CreateAsync(AdvertisementCreateVM request)
         {
           

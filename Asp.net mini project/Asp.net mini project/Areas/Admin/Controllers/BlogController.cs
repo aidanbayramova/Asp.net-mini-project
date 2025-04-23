@@ -8,9 +8,8 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Asp.net_mini_project.Areas.Admin.Controllers
 {
-
         [Area("Admin")]
-    public class BlogController : Controller
+        public class BlogController : Controller
         {
             private readonly IBlogService _blogService;
             private readonly IWebHostEnvironment _webHostEnv;

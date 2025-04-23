@@ -1,6 +1,7 @@
 ﻿using Asp.net_mini_project.Models;
 using Asp.net_mini_project.Services.Interfaces;
 using Asp.net_mini_project.ViewModels.Admin.Team;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
@@ -15,7 +16,7 @@ namespace Asp.net_mini_project.Areas.Admin.Controllers
         {
             _teamService = teamService;
         }
-
+        [Authorize(Roles = "Admin,SuperAdmin")]
         public async Task<IActionResult> Index()
         {
             var teams = await _teamService.GetAllAsync();  
@@ -29,6 +30,7 @@ namespace Asp.net_mini_project.Areas.Admin.Controllers
 
             return View(teamVMs);
         }
+        [Authorize(Roles = "Admin,SuperAdmin")]
         public async Task<IActionResult> Detail(int id)
         {
             var team = await _teamService.GetByIdAsync(id);
@@ -46,6 +48,7 @@ namespace Asp.net_mini_project.Areas.Admin.Controllers
 
             return View(model);
         }
+        [Authorize(Roles = "SuperAdmin")]
         public IActionResult Create()
         {
             return View();
@@ -63,6 +66,7 @@ namespace Asp.net_mini_project.Areas.Admin.Controllers
         }
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize(Roles = "SuperAdmin")]
         public async Task<IActionResult> Delete(int id)
         {
             try
@@ -77,6 +81,7 @@ namespace Asp.net_mini_project.Areas.Admin.Controllers
 
             return RedirectToAction(nameof(Index));
         }
+        [Authorize(Roles = "SuperAdmin")]
         public async Task<IActionResult> Edit(int id)
         {
             var team = await _teamService.GetByIdAsync(id);
@@ -94,6 +99,7 @@ namespace Asp.net_mini_project.Areas.Admin.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize(Roles = "SuperAdmin")]
         public async Task<IActionResult> Edit(int id, TeamEditVM model)
         {
             if (!ModelState.IsValid) return View(model);

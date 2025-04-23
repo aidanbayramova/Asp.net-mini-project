@@ -1,16 +1,9 @@
-﻿  @model HeaderVM
-   
-<!-- Main Wrapper Start -->
-<!-- Header Section Start -->
+﻿  @model HeaderVM   
 <div class="header-section section">
-
-    <!-- Header Top Start -->
     <div class="header-top">
         <div class="container">
             <div class="row">
                 <div class="col">
-
-                    <!-- Header Top Wrapper Start -->
                     <div class="header-top-wrapper">
                         <div class="row">
 
@@ -69,7 +62,7 @@
                                         });
                                     </script>
 
-                                    <li><a href="wishlist.html">Wishlist</a></li>
+                                    
                                     <li class="nav-item my-auto shop-cart">
                                         <a asp-controller="Basket" asp-action="Index" class="fas fa-shopping-bag"></a>
                                         <sup class=" basket-count rounded-circle">@Model.ProductCountOfBasket</sup>
@@ -203,218 +196,7 @@
             </div>
         </div>
     </div>
-    <!-- Header Bottom End -->
+
 </div> 
 <!-- Header Section End -->
 
-
-
-
-
-
-
-
-
-
-<!-- Main Wrapper Start -->
-<!-- Header Section Start -->
-@* <div class="header-section section">
-
-    <!-- Header Top Start -->
-    <div class="header-top">
-        <div class="container">
-            <div class="row">
-                <div class="col">
-
-                    <!-- Header Top Wrapper Start -->
-                    <div class="header-top-wrapper">
-                        <div class="row">
-
-                            <!-- Header Social -->
-                            <div class="header-social col-md-4 col-12">
-                                <a href="#"><i class="fa fa-facebook"></i></a>
-                                <a href="#"><i class="fa fa-twitter"></i></a>
-                                <a href="#"><i class="fa fa-linkedin"></i></a>
-                                <a href="#"><i class="fa fa-instagram"></i></a>
-                                <a href="#"><i class="fa fa-pinterest-p"></i></a>
-                            </div>
-
-                            <!-- Header Logo -->
-                            <div class="header-logo col-md-4 col-12">
-                                <a href="index.html" class="logo"><img src="~/img/logo.png" alt="logo"></a>
-                            </div>
-
-                            <!-- Account Menu -->
-                            <div class="account-menu col-md-4 col-12">
-                                <ul>
-                                    <li class="nav-item" style="position: relative;">
-                                        <a class="nav-link" href="#" onclick="toggleDropdown(event)">Account ▼</a>
-                                        <ul id="accountDropdown" class="list-unstyled py-3 elements" style="display: none; position: absolute; background: white; z-index: 999; padding: 10px; border: 1px solid #ccc; border-radius: 5px;">
-                                            @if (User.Identity.IsAuthenticated)
-                                            {
-                                                <li style="text-align: center;">
-                                                    <span>@User.Identity.Name</span>
-                                                    <form method="post" asp-controller="Account" asp-action="Logout">
-                                                        <button type="submit" class="btn btn-dark mt-2">Logout</button>
-                                                    </form>
-                                                </li>
-                                            }
-                                            else
-                                            {
-                                                <li><a asp-controller="Account" asp-action="Login">Login</a></li>
-                                                <li><a asp-controller="Account" asp-action="Register">Register</a></li>
-                                            }
-                                        </ul>
-                                    </li>
-
-                                    <script>
-                                        function toggleDropdown(event) {
-                                            event.preventDefault();
-                                            const dropdown = document.getElementById("accountDropdown");
-                                            dropdown.style.display = (dropdown.style.display === "none" || dropdown.style.display === "") ? "block" : "none";
-                                        }
-
-
-                                        document.addEventListener("click", function (e) {
-                                            const target = e.target;
-                                            const dropdown = document.getElementById("accountDropdown");
-                                            const link = document.querySelector(".nav-link");
-                                            if (!link.contains(target) && !dropdown.contains(target)) {
-                                                dropdown.style.display = "none";
-                                            }
-                                        });
-                                    </script>
-
-                                    <li><a href="wishlist.html">Wishlist</a></li>
-                                    <li>
-                                        <a asp-controller="Basket" asp-action="Index">
-                                            <i class="fa fa-shopping-cart"></i>
-                                            <span class="num">@Model.ProductCountOfBasket</span>
-                                        </a>
-
-                                        <!-- Mini Cart -->
-                                        <div class="mini-cart-brief dropdown-menu text-left">
-                                            <!-- Cart Products -->
-                                            <div class="all-cart-product clearfix">
-                                                <div class="single-cart clearfix">
-                                                    <div class="cart-image">
-                                                        <a href="product-details.html"><img src="~/img/cart/1.jpg" alt=""></a>
-                                                    </div>
-                                                    <div class="cart-info">
-                                                        <h5><a href="product-details.html">Holiday Candle</a></h5>
-                                                        <p>1 x £9.00</p>
-                                                        <a href="#" class="cart-delete" title="Remove this item"><i class="fa fa-trash-o"></i></a>
-                                                    </div>
-                                                </div>
-                                                <div class="single-cart clearfix">
-                                                    <div class="cart-image">
-                                                        <a href="product-details.html"><img src="~/img/cart/2.jpg" alt=""></a>
-                                                    </div>
-                                                    <div class="cart-info">
-                                                        <h5><a href="product-details.html">Christmas Tree</a></h5>
-                                                        <p>1 x £9.00</p>
-                                                        <a href="#" class="cart-delete" title="Remove this item"><i class="fa fa-trash-o"></i></a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <!-- Cart Total -->
-                                            <div class="cart-totals">
-                                                <h5>Total <span>£12.00</span></h5>
-                                            </div>
-                                            <!-- Cart Button -->
-                                            <div class="cart-bottom  clearfix">
-                                                <a href="checkout.html">Check out</a>
-                                            </div>
-                                        </div>
-
-                                    </li>
-                                </ul>
-                            </div>
-
-                        </div>
-                    </div><!-- Header Top Wrapper End -->
-
-                </div>
-            </div>
-        </div>
-    </div><!-- Header Top End -->
-    <!-- Header Bottom Start -->
-    <div class="header-bottom section">
-        <div class="container">
-            <div class="row">
-
-                <!-- Header Bottom Wrapper Start -->
-                <div class="header-bottom-wrapper text-center col">
-
-                    <!-- Header Bottom Logo -->
-                    <div class="header-bottom-logo">
-                        <a href="index.html" class="logo"><img src="~/img/logo.png" alt="logo"></a>
-                    </div>
-
-                    <!-- Main Menu -->
-                    <nav id="main-menu" class="main-menu">
-                        <ul>
-                            <li class="active"><a asp-controller="Home" asp-action="Index">home</a></li>
-                            <li>
-                                <a asp-controller="Shop" asp-action="Index">shop</a>
-                                <ul class="sub-menu">
-                                    <li><a asp-controller="Shop" asp-action="Index">shop page</a></li>
-                                    <li><a asp-controller="ProductDetail" asp-action="Index">product details</a></li>
-                                </ul>
-                            </li>
-                            <li><a asp-controller="About" asp-action="Index">about</a></li>
-                            <li>
-                                <a href="#">pages</a>
-                                <ul class="sub-menu">
-                                    <li><a asp-controller="Cart" asp-action="Index">cart</a></li>
-                                    <li><a asp-controller="Checkout" asp-action="Index">checkout</a></li>
-                                    <li><a asp-controller="Wishlist" asp-action="Index">wishlist</a></li>
-                                    <li><a asp-controller="UnderConstruction" asp-action="Index">Under Construction</a></li>
-                                </ul>
-                            </li>
-                            <li>
-                                <a asp-controller="Blog" asp-action="Index">blog</a>
-                                <ul class="sub-menu">
-                                    <li><a asp-controller="Blog" asp-action="Index">blog page</a></li>
-                                    <li><a asp-controller="BlogDetail" asp-action="Index">blog details</a></li>
-                                </ul>
-                            </li>
-                            <li><a asp-controller="Contact" asp-action="Index">contact</a></li>
-                            <li class="nav-item">
-                                @if (User.Identity.IsAuthenticated && (User.IsInRole("SuperAdmin") || User.IsInRole("Admin")))
-                                {
-                                    <a class="nav-link" asp-area="Admin" asp-controller="Dashboard" asp-action="Index">Admin</a>
-                                }
-
-
-                            </li>
-                        </ul>
-                    </nav>
-
-                    <!-- Header Search -->
-                    <div class="header-search">
-
-                        <!-- Search Toggle -->
-                        <button class="search-toggle"><i class="ion-ios-search-strong"></i></button>
-
-                        <!-- Search Form -->
-                        <div class="header-search-form">
-                            <form action="#">
-                                <input type="text" placeholder="Search...">
-                                <button><i class="ion-ios-search-strong"></i></button>
-                            </form>
-                        </div>
-
-                    </div>
-
-                    <!-- Mobile Menu -->
-                    <div class="mobile-menu section d-md-none"></div>
-
-                </div><!-- Header Bottom Wrapper End -->
-
-            </div>
-        </div>
-    </div>
-    <!-- Header Bottom End -->
-</div> *@
-<!-- Header Section End -->

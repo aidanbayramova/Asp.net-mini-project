@@ -17,7 +17,6 @@ namespace Asp.net_mini_project.Services
             _env = env;
         }
 
-
         public async Task<IEnumerable<SliderInfo>> GetAllAsync()
         {
             return await _context.SliderInfos.AsNoTracking().ToListAsync();
